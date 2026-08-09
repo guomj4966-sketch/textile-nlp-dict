@@ -6,6 +6,7 @@
 [![Terms](https://img.shields.io/badge/词条-4,701-green)](textile_dict/data/lexicon_v2.yaml)
 [![Python](https://img.shields.io/badge/Python-≥3.10-blue)](pyproject.toml)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
+[![Gitee](https://img.shields.io/badge/Gitee-tom--hj%2Ftextile--nlp--dict-red)](https://gitee.com/tom-hj/textile-nlp-dict)
 
 ---
 
