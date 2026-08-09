@@ -1,0 +1,2 @@
+{"term": "HS编码自动提取（批量）", "verdict": "拒绝", "comment": "移除了166条碎片/低质术语（切分错误/不完整词/过短/非纺织）", "corrected_definition": "", "review_date": "2026-08-09", "timestamp": "2026-08-09T14:14:21.593671"}
+{"term": "OCR噪声（批量）", "verdict": "修正", "comment": "修正9条含噪声术语定义（功能性服装/茄克衫/羽绒裤/化学循环再利用纤维等）", "corrected_definition": "人工修正", "review_date": "2026-08-09", "timestamp": "2026-08-09T14:14:21.593686"}
