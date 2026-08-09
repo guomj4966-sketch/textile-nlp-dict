@@ -1,0 +1,548 @@
+[
+  {
+    "term": "本文件由全国纺织机械与附件标准化技术委员会(",
+    "english": "SAC/TC215)归口。",
+    "definition": "本文件起草单位:浙江精工集成科技股份有限公司、新创碳谷集团有限公司、威海光威精密机械有限公司、西安富瑞达科技发展有限公司、恒天重工股份有限公司、吉林化纤集团有限责任公司、现代纺织技术创新中心(鉴湖实验室)、浙江方正轻纺机械检测中心有限公司、浙江万利碳纤维智能装备有限公司、湖州现代纺织机械有限公司、东华大学、中国化学纤维工业协会、中国纺织机械协会。本文件主要起草人:侯曦、叶贺、李姝佳、吴震宇、孙国君、谈源、胡弘波、姜元虎、李瑞霞、傅建根、周香琴、刘永华、吕佳滨、张志军、王海平、袁海萍、任捷、鲁明、乔志红、韦斌、于明兴、吕山、杨志、毛亚东、白贤荣。Ⅰ",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "原丝",
+    "english": "polyacrylonitrileprecursor",
+    "definition": "用于碳化生产的聚丙烯腈纤维。[来源:GB/T40724—2021,3.3,有修改]3.1.2",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "预氧丝",
+    "english": "pre-oxidizedfiber",
+    "definition": "原丝(3.1.1)经预氧化(3.4.4)处理后制得的纤维。[来源:GB/T40724—2021,3.20,有修改]3.1.",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "碳纤维",
+    "english": "carbonfiber",
+    "definition": "预氧丝(3.1.2)经热解重组制得的碳含量超过90%(质量分数)的纤维。[来源:GB/T40724—2021,3.1,有修改]3.1.4",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "石墨纤维",
+    "english": "graphitefiber",
+    "definition": "碳纤维(3.1.3)经石墨化(3.4.6)处理,碳含量不低于99%(质量分数)的纤维。[来源:GB/T40724—2021,3.2,有修改]3.1.",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "碳化生产",
+    "english": "carbonizationproduction",
+    "definition": "通过预氧化(3.4.4)、低温碳化、高温碳化、石墨化(3.4.6)、表面处理(3.4.7)、水洗(3.4.8)、水洗后干",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "石墨化生产",
+    "english": "graphitizationproduction",
+    "definition": "通过预氧化(3.4.4)、低温碳化、高温碳化、石墨化(3.4.6)、表面处理(3.4.7)、水洗(3.4.8)、水洗后干",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "预氧丝生产成套装备",
+    "english": "completesetsofequipmentforpre-oxidizedfiberproduction",
+    "definition": "由放丝机(3.3.1.1)、预氧化炉(3.3.2.1)、卷绕机(3.3.5.",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "碳纤维生产成套装备",
+    "english": "completesetsofequipmentforcarbonfiberproduction",
+    "definition": "由放丝机(3.3.1.1)、预氧化炉(3.3.2.1)、低温碳化炉(3.3.3.",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "石墨纤维生产成套装备",
+    "english": "completesetsofequipmentforgraphitefiberproduction",
+    "definition": "由放丝机(3.3.1.1)、预氧化炉(3.3.2.1)、低温碳化炉(3.3.3.",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "锭位数量",
+    "english": "numberofspindles",
+    "definition": "以卷装方式喂入生产线的原丝丝束数量。3.2.2",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "箱装数量",
+    "english": "numberofyarnboxes",
+    "definition": "以箱装方式喂入生产线的原丝丝束数量。3.2.3",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "卷装重量",
+    "english": "spindlepackageweight",
+    "definition": "单锭原丝(3.1.1)的重量。3.2.4",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "箱装重量",
+    "english": "boxpackedyarnweight",
+    "definition": "单箱原丝(3.1.1)的重量。3.2.5",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "幅宽",
+    "english": "effectivewidth",
+    "definition": "生产线中整批丝束展平排列允许的最大宽度。3.2.6",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "成套装备机械速度",
+    "english": "mechanicalspeedforcompletesetsofequipment",
+    "definition": "生产线设计的最高运转速度。3.2.7",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "梯形槽宽度",
+    "english": "trapezoidalgroovewidth",
+    "definition": "罗拉表面梯形槽的槽底宽度。23.2.8",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "梯形槽间距",
+    "english": "trapezoidalgroovespacing",
+    "definition": "罗拉表面相邻梯形槽的中心距。3.2.9",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "炉腔工作区尺寸",
+    "english": "workingareasizeoffurnacechamber",
+    "definition": "预氧化炉(3.3.2.1)、低温碳化炉(3.3.3.3)、高温碳化炉(3.3.3.",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "炉腔有效宽度",
+    "english": "effectivewidthoffurnacechamber",
+    "definition": "预氧化炉(3.3.2.1)、低温碳化炉(3.3.3.3)、高温碳化炉(3.3.3.",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "炉腔有效长度",
+    "english": "effectiveprocessinglengthoffurnacechamber",
+    "definition": "预氧化炉(3.3.2.1)、低温碳化炉(3.3.3.3)、高温碳化炉(3.3.3.",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "预氧化炉炉腔有效高度",
+    "english": "effectiveheightofpre-oxidationfurnacechamber",
+    "definition": "预氧化炉(3.3.2.1)炉腔内满足有效热处理的最大高度。3.2.13",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "预氧化炉设计温度",
+    "english": "designtemperatureofpre-oxidationfurnace",
+    "definition": "满足原丝预氧化(3.4.4)处理要求的最高温度。3.2.14",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "低温碳化炉设计温度",
+    "english": "designtemperatureoflowtemperaturecarbonizationfurnace",
+    "definition": "满足预氧丝(3.1.2)低温碳化(3.4.5)要求的最高温度。3.2.15",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "高温碳化炉设计温度",
+    "english": "designtemperatureofhightemperaturecarbonizationfurnace",
+    "definition": "满足低温碳化(3.4.5)后纤维进行高温碳化(3.4.5)要求的最高温度。3.2.16",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "石墨化炉设计温度",
+    "english": "designtemperatureofgraphitizingfurnace",
+    "definition": "满足碳纤维(3.1.3)进行高温石墨化(3.4.6)要求的最高温度。3.2.17",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "干燥机设计温度",
+    "english": "designtemperatureofdryer",
+    "definition": "碳纤维(3.1.3)、石墨纤维(3.1.4)水洗或上浆后干燥的最高温度。3.2.18",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "炉腔单区温度均匀度",
+    "english": "zonetemperatureuniformityofthefurnacechamber",
+    "definition": "预氧化炉(3.3.2.1)、低温碳化炉(3.3.3.3)、高温碳化炉(3.3.3.",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "炉内温度稳定度",
+    "english": "stabilityofthefurnacetemperature",
+    "definition": "预氧化炉(3.3.2.1)、低温碳化炉(3.3.3.3)、高温碳化炉(3.3.3.",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "预氧化炉风速均匀度",
+    "english": "airspeeduniformityofpre-oxidationfurnace",
+    "definition": "常温下预氧化炉(3.3.2.1)有效工作区内循环风最大流速与最小流速的差值。3.2.21",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "表面处理机设计电流",
+    "english": "designcurrentofsurfaceprocessingmachine",
+    "definition": "对碳纤维(3.1.3)、石墨纤维(3.1.4)进行电化学法表面处理(3.4.7)的最大电流。3.3 设备、装置和零部件",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "放丝机",
+    "english": "unwindingmachine",
+    "definition": "实现放丝(3.4.1)工艺的装备。注:包括纱锭锁定装置、箱装原丝引出装置和张力控制装置等。3.3.1.2",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "集纱装置",
+    "english": "yarnarrangingdevice",
+    "definition": "将放丝后的原丝(3.1.1)展平排列成设定幅宽的装置。3.3.1.3",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "加湿站",
+    "english": "humidifyingstation",
+    "definition": "采用浸没或超声波雾化等方式增加原丝(3.1.1)含水量的设备。3.3.2 预氧化单元3.3.2.",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "预氧化炉",
+    "english": "pre-oxidationfurnace",
+    "definition": "采用热风循环等方式,对原丝(3.1.1)在空气中所做的热稳定化处理的设备。3.3.2.2",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "预氧化炉平台",
+    "english": "pre-oxygenfurnaceplatform",
+    "definition": "满足预氧化炉(3.3.2.1)、罗拉组运转与维护保养的操作平台。3.3.2.3",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "罗拉框架",
+    "english": "inletrollerframe",
+    "definition": "在预氧化炉(3.3.2.1)内用于安装丝束引导、折返罗拉和驱动装置的框架。3.3.2.4",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "冷却罗拉",
+    "english": "coolingroller",
+    "definition": "采用循环水冷方式降低表面温度的罗拉。3.3.2.5",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "送风腔",
+    "english": "airfeedingchamber",
+    "definition": "向预氧化炉工作区送风的装置。注:包含风向、风量调节机构。3.3.2.6",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "回风腔",
+    "english": "airsuckingchamber",
+    "definition": "从预氧化炉工作区收集回风的装置。3.3.2.7",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "预氧化炉气封装置",
+    "english": "gassealdeviceofpre-oxidationfurnace",
+    "definition": "预氧化炉丝束进出口处的气体密封装置。43.3.3 碳化单元3.3.",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "金属马弗",
+    "english": "metalmuffle",
+    "definition": "设置在低温碳化炉(3.3.3.3)内,由金属材料制成的、具有密封和气氛调节功能的箱体结构。3.3.3.2",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "石墨马弗",
+    "english": "graphitemuffle",
+    "definition": "设置在高温碳化炉(3.3.3.4)或石墨化炉(3.3.3.5)内,以石墨为材料制成的、具有密封和气氛调节功能的箱体结构。3.",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "低温碳化炉",
+    "english": "lowtemperaturecarbonizationfurnace",
+    "definition": "采用辐射等方式加热,对预氧丝(3.1.2)进行低温碳化处理的设备。注:包括炉体、加热元件、保温材料构件、金属马弗(3.3.3.1)、碳化炉气封装置(3.3.3.",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "高温碳化炉",
+    "english": "hightemperaturecarbonizationfurnace",
+    "definition": "采用辐射等方式加热,对纤维进行高温碳化处理的设备。注:包括炉体、加热元件、保温材料构件、石墨马弗(3.3.3.2)、碳化炉气封装置(3.3.3.6)、保护气体采样管路(3.3.",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "石墨化炉",
+    "english": "graphitizationfurnace",
+    "definition": "采用辐射或感应等方式加热,对碳纤维(3.1.3)进行石墨化处理的设备。注:包括炉体、加热元件或感应器、保温材料构件、石墨马弗(3.3.3.2)、碳化炉气封装置(3.3.3.",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "碳化炉气封装置",
+    "english": "gassealdeviceofcarbonizationfurnace",
+    "definition": "设置于低温碳化炉(3.3.3.3)、高温碳化炉(3.3.3.4)或石墨化炉(3.3.3.",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "保护气体采样管路",
+    "english": "protectivegassamplingpipeline",
+    "definition": "对低温碳化炉(3.3.3.3)、高温碳化炉(3.3.3.4)或石墨化炉(3.3.3.",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "保护气体系统",
+    "english": "protectivegassystem",
+    "definition": "低温碳化炉(3.3.3.3)、高温碳化炉(3.3.3.4)或石墨化炉(3.3.3.",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "加热供电系统",
+    "english": "heatingpowersupplysystem",
+    "definition": "用于高温碳化炉(3.3.3.4)、石墨化炉(3.3.3.5)加热的供电系统。3.3.",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "冷却水循环系统",
+    "english": "coolingwatercirculationsystem",
+    "definition": "低温碳化炉(3.3.3.3)、高温碳化炉(3.3.3.4)及石墨化炉(3.3.3.",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "表面处理机",
+    "english": "surfacetreatmentmachine",
+    "definition": "采用电化学法、化学法等对碳纤维(3.1.3)或石墨纤维(3.1.4)表面进行改性处理的设备。3.3.4.2",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "水洗机",
+    "english": "washingmachine",
+    "definition": "采用喷淋、浸渍等方法对经表面处理后的碳纤维(3.1.3)或石墨纤维(3.1.4)进行清洗的设备。3.3.4.3",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "上浆机",
+    "english": "sizingmachine",
+    "definition": "碳纤维(3.1.3)或石墨纤维(3.1.4)表面上浆及含浆量控制的设备。3.3.4.4",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "干燥机",
+    "english": "dryingmachine",
+    "definition": "对水洗或上浆后碳纤维(3.1.3)或石墨纤维(3.1.4)进行干燥的设备。注:分为接触式或非接触式。3.3.4.",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "定形机",
+    "english": "settingmachine",
+    "definition": "采用热辊接触加热的方式,对上浆后干燥碳纤维(3.1.3)或石墨纤维(3.1.4)的丝束宽度定形的设备。3.3.5 卷绕单元",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "分丝架",
+    "english": "splittingframe",
+    "definition": "保持碳纤维(3.1.3)或石墨纤维(3.1.4)各丝束分离并排布均匀的装置。3.3.5.2",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "卷绕机",
+    "english": "windingmachine",
+    "definition": "将碳纤维(3.1.3)或石墨纤维(3.1.4)丝束卷绕到筒管上,控制卷绕成形的设备。3.3.6 驱动单元3.",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "驱动装置",
+    "english": "drivingdevice",
+    "definition": "输送丝束的装置。注:分为立式、卧式或其组合式。3.3.6.2",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "张力监测装置",
+    "english": "tensionmonitoringdevice",
+    "definition": "监测丝束张力值的装置。3.3.6.3",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "气动执行装置",
+    "english": "pneumaticactuator",
+    "definition": "实现机构驱动、压辊加压、筒管轴胀紧和张力调节等的装置。3.3.7 废气处理系统3.3.7.1",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "废气处理系统",
+    "english": "wastegastreatmentsystem",
+    "definition": "将预氧化(3.4.4)、低温碳化(3.4.5)、高温碳化(3.4.5)过程中产生的废气进行处理并达到排放标准6",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "气体压力监测系统",
+    "english": "gaspressuremonitoringsystem",
+    "definition": "预氧化炉(3.3.2.1)、低温碳化炉(3.3.3.3)、高温碳化炉(3.3.3.",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "水喷淋喷雾系统",
+    "english": "sprayingsystem",
+    "definition": "预氧化炉(3.3.2.1)内的灭火、降温应急系统。3.3.8.3",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "应急系统",
+    "english": "emergencysystem",
+    "definition": "在断电状态下,维持冷却水、强排风等正常运行的备用供电系统。3.3.8.4",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "氰化物气体报警系统",
+    "english": "cyanidegasalarmsystem",
+    "definition": "空气中氰化物浓度超标的报警系统。3.3.9 监控系统3.3.9.1",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "总控系统",
+    "english": "mastercontrolsystem",
+    "definition": "监测、控制和管理生产线运行的系统。3.3.9.2",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "生产线速度监控系统",
+    "english": "productionlinespeedmonitorandcontrolsystem",
+    "definition": "监测、控制各驱动单元运转速度的系统。3.3.9.3",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "温度监控系统",
+    "english": "temperaturemonitorandcontrolsystem",
+    "definition": "监测、控制生产线各温控区工作温度的系统。3.4 工艺过程3.4.1放丝 unwinding将原丝(3.1.",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "集纱",
+    "english": "yarnarranging",
+    "definition": "将放丝后的原丝(3.1.1)展平排列成设定幅宽的过程。3.4.3",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "加湿",
+    "english": "humidification",
+    "definition": "采用浸没或超声波雾化等方式增加原丝含水量的过程。3.4.4",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "预氧化",
+    "english": "pre-oxidation",
+    "definition": "碳化前,对原丝(3.1.1)在空气中所做的热稳定化处理过程。[来源:GB/T40724—2021,3.19,有修改]73.",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "碳化",
+    "english": "carbonization",
+    "definition": "在惰性气氛中将预氧丝(3.1.2)转化为碳纤维(3.1.3)的热处理过程。注:通常包括低温碳化和高温碳化,在惰性气氛中400℃~1000℃的热处理过程为低温碳化,在惰性气氛中1000℃~1800℃的热处理过程为高温碳化。[来源:GB/T40724—2021,3.22]",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "石墨化",
+    "english": "graphitization",
+    "definition": "碳纤维(3.1.3)在惰性气氛中以更高温度所做的热处理,形成石墨晶体结构的过程。注:通常石墨化处理温度在1900 ℃以上。[来源:GB/T40724—2021,3.23,有修改]3.4.7",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "表面处理",
+    "english": "surfacetreatment",
+    "definition": "通过电化学法、化学法等对碳纤维(3.1.3)、石墨纤维(3.1.4)表面进行改性处理的过程。3.4.8水洗 washing",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "水洗后干燥",
+    "english": "dryingafterwashing",
+    "definition": "水洗后控制碳纤维(3.1.3)、石墨纤维(3.1.4)含水率的过程。3.4.10上浆 sizing",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "上浆后干燥",
+    "english": "dryingaftersizing",
+    "definition": "上浆后控制碳纤维(3.1.3)、石墨纤维(3.1.4)表面含水率的过程。3.4.12定形 setting",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  },
+  {
+    "term": "收丝",
+    "english": "windingfilament",
+    "definition": "将碳纤维(3.1.3)、石墨纤维(3.1.4)丝束卷绕到筒管上,控制卷绕成形的过程。4 分类4.1 纤维碳化生产成套装备分类名称、分类号及主要组成见表1。",
+    "source": "GB/T 44870-2024",
+    "category": "纤维碳化生产装备"
+  }
+]

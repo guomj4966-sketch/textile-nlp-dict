@@ -1,11 +1,11 @@
 meta:
-  version: v2.10
-  generated: 2026-08-09 11:11
+  version: v2.11
+  generated: 2026-08-09 12:56
   source: collector/filter_rules.py
   description: 纺织行业政策 NLP 词典种子词库——从 filter_rules.py 规则引擎提取
-  total_terms: 4120
+  total_terms: 4344
   pmi_verified_terms: 41
-  note: 'v2.10: 为L1-L7注入100+条知识图谱级静态定义(发文机关/文书类型/政策语义/交叉领域/地理/时间)'
+  note: 'v2.11: 从GB/T 44870-2024(纤维碳化生产装备)提取77条术语，归入高性能纤维类'
   pmi_verified_count: 41
   jieba_verified_count: 41
 layers:
@@ -693,6 +693,314 @@ layers:
       - 芳纶
       - 超高分子量聚乙烯
       - 陶瓷纤维
+      - term: 原丝
+        definition: 用于碳化生产的聚丙烯腈纤维。[来源:GB/T40724—2021,3.3,有修改]3.1.2
+        english: polyacrylonitrileprecursor
+        source: GB/T 44870-2024
+      - term: 预氧丝
+        definition: 原丝(3.1.1)经预氧化(3.4.4)处理后制得的纤维。[来源:GB/T40724—2021,3.20,有修改]3.1.
+        english: pre-oxidizedfiber
+        source: GB/T 44870-2024
+      - term: 碳纤维
+        definition: 预氧丝(3.1.2)经热解重组制得的碳含量超过90%(质量分数)的纤维。[来源:GB/T40724—2021,3.1,有修改]3.1.4
+        english: carbonfiber
+        source: GB/T 44870-2024
+      - term: 石墨纤维
+        definition: 碳纤维(3.1.3)经石墨化(3.4.6)处理,碳含量不低于99%(质量分数)的纤维。[来源:GB/T40724—2021,3.2,有修改]3.1.
+        english: graphitefiber
+        source: GB/T 44870-2024
+      - term: 碳化生产
+        definition: 通过预氧化(3.4.4)、低温碳化、高温碳化、石墨化(3.4.6)、表面处理(3.4.7)、水洗(3.4.8)、水洗后干
+        english: carbonizationproduction
+        source: GB/T 44870-2024
+      - term: 石墨化生产
+        definition: 通过预氧化(3.4.4)、低温碳化、高温碳化、石墨化(3.4.6)、表面处理(3.4.7)、水洗(3.4.8)、水洗后干
+        english: graphitizationproduction
+        source: GB/T 44870-2024
+      - term: 预氧丝生产成套装备
+        definition: 由放丝机(3.3.1.1)、预氧化炉(3.3.2.1)、卷绕机(3.3.5.
+        english: completesetsofequipmentforpre-oxidizedfiberproduction
+        source: GB/T 44870-2024
+      - term: 碳纤维生产成套装备
+        definition: 由放丝机(3.3.1.1)、预氧化炉(3.3.2.1)、低温碳化炉(3.3.3.
+        english: completesetsofequipmentforcarbonfiberproduction
+        source: GB/T 44870-2024
+      - term: 石墨纤维生产成套装备
+        definition: 由放丝机(3.3.1.1)、预氧化炉(3.3.2.1)、低温碳化炉(3.3.3.
+        english: completesetsofequipmentforgraphitefiberproduction
+        source: GB/T 44870-2024
+      - term: 锭位数量
+        definition: 以卷装方式喂入生产线的原丝丝束数量。3.2.2
+        english: numberofspindles
+        source: GB/T 44870-2024
+      - term: 箱装数量
+        definition: 以箱装方式喂入生产线的原丝丝束数量。3.2.3
+        english: numberofyarnboxes
+        source: GB/T 44870-2024
+      - term: 卷装重量
+        definition: 单锭原丝(3.1.1)的重量。3.2.4
+        english: spindlepackageweight
+        source: GB/T 44870-2024
+      - term: 箱装重量
+        definition: 单箱原丝(3.1.1)的重量。3.2.5
+        english: boxpackedyarnweight
+        source: GB/T 44870-2024
+      - term: 幅宽
+        definition: 生产线中整批丝束展平排列允许的最大宽度。3.2.6
+        english: effectivewidth
+        source: GB/T 44870-2024
+      - term: 成套装备机械速度
+        definition: 生产线设计的最高运转速度。3.2.7
+        english: mechanicalspeedforcompletesetsofequipment
+        source: GB/T 44870-2024
+      - term: 梯形槽宽度
+        definition: 罗拉表面梯形槽的槽底宽度。23.2.8
+        english: trapezoidalgroovewidth
+        source: GB/T 44870-2024
+      - term: 梯形槽间距
+        definition: 罗拉表面相邻梯形槽的中心距。3.2.9
+        english: trapezoidalgroovespacing
+        source: GB/T 44870-2024
+      - term: 炉腔工作区尺寸
+        definition: 预氧化炉(3.3.2.1)、低温碳化炉(3.3.3.3)、高温碳化炉(3.3.3.
+        english: workingareasizeoffurnacechamber
+        source: GB/T 44870-2024
+      - term: 炉腔有效宽度
+        definition: 预氧化炉(3.3.2.1)、低温碳化炉(3.3.3.3)、高温碳化炉(3.3.3.
+        english: effectivewidthoffurnacechamber
+        source: GB/T 44870-2024
+      - term: 炉腔有效长度
+        definition: 预氧化炉(3.3.2.1)、低温碳化炉(3.3.3.3)、高温碳化炉(3.3.3.
+        english: effectiveprocessinglengthoffurnacechamber
+        source: GB/T 44870-2024
+      - term: 预氧化炉炉腔有效高度
+        definition: 预氧化炉(3.3.2.1)炉腔内满足有效热处理的最大高度。3.2.13
+        english: effectiveheightofpre-oxidationfurnacechamber
+        source: GB/T 44870-2024
+      - term: 预氧化炉设计温度
+        definition: 满足原丝预氧化(3.4.4)处理要求的最高温度。3.2.14
+        english: designtemperatureofpre-oxidationfurnace
+        source: GB/T 44870-2024
+      - term: 低温碳化炉设计温度
+        definition: 满足预氧丝(3.1.2)低温碳化(3.4.5)要求的最高温度。3.2.15
+        english: designtemperatureoflowtemperaturecarbonizationfurnace
+        source: GB/T 44870-2024
+      - term: 高温碳化炉设计温度
+        definition: 满足低温碳化(3.4.5)后纤维进行高温碳化(3.4.5)要求的最高温度。3.2.16
+        english: designtemperatureofhightemperaturecarbonizationfurnace
+        source: GB/T 44870-2024
+      - term: 石墨化炉设计温度
+        definition: 满足碳纤维(3.1.3)进行高温石墨化(3.4.6)要求的最高温度。3.2.17
+        english: designtemperatureofgraphitizingfurnace
+        source: GB/T 44870-2024
+      - term: 干燥机设计温度
+        definition: 碳纤维(3.1.3)、石墨纤维(3.1.4)水洗或上浆后干燥的最高温度。3.2.18
+        english: designtemperatureofdryer
+        source: GB/T 44870-2024
+      - term: 炉腔单区温度均匀度
+        definition: 预氧化炉(3.3.2.1)、低温碳化炉(3.3.3.3)、高温碳化炉(3.3.3.
+        english: zonetemperatureuniformityofthefurnacechamber
+        source: GB/T 44870-2024
+      - term: 炉内温度稳定度
+        definition: 预氧化炉(3.3.2.1)、低温碳化炉(3.3.3.3)、高温碳化炉(3.3.3.
+        english: stabilityofthefurnacetemperature
+        source: GB/T 44870-2024
+      - term: 预氧化炉风速均匀度
+        definition: 常温下预氧化炉(3.3.2.1)有效工作区内循环风最大流速与最小流速的差值。3.2.21
+        english: airspeeduniformityofpre-oxidationfurnace
+        source: GB/T 44870-2024
+      - term: 表面处理机设计电流
+        definition: 对碳纤维(3.1.3)、石墨纤维(3.1.4)进行电化学法表面处理(3.4.7)的最大电流。3.3设备、装置和零部件
+        english: designcurrentofsurfaceprocessingmachine
+        source: GB/T 44870-2024
+      - term: 放丝机
+        definition: 实现放丝(3.4.1)工艺的装备。注:包括纱锭锁定装置、箱装原丝引出装置和张力控制装置等。3.3.1.2
+        english: unwindingmachine
+        source: GB/T 44870-2024
+      - term: 集纱装置
+        definition: 将放丝后的原丝(3.1.1)展平排列成设定幅宽的装置。3.3.1.3
+        english: yarnarrangingdevice
+        source: GB/T 44870-2024
+      - term: 加湿站
+        definition: 采用浸没或超声波雾化等方式增加原丝(3.1.1)含水量的设备。3.3.2预氧化单元3.3.2.
+        english: humidifyingstation
+        source: GB/T 44870-2024
+      - term: 预氧化炉
+        definition: 采用热风循环等方式,对原丝(3.1.1)在空气中所做的热稳定化处理的设备。3.3.2.2
+        english: pre-oxidationfurnace
+        source: GB/T 44870-2024
+      - term: 预氧化炉平台
+        definition: 满足预氧化炉(3.3.2.1)、罗拉组运转与维护保养的操作平台。3.3.2.3
+        english: pre-oxygenfurnaceplatform
+        source: GB/T 44870-2024
+      - term: 罗拉框架
+        definition: 在预氧化炉(3.3.2.1)内用于安装丝束引导、折返罗拉和驱动装置的框架。3.3.2.4
+        english: inletrollerframe
+        source: GB/T 44870-2024
+      - term: 冷却罗拉
+        definition: 采用循环水冷方式降低表面温度的罗拉。3.3.2.5
+        english: coolingroller
+        source: GB/T 44870-2024
+      - term: 送风腔
+        definition: 向预氧化炉工作区送风的装置。注:包含风向、风量调节机构。3.3.2.6
+        english: airfeedingchamber
+        source: GB/T 44870-2024
+      - term: 回风腔
+        definition: 从预氧化炉工作区收集回风的装置。3.3.2.7
+        english: airsuckingchamber
+        source: GB/T 44870-2024
+      - term: 预氧化炉气封装置
+        definition: 预氧化炉丝束进出口处的气体密封装置。43.3.3碳化单元3.3.
+        english: gassealdeviceofpre-oxidationfurnace
+        source: GB/T 44870-2024
+      - term: 金属马弗
+        definition: 设置在低温碳化炉(3.3.3.3)内,由金属材料制成的、具有密封和气氛调节功能的箱体结构。3.3.3.2
+        english: metalmuffle
+        source: GB/T 44870-2024
+      - term: 石墨马弗
+        definition: 设置在高温碳化炉(3.3.3.4)或石墨化炉(3.3.3.5)内,以石墨为材料制成的、具有密封和气氛调节功能的箱体结构。3.
+        english: graphitemuffle
+        source: GB/T 44870-2024
+      - term: 低温碳化炉
+        definition: 采用辐射等方式加热,对预氧丝(3.1.2)进行低温碳化处理的设备。注:包括炉体、加热元件、保温材料构件、金属马弗(3.3.3.1)、碳化炉气封装置(3.3.3.
+        english: lowtemperaturecarbonizationfurnace
+        source: GB/T 44870-2024
+      - term: 高温碳化炉
+        definition: 采用辐射等方式加热,对纤维进行高温碳化处理的设备。注:包括炉体、加热元件、保温材料构件、石墨马弗(3.3.3.2)、碳化炉气封装置(3.3.3.6)、保护气体采样管路(3.3.
+        english: hightemperaturecarbonizationfurnace
+        source: GB/T 44870-2024
+      - term: 石墨化炉
+        definition: 采用辐射或感应等方式加热,对碳纤维(3.1.3)进行石墨化处理的设备。注:包括炉体、加热元件或感应器、保温材料构件、石墨马弗(3.3.3.2)、碳化炉气封装置(3.3.3.
+        english: graphitizationfurnace
+        source: GB/T 44870-2024
+      - term: 碳化炉气封装置
+        definition: 设置于低温碳化炉(3.3.3.3)、高温碳化炉(3.3.3.4)或石墨化炉(3.3.3.
+        english: gassealdeviceofcarbonizationfurnace
+        source: GB/T 44870-2024
+      - term: 保护气体采样管路
+        definition: 对低温碳化炉(3.3.3.3)、高温碳化炉(3.3.3.4)或石墨化炉(3.3.3.
+        english: protectivegassamplingpipeline
+        source: GB/T 44870-2024
+      - term: 保护气体系统
+        definition: 低温碳化炉(3.3.3.3)、高温碳化炉(3.3.3.4)或石墨化炉(3.3.3.
+        english: protectivegassystem
+        source: GB/T 44870-2024
+      - term: 加热供电系统
+        definition: 用于高温碳化炉(3.3.3.4)、石墨化炉(3.3.3.5)加热的供电系统。3.3.
+        english: heatingpowersupplysystem
+        source: GB/T 44870-2024
+      - term: 冷却水循环系统
+        definition: 低温碳化炉(3.3.3.3)、高温碳化炉(3.3.3.4)及石墨化炉(3.3.3.
+        english: coolingwatercirculationsystem
+        source: GB/T 44870-2024
+      - term: 表面处理机
+        definition: 采用电化学法、化学法等对碳纤维(3.1.3)或石墨纤维(3.1.4)表面进行改性处理的设备。3.3.4.2
+        english: surfacetreatmentmachine
+        source: GB/T 44870-2024
+      - term: 水洗机
+        definition: 采用喷淋、浸渍等方法对经表面处理后的碳纤维(3.1.3)或石墨纤维(3.1.4)进行清洗的设备。3.3.4.3
+        english: washingmachine
+        source: GB/T 44870-2024
+      - term: 上浆机
+        definition: 碳纤维(3.1.3)或石墨纤维(3.1.4)表面上浆及含浆量控制的设备。3.3.4.4
+        english: sizingmachine
+        source: GB/T 44870-2024
+      - term: 干燥机
+        definition: 对水洗或上浆后碳纤维(3.1.3)或石墨纤维(3.1.4)进行干燥的设备。注:分为接触式或非接触式。3.3.4.
+        english: dryingmachine
+        source: GB/T 44870-2024
+      - term: 定形机
+        definition: 采用热辊接触加热的方式,对上浆后干燥碳纤维(3.1.3)或石墨纤维(3.1.4)的丝束宽度定形的设备。3.3.5卷绕单元
+        english: settingmachine
+        source: GB/T 44870-2024
+      - term: 分丝架
+        definition: 保持碳纤维(3.1.3)或石墨纤维(3.1.4)各丝束分离并排布均匀的装置。3.3.5.2
+        english: splittingframe
+        source: GB/T 44870-2024
+      - term: 卷绕机
+        definition: 将碳纤维(3.1.3)或石墨纤维(3.1.4)丝束卷绕到筒管上,控制卷绕成形的设备。3.3.6驱动单元3.
+        english: windingmachine
+        source: GB/T 44870-2024
+      - term: 驱动装置
+        definition: 输送丝束的装置。注:分为立式、卧式或其组合式。3.3.6.2
+        english: drivingdevice
+        source: GB/T 44870-2024
+      - term: 张力监测装置
+        definition: 监测丝束张力值的装置。3.3.6.3
+        english: tensionmonitoringdevice
+        source: GB/T 44870-2024
+      - term: 气动执行装置
+        definition: 实现机构驱动、压辊加压、筒管轴胀紧和张力调节等的装置。3.3.7废气处理系统3.3.7.1
+        english: pneumaticactuator
+        source: GB/T 44870-2024
+      - term: 废气处理系统
+        definition: 将预氧化(3.4.4)、低温碳化(3.4.5)、高温碳化(3.4.5)过程中产生的废气进行处理并达到排放标准6
+        english: wastegastreatmentsystem
+        source: GB/T 44870-2024
+      - term: 气体压力监测系统
+        definition: 预氧化炉(3.3.2.1)、低温碳化炉(3.3.3.3)、高温碳化炉(3.3.3.
+        english: gaspressuremonitoringsystem
+        source: GB/T 44870-2024
+      - term: 水喷淋喷雾系统
+        definition: 预氧化炉(3.3.2.1)内的灭火、降温应急系统。3.3.8.3
+        english: sprayingsystem
+        source: GB/T 44870-2024
+      - term: 应急系统
+        definition: 在断电状态下,维持冷却水、强排风等正常运行的备用供电系统。3.3.8.4
+        english: emergencysystem
+        source: GB/T 44870-2024
+      - term: 氰化物气体报警系统
+        definition: 空气中氰化物浓度超标的报警系统。3.3.9监控系统3.3.9.1
+        english: cyanidegasalarmsystem
+        source: GB/T 44870-2024
+      - term: 总控系统
+        definition: 监测、控制和管理生产线运行的系统。3.3.9.2
+        english: mastercontrolsystem
+        source: GB/T 44870-2024
+      - term: 生产线速度监控系统
+        definition: 监测、控制各驱动单元运转速度的系统。3.3.9.3
+        english: productionlinespeedmonitorandcontrolsystem
+        source: GB/T 44870-2024
+      - term: 温度监控系统
+        definition: 监测、控制生产线各温控区工作温度的系统。3.4工艺过程3.4.1放丝unwinding将原丝(3.1.
+        english: temperaturemonitorandcontrolsystem
+        source: GB/T 44870-2024
+      - term: 集纱
+        definition: 将放丝后的原丝(3.1.1)展平排列成设定幅宽的过程。3.4.3
+        english: yarnarranging
+        source: GB/T 44870-2024
+      - term: 加湿
+        definition: 采用浸没或超声波雾化等方式增加原丝含水量的过程。3.4.4
+        english: humidification
+        source: GB/T 44870-2024
+      - term: 预氧化
+        definition: 碳化前,对原丝(3.1.1)在空气中所做的热稳定化处理过程。[来源:GB/T40724—2021,3.19,有修改]73.
+        english: pre-oxidation
+        source: GB/T 44870-2024
+      - term: 碳化
+        definition: 在惰性气氛中将预氧丝(3.1.2)转化为碳纤维(3.1.3)的热处理过程。注:通常包括低温碳化和高温碳化,在惰性气氛中400~1000的热处理过程为低温碳化,在惰性气氛中1000~1800的热处理过程为高温碳化。[来源:GB/T40724—2021,3.22]
+        english: carbonization
+        source: GB/T 44870-2024
+      - term: 石墨化
+        definition: 碳纤维(3.1.3)在惰性气氛中以更高温度所做的热处理,形成石墨晶体结构的过程。注:通常石墨化处理温度在1900以上。[来源:GB/T40724—2021,3.23,有修改]3.4.7
+        english: graphitization
+        source: GB/T 44870-2024
+      - term: 表面处理
+        definition: 通过电化学法、化学法等对碳纤维(3.1.3)、石墨纤维(3.1.4)表面进行改性处理的过程。3.4.8水洗washing
+        english: surfacetreatment
+        source: GB/T 44870-2024
+      - term: 水洗后干燥
+        definition: 水洗后控制碳纤维(3.1.3)、石墨纤维(3.1.4)含水率的过程。3.4.10上浆sizing
+        english: dryingafterwashing
+        source: GB/T 44870-2024
+      - term: 上浆后干燥
+        definition: 上浆后控制碳纤维(3.1.3)、石墨纤维(3.1.4)表面含水率的过程。3.4.12定形setting
+        english: dryingaftersizing
+        source: GB/T 44870-2024
+      - term: 收丝
+        definition: 将碳纤维(3.1.3)、石墨纤维(3.1.4)丝束卷绕到筒管上,控制卷绕成形的过程。4分类4.1纤维碳化生产成套装备分类名称、分类号及主要组成见表1。
+        english: windingfilament
+        source: GB/T 44870-2024
       1_原料端 / 功能性/差别化:
       - 抗菌纤维
       - 阻燃纤维
