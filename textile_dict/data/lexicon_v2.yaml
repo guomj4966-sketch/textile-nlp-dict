@@ -1,11 +1,11 @@
 meta:
-  version: v2.11
-  generated: 2026-08-09 12:56
+  version: v2.12
+  generated: 2026-08-09 13:15
   source: collector/filter_rules.py
   description: 纺织行业政策 NLP 词典种子词库——从 filter_rules.py 规则引擎提取
-  total_terms: 4344
+  total_terms: 4701
   pmi_verified_terms: 41
-  note: 'v2.11: 从GB/T 44870-2024(纤维碳化生产装备)提取77条术语，归入高性能纤维类'
+  note: 'v2.12: 从纺织行业分类代码表(+61)、HS编码纺织版(+300核心术语)、数字经济统计分类(+12) 提取术语并注入L3/L5'
   pmi_verified_count: 41
   jieba_verified_count: 41
 layers:
@@ -1459,6 +1459,1198 @@ layers:
       - 瑜伽服
       - 骑行服
       - 滑雪服
+      - term: 平米重
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现130次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 130
+      - term: 分特
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现79次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 79
+      - term: 其他纺织材料
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现66次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 66
+      - term: 未列名纺织材
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现27次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 27
+      - term: 棉制针织或钩
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现27次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 27
+      - term: 细度
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现26次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 26
+      - term: 制针织或钩编
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现22次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 22
+      - term: 其他合成纤维
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现20次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 20
+      - term: 非供零售用
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现17次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 17
+      - term: 供零售用
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现17次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 17
+      - term: 斜纹布
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现17次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 17
+      - term: 纱线
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现15次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 15
+      - term: 合成纤维制针
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现15次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 15
+      - term: 与其他纤维混
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现14次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 14
+      - term: 尼龙
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现14次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 14
+      - term: 短纤
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现13次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 13
+      - term: 未梳或未经其
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现13次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 13
+      - term: 他纺前加工
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现13次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 13
+      - term: 针织或钩编的
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现12次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 12
+      - term: 化纤制针织或
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现12次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 12
+      - term: 毛制针织或钩
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现12次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 12
+      - term: 未加捻或捻度
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现11次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 11
+      - term: 其他合成短纤
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现11次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 11
+      - term: 羊毛或动物细
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现11次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 11
+      - term: 已梳或经其他
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现10次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 10
+      - term: 纺前加工
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现10次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 10
+      - term: 其他聚酯短纤
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现10次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 10
+      - term: 包覆或层压的
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现10次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 10
+      - term: 弹性线
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现10次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 10
+      - term: 织或钩编的女
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现10次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 10
+      - term: 未漂白或漂白
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现9次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 9
+      - term: 平纹布
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现9次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 9
+      - term: 其他布
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现9次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 9
+      - term: 晨衣及类似品
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现9次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 9
+      - term: 类似品
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现9次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 9
+      - term: 头巾
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现9次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 9
+      - term: 帐幔
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现9次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 9
+      - term: 的机织物
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现8次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 8
+      - term: 其他棉
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现8次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 8
+      - term: 尼龙等聚酰胺
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现8次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 8
+      - term: 无胶线
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现8次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 8
+      - term: 围巾
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现8次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 8
+      - term: 披纱
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现8次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 8
+      - term: 短大衣
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现8次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 8
+      - term: 斗篷
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现8次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 8
+      - term: 短斗篷
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现8次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 8
+      - term: 带风帽的防寒
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现8次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 8
+      - term: 短上衣
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现8次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 8
+      - term: 防风衣
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现8次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 8
+      - term: 防风短上衣及
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现8次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 8
+      - term: 丝及绢丝制女
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现8次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 8
+      - term: 内底
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现8次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 8
+      - term: 其他动物细毛
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现7次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 7
+      - term: 单纱细度
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现7次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 7
+      - term: 与化纤纺色织
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现7次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 7
+      - term: 的布
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现7次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 7
+      - term: 合成纤维长丝
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现7次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 7
+      - term: 其他人造纤维
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现7次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 7
+      - term: 主要或仅与毛
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现7次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 7
+      - term: 人造短纤
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现7次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 7
+      - term: 带帽防寒短上
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现7次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 7
+      - term: 面纱等
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现7次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 7
+      - term: 浴衣
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现7次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 7
+      - term: 帘帷及床帷
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现7次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 7
+      - term: 细毛
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现6次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 6
+      - term: 未精梳多股纱
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现6次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 6
+      - term: 与化纤纺未漂
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现6次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 6
+      - term: 与化纤纺染色
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现6次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 6
+      - term: 与化纤纺印花
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现6次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 6
+      - term: 弹力丝
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现6次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 6
+      - term: 每根单纱细度
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现6次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 6
+      - term: 每米不超过
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现6次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 6
+      - term: 捻度
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现6次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 6
+      - term: 尼龙或其他聚
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现6次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 6
+      - term: 聚丙烯腈及其
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现6次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 6
+      - term: 变性短纤
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现6次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 6
+      - term: 主要或仅与棉
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现6次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 6
+      - term: 与化纤长丝混
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现6次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 6
+      - term: 浸涂
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现6次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 6
+      - term: 平方米重
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现6次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 6
+      - term: 未制成的
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现6次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 6
+      - term: 地制品
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现6次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 6
+      - term: 制成的
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现6次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 6
+      - term: 织或钩编的男
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现6次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 6
+      - term: 式西服套装
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现6次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 6
+      - term: 式便服套装
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现6次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 6
+      - term: 式上衣
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现6次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 6
+      - term: 丝及绢丝制针
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现6次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 6
+      - term: 开襟衫
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现6次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 6
+      - term: 外穿背心等
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现6次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 6
+      - term: 丝及绢丝制男
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现6次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 6
+      - term: 合成纤维制女
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现6次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 6
+      - term: 革制外底
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现6次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 6
+      - term: 主要或仅与化
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现5次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 5
+      - term: 精梳毛
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现5次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 5
+      - term: 芳香族聚酰胺
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现5次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 5
+      - term: 捻度每米超过
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现5次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 5
+      - term: 纺布
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现5次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 5
+      - term: 合纤针织钩编
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现5次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 5
+      - term: 人纤针织钩编
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现5次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 5
+      - term: 除外
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现5次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 5
+      - term: 式连衣裙
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现5次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 5
+      - term: 未列名纺材制
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现5次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 5
+      - term: 晨衣等
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现5次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 5
+      - term: 用品目
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现5次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 5
+      - term: 服装
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现5次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 5
+      - term: 物制品
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现5次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 5
+      - term: 床上用织物制
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现5次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 5
+      - term: 床罩
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现5次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 5
+      - term: 橡胶或塑料制
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现5次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 5
+      - term: 皮革制鞋面的
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现5次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 5
+      - term: 塑料或再生皮
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现5次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 5
+      - term: 和制品
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现5次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 5
+      - term: 含丝
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现4次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 4
+      - term: 黄麻或
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现4次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 4
+      - term: 含亚麻
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现4次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 4
+      - term: 厘牛
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现4次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 4
+      - term: 未漂或漂白的
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现4次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 4
+      - term: 聚酯变形长丝
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现4次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 4
+      - term: 含其他人造长
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现4次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 4
+      - term: 扁条等
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现4次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 4
+      - term: 酰胺短纤
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现4次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 4
+      - term: 的多股纱线或
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现4次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 4
+      - term: 缆线
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现4次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 4
+      - term: 棉混染色布
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现4次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 4
+      - term: 棉混色织布
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现4次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 4
+      - term: 棉混印花布
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现4次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 4
+      - term: 其他化纤长丝
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现4次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 4
+      - term: 构的铺地制品
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现4次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 4
+      - term: 化纤制未列名
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现4次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 4
+      - term: 绒织物
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现4次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 4
+      - term: 纺织物
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现4次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 4
+      - term: 绝缘布或带
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现4次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 4
+      - term: 针织或钩编织
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现4次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 4
+      - term: 其他针织钩编
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现4次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 4
+      - term: 风衣等
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现4次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 4
+      - term: 及裙裤
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现4次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 4
+      - term: 及睡衣裤
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现4次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 4
+      - term: 睡衣及睡衣裤
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现4次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 4
+      - term: 及衣着附件
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现4次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 4
+      - term: 用织物制品
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现4次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 4
+      - term: 上用织物制品
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现4次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 4
+      - term: 天篷及遮阳篷
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现4次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 4
+      - term: 纺织材料制鞋
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现4次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 4
+      - term: 果实及其零件
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现4次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 4
+      - term: 粗梳其他动物
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现3次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 3
+      - term: 粗梳毛
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现3次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 3
+      - term: 漂白平纹布
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现3次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 3
+      - term: 染色平纹布
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现3次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 3
+      - term: 色织平纹布
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现3次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 3
+      - term: 印花平纹布
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现3次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 3
+      - term: 与化纤纺漂白
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现3次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 3
+      - term: 生的或经沤制
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现3次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 3
+      - term: 人造纤维长丝
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现3次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 3
+      - term: 聚间苯二甲酰
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现3次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 3
+      - term: 聚对苯二甲酰
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现3次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 3
+      - term: 其他芳香族聚
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现3次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 3
+      - term: 超过
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现3次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 3
+      - term: 多股纱线或缆
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现3次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 3
+      - term: 纱线或缆线
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现3次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 3
+      - term: 粘胶纤维高强
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现3次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 3
+      - term: 截面尺寸
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现3次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 3
+      - term: 含其他合成纤
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现3次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 3
+      - term: 维长丝
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现3次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 3
+      - term: 或漂白布
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现3次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 3
+      - term: 染色机织物
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现3次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 3
+      - term: 色织机织物
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现3次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 3
+      - term: 印花机织物
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现3次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 3
+      - term: 丝丝束
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现3次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 3
+      - term: 聚丙烯腈或变
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现3次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 3
+      - term: 长丝丝束
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现3次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 3
+      - term: 混纺纱线
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现3次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 3
+      - term: 纺的纱线
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现3次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 3
+      - term: 聚丙烯腈及变
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现3次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 3
+      - term: 性短纤
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现3次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 3
+      - term: 平米
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现3次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 3
+      - term: 地毯等结织栽
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现3次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 3
+      - term: 绒铺地制品
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现3次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 3
+      - term: 其他化学纤维
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现3次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 3
+      - term: 毡呢地毯等铺
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现3次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 3
+      - term: 未簇或植绒
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现3次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 3
+      - term: 与胎料组合制
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现3次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 3
+      - term: 被褥状纺织品
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现3次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 3
+      - term: 人造革
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现3次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 3
+      - term: 其他塑料浸涂
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现3次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 3
+      - term: 用橡胶处理的
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现3次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 3
+      - term: 或钩编织物
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现3次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 3
+      - term: 用其他材料浸
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现3次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 3
+      - term: 涂布或包覆的
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现3次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 3
+      - term: 棉针织或钩编
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现3次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 3
+      - term: 风衣
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现3次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 3
+      - term: 式裙子及裙裤
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现3次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 3
+      - term: 料制针织或钩
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现3次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 3
+      - term: 恤衫
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现3次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 3
+      - term: 汗衫
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现3次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 3
+      - term: 背心
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现3次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 3
+      - term: 编套头衫
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现3次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 3
+      - term: 合成纤维制男
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现3次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 3
+      - term: 丝及绢丝制其
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现3次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 3
+      - term: 化纤制其他女
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现3次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 3
+      - term: 非针织或钩编
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现3次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 3
+      - term: 丝及绢丝制非
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现3次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 3
+      - term: 桌用织物制品
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现3次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 3
+      - term: 餐桌用织物制
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现3次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 3
+      - term: 用品
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现3次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 3
+      - term: 橡胶制鞋面的
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现3次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 3
+      - term: 鞋靴
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现3次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 3
+      - term: 外底
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现3次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 3
+      - term: 未列名丝机织
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 未碳化
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 山羊绒毛
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 动物粗毛或马
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 纤长丝混纺机
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 纤短纤混纺机
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 含棉
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 未漂三或四线
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 未漂布
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 漂白三或四线
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 染色三或四线
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 印花三或四线
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 劳动布
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 其他未漂棉布
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 其他漂白棉布
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 其他染色棉布
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 其他色织棉布
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 其他印花棉布
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 废麻
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 生的或经加工
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 落麻及废料
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 未列名纺织用
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 其他纺织用韧
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 的色纱线
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 未漂白的布
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 漂白的布
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 其他含亚麻
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 其他纺织韧皮
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 未漂白机织物
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 纺制的高强力
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 酰胺弹力丝
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 其他变形纱线
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 其他尼龙或聚
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 聚丙烯长丝单
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 弹性纱线除外
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 断裂强度不小
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 且初始模量不
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 小于
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 分特的聚乙烯
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 其他尼龙或其
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 未列名合成纤
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 维长丝多股纱
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 竹制粘胶纤维
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 其他粘胶纤维
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 其他醋酸纤维
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 与棉混纺未漂
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 长丝染色布
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 长丝色织布
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 长丝印花布
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 含醋酸长丝
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 含粘胶纤维长
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 含醋酸纤维长
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 间苯二胺短纤
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 对苯二胺短纤
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 性聚丙烯腈短
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 的未漂或漂白
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 棉混未漂平纹
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 棉混漂白平纹
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 棉混未漂斜纹
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 棉混漂白斜纹
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 棉混漂白布
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 棉混未漂或漂
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 棉混染色平纹
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 棉混色织平纹
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 棉混色织斜纹
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 棉混印花平纹
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 棉混印花斜纹
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 纺未漂或漂白
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 纺染色布
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 纺色织布
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 纺印花布
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 混纺染色布
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 混纺色织布
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 混纺印花布
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 胎及其制品
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 未浸涂
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 丝无纺织物
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 其他材料制未
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 浸涂的其他材
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 料无纺织物
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 未浸涂其他材
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 聚乙烯或聚丙
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 化纤材料制成
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 毛制起绒结构
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 的铺地制品
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 化纤制起绒结
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 毛制非起绒结
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 化纤制非起绒
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 结构的铺地制
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
+      - term: 簇绒地毯及未
+        definition: HS纺织章节商品分类中的核心术语，在1214条HS商品名中出现2次。
+        source: 中国海关HS商品编码表 (纺织)
+        frequency: 2
       6_终端品类 / 家纺品类:
       - 床品套件
       - 被芯
@@ -4767,6 +5959,33 @@ layers:
         definition: 不经过纺纱织布直接由纤维经机械化学热粘合制成的片状纺织品。
       产业用纺织品:
         definition: 专门用于工业农业医疗环保建筑等非服装领域的纺织品。
+      国民经济行业分类:
+        description: GB/T 4754-2017 纺织相关行业小类
+        source: 国民经济行业分类注释
+        毛纺织及染整精加工:
+          definition: 毛纺织及染整精加工
+          source: GB/T 4754-2017 纺织行业分类代码表
+        麻纺织及染整精加工:
+          definition: 麻纺织及染整精加工
+          source: GB/T 4754-2017 纺织行业分类代码表
+        丝绢纺织及印染精加工:
+          definition: 丝绢纺织及印染精加工
+          source: GB/T 4754-2017 纺织行业分类代码表
+        针织或钩针编织物及其制品制造:
+          definition: 针织或钩针编织物及其制品制造
+          source: GB/T 4754-2017 纺织行业分类代码表
+        家用纺织制成品制造:
+          definition: 家用纺织制成品制造
+          source: GB/T 4754-2017 纺织行业分类代码表
+        纤维素纤维原料及纤维制造:
+          definition: 纤维素纤维原料及纤维制造
+          source: GB/T 4754-2017 纺织行业分类代码表
+        生物基材料制造:
+          definition: 生物基材料制造
+          source: GB/T 4754-2017 纺织行业分类代码表
+        纺织、服装和皮革加工专用设备制造:
+          definition: 纺织、服装和皮革加工专用设备制造
+          source: GB/T 4754-2017 纺织行业分类代码表
   layer_4_policy_semantics:
     description: 政策语义标签——约束、排除、激励方向
     source: TITLE_BLACKLIST + INDUSTRY_EXCLUDE
@@ -5108,6 +6327,43 @@ layers:
         definition: 以动画漫画进行政策解读和科普宣传的传播方式。
       高质量发展:
         definition: 以创新、协调、绿色、开放、共享为核心的新发展理念。
+      数字经济:
+      - term: 数字经济
+        definition: 以数据资源作为关键生产要素、以现代信息网络作为重要载体、以信息通信技术的有效使用作为效率提升和经济结构优化的重要推动力的一系列经济活动。
+        source: 数字经济及其核心产业统计分类（2021）
+      - term: 数字产业化
+        definition: 数字经济核心产业部分，主要包括计算机通信和其他电子设备制造业、电信广播电视和卫星传输服务、互联网和相关服务、软件和信息技术服务业等。
+        source: 数字经济及其核心产业统计分类（2021）
+      - term: 产业数字化
+        definition: 应用数字技术和数据资源为传统产业带来的产出增加和效率提升部分，是数字技术与实体经济深度融合的体现。
+        source: 数字经济及其核心产业统计分类（2021）
+      - term: 数字产品制造业
+        definition: 数字经济核心产业，包括计算机制造、通信设备制造、数字媒体设备制造等。
+        source: 数字经济及其核心产业统计分类（2021）
+      - term: 数字产品服务业
+        definition: 数字经济核心产业，包括数字产品批发零售租赁维修等。
+        source: 数字经济及其核心产业统计分类（2021）
+      - term: 数字技术应用业
+        definition: 数字经济核心产业，包括软件开发、互联网服务、信息技术服务等。
+        source: 数字经济及其核心产业统计分类（2021）
+      - term: 数字化效率提升业
+        definition: 数字经济产业，包括智慧农业、智能制造、智能交通、智慧物流、数字金融、数字商贸等。
+        source: 数字经济及其核心产业统计分类（2021）
+      - term: 数据资源
+        definition: 以电子化形式记录和存储，可供计算、分析和利用的各类信息的统称，是数字经济的核心生产要素。
+        source: 数字经济及其核心产业统计分类（2021）
+      - term: 数据要素
+        definition: 参与生产经营活动并带来经济效益的数据资源，与土地、劳动力、资本、技术并列的新型生产要素。
+        source: 数字经济及其核心产业统计分类（2021）
+      - term: 信息基础设施
+        definition: 包括5G、物联网、工业互联网、卫星互联网等网络基础设施，以及数据中心、智能计算中心等算力基础设施。
+        source: 数字经济及其核心产业统计分类（2021）
+      - term: 工业互联网平台
+        definition: 面向制造业数字化、网络化、智能化需求，构建基于海量数据采集、汇聚、分析的服务体系，支撑制造资源泛在连接、弹性供给、高效配置的工业云平台。
+        source: 数字经济及其核心产业统计分类（2021）
+      - term: 产业数字化转型
+        definition: 传统产业利用数字技术进行全方位、多角度、全链条的改造，实现效率提升和模式创新的过程。
+        source: 数字经济及其核心产业统计分类（2021）
   layer_6_geography:
     description: 地理与产业集群——省级纺织产业布局
     source: 'policy.db: region 字段 + 数据源注册表-省级.md'
