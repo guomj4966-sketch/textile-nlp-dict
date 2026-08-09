@@ -2,8 +2,8 @@
 
 > 面向纺织行业的政策分析、市场研究、供应链调研、ESG 合规等领域的中文 NLP 词典与术语库。
 
-[![Version](https://img.shields.io/badge/词典-v2.8-blue)](textile_dict/data/lexicon_v2.yaml)
-[![Terms](https://img.shields.io/badge/词条-2,545-green)](textile_dict/data/lexicon_v2.yaml)
+[![Version](https://img.shields.io/badge/词典-v2.10-blue)](textile_dict/data/lexicon_v2.yaml)
+[![Terms](https://img.shields.io/badge/词条-4,120-green)](textile_dict/data/lexicon_v2.yaml)
 [![Python](https://img.shields.io/badge/Python-≥3.10-blue)](pyproject.toml)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 
@@ -11,7 +11,7 @@
 
 ## 项目定位
 
-纺织行业中文 NLP 的**领域知识基座**，经过数轮迭代建设，涵盖 2,545 个纺织产业链术语、政策语义标签、地理产业集群等专题词汇。
+纺织行业中文 NLP 的**领域知识基座**，经过七轮迭代建设，涵盖 4,120 个纺织产业链术语、政策语义标签、地理产业集群等专题词汇，其中 39% 的术语配有中文定义（1,287 条），609 条术语含中英对照。
 
 ### 核心能力
 
@@ -69,11 +69,12 @@ lex.terms_by_category("layer_3_textile_chain", "3_织造")
 
 | 指标 | 数值 |
 |:--|:--|
-| 词典版本 | v2.8 |
-| 唯一词条 | 2,545 词 |
+| 词典版本 | v2.10 |
+| 唯一词条 | 4,120 词 |
 | jieba 词条 | 2,544 条 |
 | 分层结构 | 7 层 |
-| 有定义术语（termbase） | 42 条（2.6%） |
+| 有定义术语 | 1,287 条（39%） |
+| 中英对照术语 | 609 条 |
 | CRF NER 模型 | F1=0.93 |
 | M1 分词修复率 | 51.1% |
 
@@ -133,8 +134,7 @@ textile-nlp-dict/
 
 ## 路线图
 
-- [x] v2.8 七层词典 + NER 模型
-- [ ] v3.0 术语定义覆盖率从 2.6% 提升至 30%
+- [x] v2.10 七层词典 + 1,287 条定义（39%）+ NER 模型
 - [ ] v3.1 中英双语术语对齐数据集
 - [ ] v3.2 领域语料库（政策全文 + 标准文本 + 行业报告）
 - [ ] v4.0 纺织专用 NLP 模型
