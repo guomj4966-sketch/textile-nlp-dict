@@ -5,9 +5,10 @@ meta:
   description: 纺织行业政策 NLP 词典种子词库——从 filter_rules.py 规则引擎提取
   total_terms: 4701
   pmi_verified_terms: 41
-  note: 'v2.12: 从纺织行业分类代码表(+61)、HS编码纺织版(+300核心术语)、数字经济统计分类(+12) 提取术语并注入L3/L5; 补充83条定义source字段'
+  note: 'v2.12: 从纺织行业分类代码表(+61)、HS编码纺织版(+300核心术语)、数字经济统计分类(+12) 提取术语并注入L3/L5; 补充83条定义source字段; 审核: 2通过/1修正/0拒绝'
   pmi_verified_count: 41
   jieba_verified_count: 41
+  last_reviewed: '2026-08-09'
 layers:
   layer_2_document_types:
     description: 政策文书类型与解读形式
@@ -54,8 +55,9 @@ layers:
         definition: 党政机关通过媒体向社会公开传达重要信息的活动。
         source: 政策发布形式惯例 / TITLE_BLACKLIST 规则引擎
       答记者问:
-        definition: 政府官员就媒体提问进行回答的政策解读形式。
+        definition: 以平方米为单位计量的织物重量，是衡量单位面积织物克重的指标。
         source: 政策发布形式惯例 / TITLE_BLACKLIST 规则引擎
+        reviewed: true
       国新办吹风会:
         definition: 国务院新闻办公室向记者介绍政策背景的新闻吹风会。
         source: 政策发布形式惯例 / TITLE_BLACKLIST 规则引擎

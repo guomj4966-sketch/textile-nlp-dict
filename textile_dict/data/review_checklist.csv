@@ -1,7 +1,7 @@
 ﻿term,layer,layer_name,definition,source,auto_quality_notes,reviewer_verdict,corrected_definition,reviewer_comment,review_date
 新闻发布会,layer_2_document_types,政策文书类型与解读形式,党政机关向新闻媒体发布政策信息并接受提问的会议。,政策发布形式惯例 / TITLE_BLACKLIST 规则引擎,,,,,
 新闻发布,layer_2_document_types,政策文书类型与解读形式,党政机关通过媒体向社会公开传达重要信息的活动。,政策发布形式惯例 / TITLE_BLACKLIST 规则引擎,,,,,
-答记者问,layer_2_document_types,政策文书类型与解读形式,政府官员就媒体提问进行回答的政策解读形式。,政策发布形式惯例 / TITLE_BLACKLIST 规则引擎,,,,,
+答记者问,layer_2_document_types,政策文书类型与解读形式,以平方米为单位计量的织物重量，是衡量单位面积织物克重的指标。,政策发布形式惯例 / TITLE_BLACKLIST 规则引擎,,,,,
 国新办吹风会,layer_2_document_types,政策文书类型与解读形式,国务院新闻办公室向记者介绍政策背景的新闻吹风会。,政策发布形式惯例 / TITLE_BLACKLIST 规则引擎,,,,,
 国务院政策例行吹风会,layer_2_document_types,政策文书类型与解读形式,国新办定期举办的例行政策解读会议。,政策发布形式惯例 / TITLE_BLACKLIST 规则引擎,,,,,
 国新办举行,layer_2_document_types,政策文书类型与解读形式,国务院新闻办公室举办的新闻发布会或吹风会。,政策发布形式惯例 / TITLE_BLACKLIST 规则引擎,,,,,
