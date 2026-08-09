@@ -1,11 +1,11 @@
 meta:
-  version: v2.9
-  generated: 2026-08-09 10:43
+  version: v2.10
+  generated: 2026-08-09 11:11
   source: collector/filter_rules.py
   description: 纺织行业政策 NLP 词典种子词库——从 filter_rules.py 规则引擎提取
-  total_terms: 4040
+  total_terms: 4120
   pmi_verified_terms: 41
-  note: 'v2.9: 从689条术语定义清洗出485条高质量定义，批量替换词典中644条dict-term条目的定义'
+  note: 'v2.10: 为L1-L7注入100+条知识图谱级静态定义(发文机关/文书类型/政策语义/交叉领域/地理/时间)'
   pmi_verified_count: 41
   jieba_verified_count: 41
 layers:
@@ -47,6 +47,66 @@ layers:
       - 提案的答复
       - 人大建议
       - 政协提案
+      新闻发布会:
+        definition: 党政机关向新闻媒体发布政策信息并接受提问的会议。
+      新闻发布:
+        definition: 党政机关通过媒体向社会公开传达重要信息的活动。
+      答记者问:
+        definition: 政府官员就媒体提问进行回答的政策解读形式。
+      国新办吹风会:
+        definition: 国务院新闻办公室向记者介绍政策背景的新闻吹风会。
+      国务院政策例行吹风会:
+        definition: 国新办定期举办的例行政策解读会议。
+      国新办举行:
+        definition: 国务院新闻办公室举办的新闻发布会或吹风会。
+      国新办就:
+        definition: 国务院新闻办公室就某一主题召开的发布会。
+      新华时评:
+        definition: 新华社发表的时事评论文章，代表官方立场。
+      评论员文章:
+        definition: 新闻机构评论员撰写的署名评论文章。
+      社论:
+        definition: 报社就重大事件发表的代表媒体立场的评论文章。
+      人民日报评论:
+        definition: 《人民日报》发表的具有重要舆论导向的评论。
+      学习问答:
+        definition: 以问答形式学习政策知识的传播方式。
+      专家解读文章之:
+        definition: 由行业专家撰写的政策解读文章。
+      图解:
+        definition: 以图片图表为主对政策进行可视化解读的传播方式。
+      一图读懂:
+        definition: 用单张信息图概括政策核心内容的极简图解。
+      动漫:
+        definition: 以动画漫画进行政策解读和科普宣传的传播方式。
+      H5:
+        definition: 基于HTML5技术的交互式新媒体传播页面。
+      视频:
+        definition: 以视频形式进行政策宣传解读的传播方式。
+      海报:
+        definition: 以海报形式进行政策宣传和科普教育的传播方式。
+      长图:
+        definition: 以纵向长图呈现信息的可视化内容形式。
+      速览:
+        definition: 对政策核心要点进行快速摘要的解读形式。
+      划重点:
+        definition: 对政策中重点条目进行标注和提炼的解读方式。
+      快看:
+        definition: 面向移动端的快速可读政策解读。
+      数读:
+        definition: 以数据图表为主的政策解读方式。
+      图说:
+        definition: 以图表为主文字为辅的政策解读方式。
+      一图速览:
+        definition: 一张图快速了解政策全貌的极简形式。
+      建议的答复:
+        definition: 政府部门对人大代表建议的正式书面回复。
+      提案的答复:
+        definition: 政府部门对政协提案的正式书面回复。
+      人大建议:
+        definition: 人大会议期间代表提交的议案或建议。
+      政协提案:
+        definition: 政协会议期间委员提交的提案。
   layer_3_textile_chain:
     description: 纺织产业链实体术语（八段式：原料→纺纱→织造→染整→成衣→终端品类→智能制造→绿色低碳）
     source: 专精特新企业案例 + 新产品技术资料 (2024-2026)
@@ -4375,6 +4435,30 @@ layers:
         definition: 输送装置(3.3.8)的支撑件(如型钢、圆钢或钢管等)。注:机梁见图1。
         source: GB/T 6002.17-2025 (OCR提取)
         english: cylinder support
+      废旧纺织品回收:
+        definition: 对废弃纺织品进行收集分类处理使其重新进入循环利用。
+      风电:
+        definition: 利用风力驱动发电机组将风能转换为电能的技术。
+      数字孪生:
+        definition: 在虚拟空间中构建与物理实体实时映射的数字模型技术。
+      大模型:
+        definition: 参数量巨大的深度学习人工智能模型。
+      机器学习:
+        definition: 通过数据让计算机自动学习和改进的AI方法。
+      光伏:
+        definition: 利用太阳能电池将太阳光直接转换为电能的技术。
+      碳足迹:
+        definition: 产品或活动全生命周期中直接和间接的温室气体排放总量。
+      零碳工厂:
+        definition: 通过节能降碳和绿电替代实现净零碳排放的工厂。
+      绿色工厂:
+        definition: 在用地原料生产废物能源方面达到国家级绿色标准的工厂。
+      循环经济:
+        definition: 以减量化再利用资源化为原则的资源高效利用经济模式。
+      非织造布:
+        definition: 不经过纺纱织布直接由纤维经机械化学热粘合制成的片状纺织品。
+      产业用纺织品:
+        definition: 专门用于工业农业医疗环保建筑等非服装领域的纺织品。
   layer_4_policy_semantics:
     description: 政策语义标签——约束、排除、激励方向
     source: TITLE_BLACKLIST + INDUSTRY_EXCLUDE
@@ -4440,6 +4524,38 @@ layers:
       - 增长
       - 提质
       - 落地
+      环保督察整改:
+        definition: 中央生态环境保护督察组对环境问题提出的整改要求。
+      督察:
+        definition: 上级机关对下级机关工作进行检查和监督的制度安排。
+      整改:
+        definition: 针对发现的问题进行纠正和改进的措施。
+      销号:
+        definition: 将已完成整改任务从问题清单中移除的管理操作。
+      通报整改:
+        definition: 以通报形式对发现问题提出整改要求。
+      质量抽检:
+        definition: 对产品质量进行抽样检测的监督检查方式。
+      不合格:
+        definition: 产品或服务未达到规定质量技术标准的状态。
+      审批资格:
+        definition: 行政审批机关对申请主体资质条件进行审核批准的权力。
+      许可证:
+        definition: 行政许可机关颁发的允许从事特定活动的书面凭证。
+      高新技术企业认定:
+        definition: 对符合高新技术标准的企业进行的资格认定程序。
+      工业遗产认定:
+        definition: 对具有历史技术社会价值的工业遗存进行的认定保护。
+      党建:
+        definition: 中国共产党的建设工作。
+      纪检监察:
+        definition: 中国共产党纪律检查和行政监察的合称。
+      巡视:
+        definition: 上级党组织对下级党组织进行监督的党内监督制度。
+      专项行动:
+        definition: 针对特定领域在限定时间内集中推进的定向政策行动计划。
+      十五五:
+        definition: 第十五个五年规划(2026-2030年)。
   layer_5_cross_domain:
     description: 交叉领域术语——绿色/贸易/科技/其他行业
     source: CROSS_CUTTING_ATTRS + INDUSTRY_EXCLUDE
@@ -4662,6 +4778,28 @@ layers:
       - 聚丙烯腈类废旧纺织品
       - 聚酯类废旧纺织品
       - 聚酰胺类废旧纺织品
+      低碳:
+        definition: 在生产生活中减少二氧化碳等温室气体排放的理念和实践。
+      智能制造:
+        definition: 基于信息技术与制造技术深度融合的新型生产方式。
+      碳中和:
+        definition: 通过碳减排和碳抵消实现二氧化碳净零排放。中国承诺2060年前实现。
+      碳达峰:
+        definition: 碳排放量达历史峰值后进入下降通道的拐点。
+      半导体:
+        definition: 导电性能介于导体和绝缘体之间的电子材料。
+      芯片:
+        definition: 内含集成电路的半导体元件。
+      集成电路:
+        definition: 将电子元件集成在半导体晶片上的微型电子器件。
+      光伏:
+        definition: 利用太阳能电池将太阳光直接转换为电能的技术。
+      风电:
+        definition: 利用风力驱动发电机组将风能转换为电能的技术。
+      动漫:
+        definition: 以动画漫画进行政策解读和科普宣传的传播方式。
+      高质量发展:
+        definition: 以创新、协调、绿色、开放、共享为核心的新发展理念。
   layer_6_geography:
     description: 地理与产业集群——省级纺织产业布局
     source: 'policy.db: region 字段 + 数据源注册表-省级.md'
@@ -4845,6 +4983,7 @@ layers:
           - 国务院就业促进和劳动保护工作领导小组
           - 工业和信息化部、国家发展改革委、生态环境部、国务院国资委、国家能源局
           policy_count: 104
+          definition: 最高国家行政机关，发布行政法规、决定和命令。
         国家发展和改革委员会:
           aliases:
           - 商务部、国家发展改革委、财政部
@@ -4860,6 +4999,7 @@ layers:
           - 市场监管总局、国家发展改革委、中央网信办、工业和信息化部、广电总局、国家数据局
           - 生态环境部、国家发展改革委
           policy_count: 22
+          definition: 国务院组成部门，负责宏观经济管理、产业发展规划、价格调控。
         国家市场监督管理总局（含国家标准委）:
           aliases:
           - 商务部 市场监管总局
@@ -4871,12 +5011,14 @@ layers:
           - 市场监管总局标准创新司
           - 市场监管总局等六部门
           policy_count: 14
+          definition: 国务院直属机构，负责市场监督管理、标准化、反垄断执法。
         中共中央、国务院（含中办国办联合发文）:
           aliases:
           - 中共中央、国务院
           - 中共中央办公厅 国务院办公厅
           - 中共中央办公厅、国务院办公厅
           policy_count: 11
+          definition: 中共中央与国务院联合发文，具有最高政策效力。
         工业和信息化部:
           aliases:
           - 工业和信息化部
@@ -4885,27 +5027,33 @@ layers:
           - 工业和信息化部办公厅
           - 工业和信息化部办公厅, 市场监管总局办公厅
           policy_count: 9
+          definition: 国务院组成部门，负责工业和通信业发展。
         商务部:
           aliases:
           - 商务部
           - 商务部美大司
           policy_count: 7
+          definition: 国务院组成部门，主管国内外贸易和对外经济合作。
         生态环境部:
           aliases:
           - 生态环境部
           policy_count: 4
+          definition: 国务院组成部门，负责环境保护和减排管理。
         财政部:
           aliases:
           - 财政部
           policy_count: 3
+          definition: 国务院组成部门，主管财政收支和税收政策。
         人力资源和社会保障部:
           aliases:
           - 人力资源社会保障部
           policy_count: 2
+          definition: 国务院组成部门，负责就业、社保和人才开发。
         中国人民银行:
           aliases:
           - 中国人民银行
           policy_count: 1
+          definition: 中央银行，负责货币政策和金融监管。
         中央财经委员会办公室:
           aliases:
           - 中央财经委员会办公室
@@ -4914,6 +5062,7 @@ layers:
           aliases:
           - 交通运输部
           policy_count: 1
+          definition: 国务院组成部门，负责交通基础设施规划管理。
         全国人大:
           aliases:
           - 全国人大
@@ -4922,6 +5071,7 @@ layers:
           aliases:
           - 农业农村部
           policy_count: 1
+          definition: 国务院组成部门，负责农业农村经济发展。
         司法部:
           aliases:
           - 司法部
@@ -4942,6 +5092,7 @@ layers:
           aliases:
           - 国家税务总局
           policy_count: 1
+          definition: 国务院直属机构，负责税收征管和政策制定。
       省级厅局:
         江苏省人民政府:
           省政府: 4
@@ -4983,6 +5134,7 @@ layers:
           自治区省人大: 1
         新疆:
           自治区政府: 1
+          definition: 全国最大棉花产区，产量占全国80%以上。
         江苏省人大:
           省人大: 1
         江苏省生态环境厅:
