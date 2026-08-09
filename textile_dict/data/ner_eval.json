@@ -1,0 +1,12 @@
+{
+  "generated": "2026-08-01 20:30",
+  "data_path": "C:\\Users\\ghj\\OneDrive\\AI-Textile-policy-brief\\scripts\\nlp_dict\\data\\ner_train.jsonl",
+  "train_sentences": 216,
+  "val_sentences": 55,
+  "model_type": "CRF",
+  "metrics": {
+    "model_type": "CRF",
+    "overall_f1": 0.9297,
+    "note": "CRF 是轻量级序列标注模型（~185KB），F1 0.93 在小数据集上竞争性良好。如需进一步提升，可安装 PyTorch + Transformers 使用 bert-base-chinese 微调。"
+  }
+}

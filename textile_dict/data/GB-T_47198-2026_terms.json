@@ -1,0 +1,345 @@
+[
+  {
+    "term": "机械控制的针织横机",
+    "english": "flatbed knitting machine with mechanical control",
+    "definition": "主要功能由机械控制的横编机器 。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "电子控制的针织横机",
+    "english": "flatbed knitting machine with electronic control",
+    "definition": "电脑针织横机纺织机械与附件 “ 针织横机 “ 术语文件 。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "单机头针织横机",
+    "english": "flatbed knitting machine with one knitting head",
+    "definition": "一个机头往复运动生产针织物的横编机器 。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "多机头针织横机",
+    "english": "flatbed knitting machine with several knitting heads",
+    "definition": "多个机头往复运动生产针织物的横编机器 。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "三角座滑架环形运动的针织横机",
+    "english": "flatbed knitting machine with circulating carriage",
+    "definition": "三角座滑架单方向环形运动驱动织针的横编机器 。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "无三角座滑架的针织横机",
+    "english": "flatbed knitting machine without carriage",
+    "definition": "每枚织针独立驱动的横编机器 。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "前侧面",
+    "english": "front side",
+    "definition": "V主操作面 ( 见图 1) 。一一 L 一一一士 T T T TE 4标引符号说明 :V 一一前侧面 ;X 一一后侧面 ;R 一一右侧面 ;L 一一左侧面 ;",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "右侧面",
+    "english": "right side",
+    "definition": "击主操作面的右侧面 ( 见图 1) 。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "左侧面",
+    "english": "left side",
+    "definition": "L主操作面的左侧面 ( 见图 1) 。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "针床",
+    "english": "needle bed support",
+    "definition": "于安装针床的基座 。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "机头导轨",
+    "english": "knitting head rail",
+    "definition": "于机头运行的轨道 。3.7 “ 驱动",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "辅助驱动",
+    "english": "ancillary drive",
+    "definition": "于驱动除机头外的单个组件运动的机械装置 。3.8 “ 针床及结构",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "前针床",
+    "english": "front needle bed",
+    "definition": "在前侧的针床 ( 见图 2)。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "辅助针床",
+    "english": "auxillary bed",
+    "definition": "安装在前和 ( 或 ) 后针床起到辅助作用的针床 。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "脱圈部位",
+    "english": "knock-over cam",
+    "definition": "针床的一部分 , 用于形成线圈横列 。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "针床间距",
+    "english": "",
+    "definition": "_蓄′婆′′前后针床脱图",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "舌针",
+    "english": "latch needle",
+    "definition": "呈扁平或圆形横截面 , 具有钩形针头 , 以及安装于针头前端固定轴上的活动针舌 。注 1: 在成圈过程P , 通过纱线的作注 2: 见 GB/TT 30160.1 一 2013。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "复合针",
+    "english": "compo",
+    "definition": "针钩件和闭合件组成注 1: 针钩件主要呈扁und needle注 2: 见 GB/TT 30160.3 一 2013。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "辅助织针机件",
+    "english": "",
+    "definition": ", 针舌将针钩开的针织机件 。F 形并具有钩形针头 。 闭合件具有扁平针杆 , 由针钩件导向 ,auxiliary needle element控制织针运动的机件 。示例 : 挺针片和选针片 。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "辅助针尺",
+    "english": "narrowing rod",
+    "definition": "与针槽垂直的限定和引导辅助织针机件运动的条形机件 。3.9 “ 机头",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "三角座滑架",
+    "english": "carriage",
+    "definition": "装载驱动织针 、 辅助织针机件 、 握持沉降片和辅助机件及纱嘴机构的载架装置 。注 : 三角座滑架包含一个或多个不可分割的系统 。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "三角座",
+    "english": "carriage part",
+    "definition": "适配针床或辅助织针的三 〗肢或关闭 。座滑架的部分 ( 见图 4) 。F 闭合针钩 。标引序号说明 :",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "三角座滑架天桥",
+    "english": "carriage bow",
+    "definition": "前后三角座的连接件 ( 见图 4) 。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "系统",
+    "english": "system",
+    "definition": "引导织针 、 辅助织针机件 、 辅助机件在一个工作循环内运动的装置 。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "编织系统",
+    "english": "knitting system",
+    "definition": "在编织过程中使织针运动以形成线圈的装置 。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "辅助系统",
+    "english": "auxiliary system",
+    "definition": "在编织过程中使织针和 / 或辅助机件运动使线商实现特殊效果的装置 。3.11 “ 三角",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "三角系统",
+    "english": "cam system",
+    "definition": "于控制和移动针床或辅助针床中的织针 、 辅助针机件和 / 或其他辅助机件的系统 。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "三角底板",
+    "english": "cam plate",
+    "definition": "装有三角的底座 。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "集圈三角",
+    "english": "raising cam for tuck",
+    "definition": "移动织针和辅助织针机件上升到集圈位置的三角 ( 见图 5)。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "挺针三角",
+    "english": "raising cam for knitting",
+    "definition": "图 5 三角移动织针和辅助织针机件至退圈位置的三角 ( 见图 5) 。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "移圈三角",
+    "english": "transfer raising cam",
+    "definition": "移圈时将织针和辅助织针机件上升到移圈位置的三角 ( 见图 5) 。接圈三角 “receiving raising cam移圈时推动织针和辅助针机件至接圈位置的",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "成园三角",
+    "english": "stitch cam",
+    "definition": "使织针和辅助织针机件下降至线圈形成的位置 ( 决定纵向密度 ) 的三角 ( 见图 5) 。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "护针三角",
+    "english": "limiting cam",
+    "definition": "限制织针和辅助织针机件运动的三角 ( 见图 5) 。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "复位三角",
+    "english": "restoring cam",
+    "definition": "移动织针和辅助织针机件至起始位置的三角 ( 见图 5) 。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "导纱装置",
+    "english": "yarn guiding device",
+    "definition": "于稳固纱筒 、 引导和控制纱线的装置 。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "纱线控制装置",
+    "english": "yarn control device",
+    "definition": "于产生 、 保持和监测纱线张力并监测纱线的装置 。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "导纱器",
+    "english": "yarn feeder",
+    "definition": "引导纱线到织针上的机件 。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "纱嘴",
+    "english": "yarn feeder head",
+    "definition": "将纱线直接喂人织针上的机件 ( 见囹 6) 。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "导纱滑架",
+    "english": "yarn feeder slide",
+    "definition": "在导纱器轨道上滑行的机件 ( 见图 6) 。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "导纱器滑轨",
+    "english": "yarn feeder raill",
+    "definition": "天杠与针床平行安装的导轨 ( 见图 6) 。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "导纱器限位块",
+    "english": "yarn feed block",
+    "definition": "于限制导纱器滑动位置的装置 。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "牵拉装置",
+    "english": "fabric take-down",
+    "definition": "产生织物向下牵拉力和传输织物的装置 。注 : 包括不同的型式 : 如罗拉 ( 见图 7) , 牵拉梳 ( 起底板 ) 、 辅助牵拉装置 。标引序号说明 :",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "高位罗拉",
+    "english": "sub-roller",
+    "definition": "贴近前后针床脱圈头",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "控制单元",
+    "english": "control umnit",
+    "definition": "于存储 、 处理 、 输出工艺数据的装置 。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "选针器",
+    "english": "needle selector",
+    "definition": "F 选择织针工作状态的组件 。3.15 “ 其他装置及系统",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "针床横移机构",
+    "english": "racking mechanism",
+    "definition": "于实现针床和 / 或辅助针床在横向不同定位的装置 。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "润滑系统",
+    "english": "lubrication system",
+    "definition": "用于润滑机械移动机件的系统 。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "清洁系统",
+    "english": "cleaning system",
+    "definition": "于清洁机器各个部位的系统 。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "特殊附件",
+    "english": "special attachments",
+    "definition": "不包含在本文件中的其他横编机器用辅助装置 。示例 : 输纱装置 、 纱线长度测量装置 、 纱线夹子 、 纱线剪刀 、 吹风装置 。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  }
+]

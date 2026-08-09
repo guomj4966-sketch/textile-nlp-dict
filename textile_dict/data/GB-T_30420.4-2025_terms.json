@@ -1,0 +1,1024 @@
+[
+  {
+    "term": "缝针",
+    "english": "sewing needle",
+    "definition": "机针缝纫中带引缝线穿过缝料的针 。[ 来源 :GB/TT 30420.1 一 2024 ,3.1.3 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "弯针",
+    "english": "looper",
+    "definition": "缝纫中带引缝线穿过线环的弯形零 ( 构 ) 件 。[ 来源 :GB/T 30420.1 一 2024,3.1.4 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "压脚",
+    "english": "presser foot",
+    "definition": "压紧机构中 , 压住缝料的零件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "过线环",
+    "english": "thread loop",
+    "definition": "引导缝线的零件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "针板",
+    "english": "needle plate",
+    "definition": "支撑缝料的零件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "梭芯套",
+    "english": "bobbin case",
+    "definition": "安装在旋梭 (3.1.8) 或摆梭 (3.1.9) 内 , 用于放置梭芯 (3.1.10) 并引导梭芯线的零件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "送料牙",
+    "english": "feed dog",
+    "definition": "送布牙送料机构 (3.1.21) 中 , 带有齿形状的用于输送缝料的零件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "挑线杆",
+    "english": "thread take-up lever",
+    "definition": "挑线机构 (3.1.19) 中 , 输送 . 收紧针线的零件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "挑线簧",
+    "english": "thread picking spring",
+    "definition": "实现针线缓冲 、 提供断线信号的零件 。[ 来源 :GB/T 30420.2 一 2019 ,2.3.2.4 , 有修改 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "线架",
+    "english": "spool pin",
+    "definition": "放置线团 . 引导针线的组件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "机架",
+    "english": "stand",
+    "definition": "于安装台板 (3.1.17) 的机件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "台板",
+    "english": "table plate",
+    "definition": "车台于安装缝纫机及放置布料的平台 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "挑线机构",
+    "english": "take-up mechanism",
+    "definition": "输送 、 回收并收紧针线的部件 。注 : 按机构形式分为凸轮挑线机构 . 连杆挑线机构滑杆挑线机构 . 旋转挑线机构和针杆挑线机构等 。[ 来源 :GB/TT 30420.1 一 2024 ,3.3.2 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "分线机构",
+    "english": "picker mechanism",
+    "definition": "扬线机构将线环分开 、 改变针线线量的剪线辅助装置 。[ 来源 :GB/T 30420.2 一 2019 ,2.3.11 ]3.1.2 1",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "压紧机构",
+    "english": "pressing mechanism",
+    "definition": "压料机构对缝料施加压力的部件 。[ 来源 :GB/T 30420.1 一 2024,3.3.5 , 有修改 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "夹线装置",
+    "english": "thread tension device",
+    "definition": "夹线器夹线座对缝线施加压力并能进行调节的部件 。[ 来源 :GB/T 30420.1 一 2024,3.3.10 , 有修改 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "润滑装置",
+    "english": "Iubricating device",
+    "definition": "缝纫过程中输送润滑油的部件 。注 : 润滑装置分为重力润滑装置 、 压力润滑装置和自动润滑装置等 。[ 来源 :GB/T 30420.1 一 2024,3.3.11 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "易油装置",
+    "english": "oil suction device",
+    "definition": "回油装置将润滑油吸回贮油器的部件 。[ 来源 :GB/T 30420.1 一 2024,3.3.12 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "针距调节装署",
+    "english": "stitch length adjusting device",
+    "definition": "调节针迹距大小的部件 。[ 来源 :GB/T 30420.1 一 2024 ,3.3.14 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "倒送料装置",
+    "english": "reverse feed device",
+    "definition": "改变送料方向的部件 。[ 来源 :GB/T 30420.1 一 2024 ,3.3.15 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "剪线装置",
+    "english": "thread trimming device",
+    "definition": "缝纫完成后 , 剪断缝线的部件 。[ 来源 :GB/ 工 30420.1 一 2024 ,3.3.16 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "穿线装置",
+    "english": "threading device",
+    "definition": "穿线器将针线穿人机针孔的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "旋梭吹气装置",
+    "english": "rotary hook blowing device",
+    "definition": "起缝前 , 将梭线线头吹离旋梭 (3.1.8) 或梭芯套 (3.1.11) 的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "图像识别装置",
+    "english": "image recognition device",
+    "definition": "通过成像技术 , 鉴别面料 、 纽扣等图案 . 形状及颜色的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "送框装置",
+    "english": "frame delivery device",
+    "definition": "送压板装置将模板框 (3.3.11) 、 压板送至缝纫工位或裁剪台的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "吸风装置",
+    "english": "air suction device",
+    "definition": "通过负压作用 , 将缝料吸附在缝纫工作台或奥烫平台等的使缝料",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "废料斗",
+    "english": "waste hopper",
+    "definition": "贮存裁片或布屑的容器 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "扩展台",
+    "english": "extension table",
+    "definition": "提供大面积缝料缝纫的辅助平台 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "定刀",
+    "english": "fixed knife",
+    "definition": "剪线装置 (3.1.31) 中的固定的刀具 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "封针",
+    "english": "latch needle",
+    "definition": "于闭合缝针 (3.1.1) 针孔缺口的零",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "护针",
+    "english": "needle guard",
+    "definition": "保护缝针 (3.1.1) 刺穿缝料时所产生",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "随动压脚",
+    "english": "linkage presser foot",
+    "definition": "中压脚缝纫过程中 , 随机针作循环压料动作的机械部件 。[ 来源 :GB/TT 30420.1 一 2024 ,3.3.5.4 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "辅助压脚",
+    "english": "auxiliary presser foot",
+    "definition": "缝纫过程中 , 辅助压紧缝料的机械部件 。[ 来源 :GB/TT 30420.1 一 2024 ,3.3.5.5 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "分离式针杆架",
+    "english": "separate needle bar holder",
+    "definition": "使两根针杆 (3.1.6) 分离运动或同步运动的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "针杆摆动机构",
+    "english": "needle bar swing mechanism",
+    "definition": "使针杆 (3.1.6) 左右或前后运动的部件 。[ 来源 :GB/TIT 30420.1 一 2024,3.3.1.1 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "下送料机构",
+    "english": "lower feeding mechanism",
+    "definition": "下送料牙 ( 或滚轮 ) 运动的送料机构 (3.1.21) 。[ 来源 :GB/T 30420.1 一 2024,3.3.3.1 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "差动送料机构",
+    "english": "differential feeding mechanism",
+    "definition": "两个独立的下送料牙或送料压脚 (3.1.3) , 以不同的移动量运动的送料机构 (3.1.21) 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "滚轮送料机构",
+    "english": "",
+    "definition": "[ 来源 :GB/ 工 30420.1 一 2024 ,3.3.3.6 ]roller feeding mechanism滚轮压紧缝料与另一个送料滚轮或送料牙 (3.1.12) 一起运动的送料机构 (3.1.21) 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "压脚提升机构",
+    "english": "presser foot lifting mechanism",
+    "definition": "将压脚 (3.1.3) 提起离缝料的部件 。[ 来源 :GB/T 30420.1 一 2024 ,3.3.6 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "线装置",
+    "english": "",
+    "definition": "ti disconnection thread tension device持针线线头 , 防止针线脱离机针孔的部件 。anti-bird nest device消除或减少起缝时缝料下方针线 、 梭线缠绕或堆积的部件 。自动取身「3l装置 automatic material retrieval device通过静电吸附板 、 针刺 、 机械手爪 ( 刚 / 柔性 ) 、 真空负压等形式 , 按照控制指令在指定位置抓取或放置缝料的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "切边装置",
+    "english": "edge trimming device",
+    "definition": "缝纫中切除缝料废边的部件 。[ 来源 :GB/ 工 30420.1 一 2024,3.3.8 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "松紧带定长输送及切断装罩",
+    "english": "elastic ribbon delivery and cutting device",
+    "definition": "按缝纫长度运送并剪断松紧带的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "松紧带端折叠装置",
+    "english": "elastic band end folding device",
+    "definition": "翻折松紧带两端的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "折边装置",
+    "english": "flanging device",
+    "definition": "折取缝料边缘的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "折裤攀装罩",
+    "english": "folding belt loop device",
+    "definition": "将裤襟的两端向内折取的装置 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "标签自动输送装置",
+    "english": "automatic label conveying device",
+    "definition": "将标签输送到缝制工位的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "模板识别装置",
+    "english": "template recognition device",
+    "definition": "通过读取模板 (3.3.10) 上的条码 、RFID 射频识别卡 、 二维码等信息 , 控制面板 (3.8.7) 调取 、 显示相对应的缝制花样文件的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "机头旋转装置",
+    "english": "head rotating device",
+    "definition": "针杆挑线勾线旋转装置针杆 (3.1.6) 、 挑线及勾线机构 (3.4.1.9 ) 按下一个缝纫针迹的送料方向 , 由计算机控制同步旋转的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "落料平台",
+    "english": "blanking platform",
+    "definition": "存放裁片并能根据堆垛高度升降的工作台 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "针杆箱",
+    "english": "needle bar case",
+    "definition": "针杆架〈 刺绣机 ; 由多个针杆 (3.1.6) 排列组合而成的部件 。[ 来源 :GB/T 30420.2 一 2019 ,2.3.2.1]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "拉杆",
+    "english": "pull bar",
+    "definition": "拉杆开关控制刺绣机启 、 停 、 回退等功能的开关 。[ 来源 :GB/ 工 30420.2 一 2019 ,2.3.3 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "绣框",
+    "english": "embroidery frame",
+    "definition": "口定刺绣面料的装置 。[ 来源 :GB/T 30420.2 一 2019 ,2.3.4, 有修改 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "绣框驱动机构",
+    "english": "embroidery frame driving system",
+    "definition": "将电机旋转变为直线运动并驱动绣框 (3.4.1.6) 的装置 。注 : 按行进方向分为 z 轴驱动机构和 y 轴驱动机构 ; 按驱动动力分为伺服绣框和步进绣框 , 其理分为开环步进绣框和闭环步进绣框 。[ 来源 :GB/T 30420.2 一 2019 ,2.3.5 , 有修改 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "勾线机构",
+    "english": "thread hooking mechanism",
+    "definition": "〈 刺绣机 ; 剪线后将绣线带出面料并固定的装置 。注 : 勾线机构分为集中勾线机构 、 独立勾线机构 。[ 来源 :GB/TIT 30420.2 一 2019 ,2.3.12 , 有修改 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "换色机构",
+    "english": "color changing mechanism",
+    "definition": "通过变换针杆 (3.1.6) 或环梭位置进行换色的装置 。注 : 按动力源形式分为交流电机换色机构和步进电机换色机构 。[ 来源 :GB/TIT 30420.2 一 2019 ,2.3.13 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "金片装置",
+    "english": "sequin device",
+    "definition": "亮片装置输送 、 切割金片的装置 。[ 来源 :GB/T 30420.2 一 2019 ,2.3.16 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "筒易毛巾绣装置",
+    "english": "simple chenille embroidery device",
+    "definition": "锁式绣机头上完成类似毛巾绣效果的装置 。[ 来源 :GB/T 30420.2 一 2019 ,2.3.17 , 有修改 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "筒易盘带绣装置",
+    "english": "simple cording embroidery device",
+    "definition": "锁式绣机头上完成类似盘带绣效果的装置 。[ 来源 :GB/TIT 30420.2 一 2019 ,2.3.18 , 有修改 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "珠子绣装置",
+    "english": "bead embroidery device",
+    "definition": "锁式绣机头上完成珠子绣的装置 。[ 来源 :GB/T 30420.2 一 2019 ,2.3.20, 有修改 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "自动润滑装署",
+    "english": "automatic lubrication device",
+    "definition": "刺绣过程中周期性对指定运动部位加注润滑油的装置 。[ 来源 :GB/T 30420.2 一 2019 ,2.3.24 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "针线张力联动调节机构",
+    "english": "needle thread tension adjuster",
+    "definition": "通过电机或其他形式同步调节所有机头当前针位针线张力的装置 。[ 来源 :GB/T 30420.2 一 2019 ,2.3.25 , 有修改 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "压脚高度调节机构",
+    "english": "presser foot height adjuster",
+    "definition": "通过电机或其他形式同步或独立调节各机头压脚 (3.1.3) 工作高度的装置 。[ 来源 :,GB/T 30420.2 一 2019 ,2.3.26 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "多色针线式三色绳绣装置",
+    "english": "three-color cording embroidery device with multi-color needle thread type",
+    "definition": "不同针线颜色及不同绳 ( 带 ) 颜色组合的绳绣绣作的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "单针三色绳绣装署",
+    "english": "three-color cording embroidery device with single-needle",
+    "definition": "单个机针绣作三种颜色绳 ( 带 ) 的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "植绒绣装置",
+    "english": "flocking embroidery device",
+    "definition": "绣作类似植绒状的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "剪绳带装置",
+    "english": "cording cutting device",
+    "definition": "剪断绳 、 带的部件 。3.4.2 “ 纺绣机纺缝机零部件",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "革安架装置",
+    "english": "Saddle device",
+    "definition": "驱动滚轮送布装置作 z 向往复直线移动的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "托布装置",
+    "english": "cloth supporting device",
+    "definition": "通过电机驱动 , 将里料托住并拉紧的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "接布装置",
+    "english": "cloth connecting device",
+    "definition": "将已完成组缝和即将绀缝的卷状面料首尾缝制 *",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "送布装置",
+    "english": "cloth feeding device",
+    "definition": "通过动力装置将面料恒定张力状态下输送到绀缝区域的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "颜色识别装置",
+    "english": "color recognition device",
+    "definition": "通过一个或多个颜",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "条切装置",
+    "english": "cutting",
+    "definition": "device按设定的切割宽度 ,",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "上主机机构",
+    "english": "upper host mechanism",
+    "definition": "实现送布松布和对边动作的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "下主机机构",
+    "english": "under host mechanism",
+    "definition": "支撑上主机机构 (3.5.1.1) 实施铺布动作的部件 。[ 来源 :GB/T 30420.3 一 2023 ,3.3.3 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "松布装置",
+    "english": "cloth-loosening device",
+    "definition": "解布装置消除面料伸缩弹性的部件 。[ 来源 :GB/ 工 30420.3 一 2023 ,3.3.1.3 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "松紧调节装置",
+    "english": "elastic adjustment device",
+    "definition": "通过传感器和调节管 , 调整面料松紧的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "对边装置",
+    "english": "edge-aligning device",
+    "definition": "控制上主机机构 (3.5.1.1) 左石往复运动 , 确保纵向铺布精度的部件 。[ 来源 :GB/T 30420.3 一 2023 ,3.3.2 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "展布装置",
+    "english": "cloth-flattening device",
+    "definition": "可随面料的宽度方向作张力的调整 , 消除面料的褶皱 、 压痕和内应力的部件 。[ 来源 :GB/T 30420.3 一 2023 ,3.3.4 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "上布装置",
+    "english": "cloth loading device",
+    "definition": "单次铺布后 , 完成布上表面与设定高度一致的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "升降装罩",
+    "english": "automatic lifting device",
+    "definition": "单次铺布后 , 完成面料上表面与设定高度一致的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "切布装置",
+    "english": "cloth cutting device",
+    "definition": "铺布完成后 , 切断面料的部件 。[ 来源 :GB/T 30420.3 一 2023,3.3.5 , 有修改 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "拨边装置",
+    "english": "edging device",
+    "definition": "展边装置把面料的卷边展开的部件 。[ 来源 :GB/ 工 30420.3 一 2023 ,3.3.6 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "匹布分层装置",
+    "english": "piece eloth layering device",
+    "definition": "将多层叠在一起的匹布一层一层分开的部件 。[ 来源 :GB/ 工 30420.3 一 2023 ,3.3.7 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "单拉压布装置",
+    "english": "single pulling and pressing cloth device",
+    "definition": "单向铺布时 , 压住面料防止其移动的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "后压布装置",
+    "english": "behind cloth-pressing device",
+    "definition": "口折器口定在铺布台 (3.5.1.19) 的起始端上 , 用于定位压住面料边缘的部件 。[ 来源 :GB/T 30420.3 一 2023 ,3.3.8.1 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "前压布装置",
+    "english": "front cloth-pressing device",
+    "definition": "移折器随铺布长度设置在铺布台 (3.5.1.19) 上 , 用于定位压住面料边缘的部件 。[ 来源 :GB/TIT 30420.3 一 2023 ,3.3.8.2 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "除静电装置",
+    "english": "static electricity removal device",
+    "definition": "消除面料产生静电的部件 。[ 来源 :GB/ 工 30420.3 一 2023 ,3.3.10 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "布尾感应器装置",
+    "english": "cloth tail sensor device",
+    "definition": "无布停机装置在面料铺完时控制上主机机构 (3.5.1.1) 自动停止运行后自动返回初始位置的部件 。[ 来源 :GB/T 30420.3 一 2023 ,3.3.11 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "铺布台",
+    "english": "eloth-spreading table",
+    "definition": "为铺布机提供铺布的支撑平台 。[ 来源 :GB/ 工 30420.3 一 2023 ,3.3.12 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "操作平台",
+    "english": "standing platform",
+    "definition": "随下主机机构 (3.5.1.2) 同步行进 , 操作者能站立操作并能观察运行状态的平台 。[ 来源 :GB/ 工 30420.3 一 2023 ,3.3.13 ]3.5.2 “ 裁剪设备零部件",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "裁刀装置",
+    "english": "eutting knife device",
+    "definition": "电机驱动裁刀片裁断布料的部件 , 并附有定时器 、 计数器 、 磨刀等辅助功能的部件或机构 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "裁头",
+    "english": "cutting head",
+    "definition": "数控裁剪机控制裁刀移动和进行剪裁动作的部件 。[ 来源 :GB/T 30420.3 一 2023 ,4.3.2 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "磨刀组件",
+    "english": "knife-sharpening assembly",
+    "definition": "安装在裁头 (3.5.2.2) 上使刀片锋利的部件 。[ 来源 :GB/T 30420.3 一 2023 ,4.3.3 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "二次覆盖装置",
+    "english": "secondary covering device",
+    "definition": "日覆盖装置裁剪完成后 , 将薄膜重新覆盖在已完成裁剪的面料上 , 防止真空腔体漏气的部件 。[ 来源 :,GB/T 30420.3 一 2023 ,4.3.13 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "打孔装置",
+    "english": "punching device",
+    "definition": "裁剪过程中根据需求在面料上打孔的部件 。注 : 根据可打孔数量不同分为单打孔装置 、 双打孔装置 、 多打孔装置等 。[ 来源 :GB/T 30420.3 一 2023 ,4.3.14 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "冷却装置",
+    "english": "cooling device",
+    "definition": "裁剪过程中降低裁刀的温度 , 并能实现瞬间冷却的部件 。[ 来源 :,GB/T 30420.3 一 2023 ,4.3.15 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "视觉标注装署",
+    "english": "visual marking device",
+    "definition": "定位 、 识别裁剪面料上的特定标记或缺陷的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "边走边裁装置",
+    "english": "continuous cutting device",
+    "definition": "通过电机及控制系统 , 使裁头 (3.5.2.2) 运动与面料传输运动保持一致 , 实现不停机行进中完成裁剪的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "清洁装置",
+    "english": "cleaning device",
+    "definition": "清理裁剪台鬟毛砖上的布屑等异物的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "投影装置",
+    "english": "projection apparatus",
+    "definition": "将裁剪的码号信息投射到收料台裁片上 , 收料时区分码号的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "直刀",
+    "english": "straight knife",
+    "definition": "直线形的片状刀片 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "圆刀",
+    "english": "round knife",
+    "definition": "圆形或八角圆形状的刀片 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "刀架",
+    "english": "cutter stand",
+    "definition": "于刀片在果内作上下往复运动的立式柱架 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "安全防护罩",
+    "english": "safety shield",
+    "definition": "前盖装置安装在刀片前的压脚 (3.1.3) 和压脚杆组件上 , 起到安全保护作用的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "直刀驱动装置",
+    "english": "straight knife driving device",
+    "definition": "通过机械传动 , 带动直刀 (3.5.3.1) 刀片作上下往复直线运动的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "调速装置",
+    "english": "speed-regulating device",
+    "definition": "采用有级或无级调速的形式 , 改变电机转速的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "裁剪长度限制装置",
+    "english": "cutting length limit device",
+    "definition": "根据裁剪面料的宽度 , 设定裁剪运行长度的部件 。3.6 “ 东烫粘合零部件",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "轨道",
+    "english": "running track",
+    "definition": "在输送系统中所运行的进通各工序的循环轨道 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "撑衣装置",
+    "english": "clothes supporting device",
+    "definition": "将服装支撑展开的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "吸盘",
+    "english": "suction cups",
+    "definition": "采用负压吸盘的形式 , 分离 \\ 撑",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "烘干装置",
+    "english": "drying device",
+    "definition": "通过加热的方式对面料进行干",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "自动纠偏装署",
+    "english": "automatic deviation correction device",
+    "definition": "通过红外线光电或微动开关检测粘合物料输送带位置 , 采用气控或电控调节输送带运动位置的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "剥离装置",
+    "english": "stripping device",
+    "definition": "通过铲板将粘合物料脱离粘合带的部件 。3.7 “ 吊挂输送系统零部件",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "支轨",
+    "english": "branch raill",
+    "definition": "吊架 (3.7.3) 从主较 (3.7.1) 进人工作站和从工作站进人主轨 (3.7.1) 所运行的轨道 。注 : 由进站支轨 、 提升支轨和出站支轨组成 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "载具滚轮",
+    "english": "vehicle wheel",
+    "definition": "带动吊架 (3.7.3) . 输送框 ( 袋 )(3.7.4) 在用挂输送系统中移动的运动构件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "推杆",
+    "english": "rack push rod",
+    "definition": "驱动吊架 (3.7.3) 、 输送框 ( 袋 )(3.7.4) 等在主轨 (3.7.1) 上运行的构件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "输送轨道",
+    "english": "conveyor track device",
+    "definition": "通过电控或气控运动构件 , 按照控制指令将传输物品进行传送运行的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "出站变轨机构",
+    "english": "exit and track change mechanism",
+    "definition": "吊架 (3.7.3) 从出站支轨 (3.7.2) 进人到主轨 (3.7.1) 的轨道切换部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "进站变轨装置",
+    "english": "inbound track changing device",
+    "definition": "吊架 (3.7.3) 从主轨 (3.7.1) 进人到进站支轨 (3.7.2 ) 的轨道切换部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "满检装置",
+    "english": "full inspection device",
+    "definition": "检测设定区域内吊架 (3.7.3) 存储是否达到最大数量的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "支轨防护装置",
+    "english": "protection device for the branch raill",
+    "definition": "防止支轨 (3.7.2) 上吊架 (3.7.3) 掉落的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "分道输送装置",
+    "english": "lane transfer device",
+    "definition": "分流装置在主轨 (3.7.1) 上连续设置多个变轨机构与对应分轨相进 , 使吊架 (3.7.3) 分配至其他多条分轨上运行的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "扩展板",
+    "english": "expansion board",
+    "definition": "除主板外其他控制各类特殊功能的电路板 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "电源板",
+    "english": "power supply board",
+    "definition": "为控制系统提供所需电源的电路板 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "数字电源",
+    "english": "digital power",
+    "definition": "通过数字信号处理器或微控制器为控制系统及设备提供精确的输出电压 、 电流 、 功率等参数调节和控制的电源 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "双主轴控制器",
+    "english": "dual spindle controller",
+    "definition": "驱动两个伺服电机同步运转的控制设备 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "放布装置",
+    "english": "fabric releasing device",
+    "definition": "装载卷状面料的 , 并将面料前段送人机械",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "展平装置",
+    "english": "flattening device",
+    "definition": "采用吹气形式 , 使面料平整展开的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "视觉检测装置",
+    "english": "visual inspection device",
+    "definition": "通过摄像头与辅助光源 , 检查面料疵点的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "贴标装置",
+    "english": "labeling device",
+    "definition": "对面料疵点标记的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "对边收布装置",
+    "english": "fabric collection device with edge aligning",
+    "definition": "验布后将面料对边 、 收卷的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "称重装置",
+    "english": "load cell device",
+    "definition": "对收布后的面料测量重量 , 并在控制面板 (3.8.7) 上显示重量信息的部件 。3.9.2 “ 洗水缩水设备零部件09)夹紧 , 配合送布装置 (3.4.2.5) 送布的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "振动装置",
+    "english": "vibration device",
+    "definition": "抖动网带上面料 , 使其处于松弛状态的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "叠布装置",
+    "english": "fabric folding device",
+    "definition": "驱动摆布架摆动 , 折叠面料的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "蒸汽喷射装置",
+    "english": "steam injection device",
+    "definition": "采用喷射蒸汽的方式 , 消除面料收缩应力 , 降低面料缩水率的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "面料冷却装置",
+    "english": "fabric cooling device",
+    "definition": "采用风冷方式 , 降低面料温度的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "排汽装置",
+    "english": "steam exhaust device",
+    "definition": "对预缩产生的蒸汽尾汽收集并排放至室外的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "拨布装置",
+    "english": "fabric pulling device",
+    "definition": "通过螺旋旋转机构 , 将卷边或皱褶面料平整展开的部件 。3.9.3 _ 检针设备零部件",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "检针输送装置",
+    "english": "conveying device for needle detector",
+    "definition": "运送被检测物体的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "激光器冷却装置",
+    "english": "cooling device for laser source",
+    "definition": "通过循环流动的冷却介质 , 吸收激光器内部热量的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "辅助气体装置",
+    "english": "auxiliary gas device",
+    "definition": "激光切割产生的熔渣通过辅助气体吹离到抽风装置 (3.9.4.3) 的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "抽风装置",
+    "english": "gas exhaustion device",
+    "definition": "将激光切割产生的烟尘抽离切割区域的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "步丁受",
+    "english": "",
+    "definition": "激光切割装置 “laser cutting deviceR 用激光切割缝料的装置 。[ 来源 :GB/ 工 30420.2 一 2019 ,2.3.23, 有修改 ]3.9.5 “ 充绒设备零部件",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "搅拌装置",
+    "english": "agitator de",
+    "definition": "Vice储绒箱 (3.9.5.1) 中 , 均匀搅拌充填物的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "输绒管",
+    "english": "velvet transport pipe",
+    "definition": "将充填物由储绒箱 (3.9.5.1) 输送到称重箱 (3.9.5.5) 的导向管 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "充绒管",
+    "english": "velvet filling",
+    "definition": "tube将充填物送到裁片的导向部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  }
+]

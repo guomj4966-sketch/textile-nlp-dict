@@ -1,0 +1,14 @@
+{
+  "generated": "2026-08-01 20:27",
+  "total_sentences": 271,
+  "total_tokens": 11922,
+  "entity_counts_by_type": {
+    "TEXTILE": 94,
+    "AGENCY": 48,
+    "POLICY": 221,
+    "TIME": 3,
+    "DOC_TYPE": 10,
+    "GEO": 11
+  },
+  "total_entity_tokens": 1193
+}

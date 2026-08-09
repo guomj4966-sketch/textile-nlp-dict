@@ -1,0 +1,44 @@
+[project]
+name = "textile-nlp-dict"
+version = "3.1.0.dev0"
+description = "纺织行业中文 NLP 领域词典与术语库——多项目共享的纺织领域 NLP 底座"
+requires-python = ">=3.10"
+readme = "README.md"
+license = {text = "MIT"}
+authors = [
+    {name = "纺织行业政策研报系统·支柱三专项工作组"}
+]
+keywords = ["nlp", "textile", "chinese", "jieba", "terminology", "domain-dictionary"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Science/Research",
+    "Topic :: Text Processing :: Linguistic",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+]
+
+dependencies = [
+    "jieba>=0.42",
+    "pyyaml>=6.0",
+]
+
+[project.optional-dependencies]
+ner = ["sklearn-crfsuite>=0.3"]
+sources = ["openpyxl>=3.0", "python-docx>=0.8", "pdfplumber>=0.10", "pymupdf>=1.28"]
+all = ["textile-nlp-dict[ner,sources]"]
+
+[project.scripts]
+textile-dict-validate = "textile_dict.tools.term_validator:main"
+textile-dict-classify = "textile_dict.tools.auto_classify:main"
+
+[build-system]
+requires = ["setuptools>=68.0"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+package-data = {"textile_dict" = ["data/*.yaml", "data/*.txt", "data/*.csv", "data/*.jsonl", "data/*.json"]}
+
+[tool.setuptools.packages.find]
+include = ["textile_dict*"]

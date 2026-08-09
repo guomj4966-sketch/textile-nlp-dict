@@ -1,0 +1,317 @@
+[
+  {
+    "term": "士丕带",
+    "english": "semi-finished belt",
+    "definition": "纱线经织造或编织 , 未经切钩和抓毛等工序而成的带状织物 , 是粘扣带半成品 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "钩面",
+    "english": "hook face",
+    "definition": "粘扣带上有钩体的一面或部分 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "圈面",
+    "english": "loop face",
+    "definition": "粘扣带上有圈的一面或部分 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "实织面",
+    "english": "hook or",
+    "definition": "loop area粘扣带钩面或圈皂上有钩或圈的区域 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "钩体",
+    "english": "hook body",
+    "definition": "钩面上的钩型组织体 。粘扣粘扣",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "圈体",
+    "english": "loop body",
+    "definition": "圈面上的圈型组织体 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "纵密",
+    "english": "wale",
+    "definition": "针织粘扣带的纵行方向单位长度内所含的线圈横列数 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "横密",
+    "english": "course",
+    "definition": "针织粘扣带横列方向单位长度内所含的线圈纵行数 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "园密",
+    "english": "loop density",
+    "definition": "图面带单位面积内圈的数量 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "钩高",
+    "english": "hook height",
+    "definition": "粘扣带中一个完整钩的高度 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "有效宽度",
+    "english": "effective width",
+    "definition": "垂直于粘扣带的长度方向除去基边后的宽度 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "钩针边",
+    "english": "crochet selvedge",
+    "definition": "坯带由钩针锁边形成的布边 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "抓毛",
+    "english": "raising",
+    "definition": "对粘扣带的圈面带进行的起毛处理 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "分条",
+    "english": "cutting through",
+    "definition": "将粘扣带的坯带在宽度方向上的分割 ( 例如沿中缝分割 ), 形成一定幅宽的粘扣带 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "剪带",
+    "english": "eutting across",
+    "definition": "将粘扣带的坯带在长度方向上的分割 , 形成一定长度的粘扣带 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "接带",
+    "english": "joining",
+    "definition": "将两个粘扣带接合在一起 , 形成长度更长的粘扣带 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "柔软粘扣带",
+    "english": "soft touch and close fasteners",
+    "definition": "采用软质材料制成钩面带和圈面带的粘扣带 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "松紧粘扣带",
+    "english": "elastic touch and close fasteners",
+    "definition": "具有较大拉伸弹性的粘扣带 , 其圈面带的基 ( 底 ) 面布含有高弹材料 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "非织造粘扣带",
+    "english": "nonwoven touch and close fasteners",
+    "definition": "采用非织造布作为圈面带的粘扣带 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "背胶粘扣带",
+    "english": "glue-coated touch and close fasteners",
+    "definition": "在其背面涂膜适宜的粘着剂 , 可粘贴于其他物品上的粘扣带 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "与一段",
+    "english": "I",
+    "definition": "日是钩百 , 另一蘑菇割莓叟F占 …t口 『'r帚】1『_ touch and close fasteners with mushroom-head hooks钩面带的钩型为蘑菇头状的粘扣带 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "有效长度",
+    "english": "effective length",
+    "definition": "粘合区域在粘扣带长度方向的尺寸 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "有效面积",
+    "english": "effective area",
+    "definition": "粘扣带粘合区域的有效宽度和有效长度的乘积 。皂一排钩与一排圈 、",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "剪切强力",
+    "english": "shear force",
+    "definition": "沿粘扣带的长度方向拉伸 , 使闭合粘扣带的钩面带和圈面带平行分开所需的最大力 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "剪切强度",
+    "english": "shear strength",
+    "definition": "单位有效面积的剪切强力 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "剥离强度",
+    "english": "peel strength",
+    "definition": "单位有效宽度的剥离强力 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "染料迹",
+    "english": "dye stain",
+    "definition": "在染色坯带上局部呈现与邻近部位有差异的分散色块痕迹 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "污迹",
+    "english": "stain",
+    "definition": "外来物的污染造成 , 在粘扣带上不连续的异色区域 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "漏钩",
+    "english": "nceut loop",
+    "definition": "钩面带的钩圈未切开 , 未形成钩体 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "拉钩",
+    "english": "long hook",
+    "definition": "钩面带中高于正常高度的钩体 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "跳针",
+    "english": "float defect",
+    "definition": "坯带织造时纱线未按组织编织 , 呈现连续跨过几个纵行的长浮线 ; 或锁边针线未按正连续跨过两根或两根以上纬纱的一个线圈 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "毛园边",
+    "english": "loopy selvedge",
+    "definition": "纬纱呈圈状突出于基边外 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "起皱波纹",
+    "english": "cockling",
+    "definition": "坯带上呈现皱纹 、 弯曲或不平整的区域 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "边疵",
+    "english": "selvedge defect",
+    "definition": "坯带基边出现影响产品外观的缺陷 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "下丝",
+    "english": "yarn falling off",
+    "definition": "万背胶粘力的绑纱强力不足 , 导致基边两侧纱线脱落 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "断经",
+    "english": "broken end",
+    "definition": "坯带一段长度内缺少一根经纱 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "毛边",
+    "english": "fuzzy selvedge",
+    "definition": "粘扣带外侧有毛须状纤维的布边 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "断圈纱",
+    "english": "broken loop-yarn",
+    "definition": "构成圈面的纱线断裂 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "底板起毛",
+    "english": "back fuzzing",
+    "definition": "织造工序中 , 坯带反面出现的异常毛绒或长丝 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "散边",
+    "english": "frayed selvedge",
+    "definition": "坯带两侧边的锁边破坏 , 导致边纱脱落 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "反毛",
+    "english": "back raising",
+    "definition": "抓毛工序中 , 坯带反面出现不应有的起毛 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "渗胶",
+    "english": "glue permeation",
+    "definition": "坯带上胶过多 , 渗透至粘扣带的圈面或钩面 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "胶斑",
+    "english": "glue spot",
+    "definition": "粘在坯带上的结块胶水 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "钩圈偏小",
+    "english": "smaller hook",
+    "definition": "钩圈切钩后 , 其钩型尺寸小于设计钩型 。汉语拼音索引背)引交叟_熹占…_:口_\"帛薯_ E边疵诊剥离强度剥离强力不抓毛粘扣带错鳃 .大心迅 .仁铸 .仁团 .底板起毛 …断铸鲛 .断缉 .断园纱 .断纵 44反毛 ….....非织造粘抹带 …分条拱带 00钦目 .钦宿 .钩面钩体钩面粘抹带 …钩团大小不匀 .钩园偏大 …钩圈佐小 .钩园同面粘抹带 …钩园同体粘抹带 …D 3_`__5",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "强力粘扣带",
+    "english": "",
+    "definition": "筝酒圆明浑弃印易染料迹架色条绞 000柔软粘扣带散边 0色差色花熏铸 04滑膜 .实织面松紧粘扣带跟鳃跟钊英文对应词索引abnormal stI.ipe 才arch belt应back raisingbase selvagebigger hookbroken endebroken loop-yarnbroken pickClosure area",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  }
+]

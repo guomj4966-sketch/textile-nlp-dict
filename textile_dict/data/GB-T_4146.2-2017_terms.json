@@ -1,0 +1,373 @@
+[
+  {
+    "term": "再生纤维",
+    "english": "regenerated fibers",
+    "definition": "以天然产物 ( 纤维",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "无机纤维",
+    "english": "inorganic fibers",
+    "definition": "以矿物质等为原料制成的纤维 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "再生纤维素纤维",
+    "english": "",
+    "definition": "regenerated cellulose fibers以天然纤维素为原料 , 经纺丝过程制成的再生纤维 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "再生蛋白质纤维",
+    "english": "regenerated protein fibers",
+    "definition": "以天然蛋白质为原料 , 经纺丝过程制成的再生纤维 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "生物基化学纤维",
+    "english": "",
+    "definition": "bio-based fibers以生物质为原料或含有生物质来源单体的聚合物所制成的纤维 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "功能性化学纤维",
+    "english": "",
+    "definition": "在纤维生产过程",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "高性能化学纤维",
+    "english": "",
+    "definition": "h 赋孙其的 , 具有超出常规纤维功能的纤维 。high performance fibers本身的物理机械性能 、 热性能突出 , 或具有某些特殊性能的纤维 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "长丝",
+    "english": "filament",
+    "definition": "连续长度很长的单根或多根丝条 。 长度一般以千米计 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "短纤维",
+    "english": "staple fibers",
+    "definition": "化学纤维的切段纤维 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "工业长丝",
+    "english": "industry filament",
+    "definition": "于工业领域的具有较高的物理机械性能的化学纤维长丝 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "高取向丝",
+    "english": "high oriented yarn; HOY",
+    "definition": "超高速纺丝得到的结晶高取向化纤长丝 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "全拉伸丝",
+    "english": "full drawn yarn;FDY",
+    "definition": "纺丝 、 拉伸一步法得到的充分结唾 、 取向化纤长丝 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "拉伸变形丝",
+    "english": "draw textured yarn; DTY",
+    "definition": "化纤长丝的全部或部分拉伸阶段与变形工艺在同一机台上进行而制成的变形纤维 , 又称弹力丝 。以生产工艺不同有低弹丝 、 中弹丝和高弹丝等 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "膨体长丝",
+    "english": "bulked continuous filament; BCF",
+    "definition": "经过纺丝 、 牵伸 、 热空气变形处理制成的蓬松长丝 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "网络丝",
+    "english": "interlaced yarn;tangled yarn",
+    "definition": "化学纤维长丝经过特殊压缩空气喷嘲 ( 网络器 ) 加工成的交缠丝 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "牵切纤维",
+    "english": "stretch breaking fibers",
+    "definition": "采用丝束直接成条的工艺把丝束拉断或切断 , 使纤维长度不超过规定上限所得到的短纤维 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "中空纤维膜",
+    "english": "hollow fibers membrane",
+    "definition": "纤维壁具有微孔的选择透过性中空纤维 , 微孔尺寸为纳米至微米级 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "超细纤维",
+    "english": "superfine fibers; microfibers",
+    "definition": "单丝线密度小于或等于 0.33 dtex 的纤维 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "纳米乡千乡佳",
+    "english": "nanofibers",
+    "definition": "平均直径小于 100 nm 的纤维 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "消光纤维",
+    "english": "dull fibers",
+    "definition": "纺丝过程中 , 经过化学或物理方法进行消光处理制成的纤维 。注 : 通常用二氧化钛为消光剂 , 依二氧化钛添加量有微消光纤维 、 半消光纤维和全消光纤维之分 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "三维卷曲纤维",
+    "english": "three-dimensional crimp fibers",
+    "definition": "在规定的条件下 , 产生立体卷曲的纤维 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "超短纤维",
+    "english": "short cut fibers",
+    "definition": "长度小于 20 mm 的纤维 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "原液着色纤维",
+    "english": "spun-dyed fibers",
+    "definition": "含有着色剂的纺丝原液或熔体纺制成的有色纤维 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "阳离子染料可染聚酯纤维",
+    "english": "cationic-dyeable fibers",
+    "definition": "具有阳离子染料可染性能的聚酯纤维 。注 : 在聚合过程中 , 添加人含有磺酸基团的第三单体制成三元共聚物后进行纺丝制成的纤维 ; 或者再进一步添加人巳具有疏松分子链结构的其他单体 , 组成",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "皮芯型复合纤维",
+    "english": "sheath-core composite fibers",
+    "definition": "两种组分聚合物分别沿纤维纵向连续形成皮",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "裂片型复合纤维",
+    "english": "split composite fibers",
+    "definition": "两种组分聚合物沿纤维轴向分别连续排列 , 纤维截多个裂片的复合纤维 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "海岛型复合纤维",
+    "english": "sea-island composite fibers",
+    "definition": "分散相聚合物 ( 岛 ) 均匀嵌在连续相聚合物 ( 海 ) q",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "毛条",
+    "english": "top",
+    "definition": "化学纤维原料制成的条形纤维集合体 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "帘子线",
+    "english": "tire cord",
+    "definition": "作帘子布经纱的强力股线 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "碳纤维原丝",
+    "english": "carbon fibers precursor",
+    "definition": "员的复合纤维 。呈现橡瓣 、 条形等形状 , 经后加工处理 , 能分成h 形成的复合纤维 。于生产化学纤维的以粉状 、 絮状等固体形式存在的合成高分子材料 。用于生产化学纤维的以球形 、 柱形 、 圆柱状等颗粒形状存在的合成高分子材料 。扎生产化学纤维的成纤性天然或合成聚合物经化学或机械处理而制成的纤维状聚集体 。能满足生产碳纤维要求的专用纤维 , 又称碳纤维前驱体 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "丝束",
+    "english": "tow",
+    "definition": "来切断成短纤维或经牵切法而制成化纤条的大量根数的连续长丝集合而成的基本无挝的长条化学纤维东 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "弹性纤维",
+    "english": "elastic fibers",
+    "definition": "具有高延伸性 , 高回弹性的纤维 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "高收缩纤维",
+    "english": "high shrinkage fibers",
+    "definition": "经过热处理后 , 具有较高收缩率的纤维 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "低收缩纤维",
+    "english": "low shrinkage fibers",
+    "definition": "经过热处理后 , 具有较低收缩率的纤维 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "阻燃纤维",
+    "english": "flame retardant fibers",
+    "definition": "离开火焰后能很快自行熄灭有焰燃烧和无焰燃烧的纤维 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "发光纤维",
+    "english": "Iuminescent fibers; luminous fibers",
+    "definition": "受到射线照射时能发出可见光的纤维 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "结构生色纤维",
+    "english": "structural coloration fibers",
+    "definition": "利用微观结构经光散射或干涉等作用而产生颜色的纤维 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "抗静电纤维",
+    "english": "antistatic fibers",
+    "definition": "不易集聚静电荷 , 有防止产生静电或消除静电作用的纤维 。 也称防静电纤维 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "导电纤维",
+    "english": "electro conductive fibers",
+    "definition": "全部或部分使用金属或导电性有机物等导电材料或亚导电材料制成的纤维 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "上血纤维",
+    "english": "stanch fibers",
+    "definition": "有优良黏附性和疑血作用且无毒性和可被吸收的多孔柔软纤维 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "可吸收纤维",
+    "english": "absorbable fibers",
+    "definition": "植人人类或动物肌体内 , 在一定时间内能自行降解并被植人机体组织完全吸收的纤维 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "反应型活性纤维",
+    "english": "reactive fibers",
+    "definition": "在大分子主链或侧链含有化学反应性基团的纤维 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "吸湿纤维",
+    "english": "hydroscopic fibers",
+    "definition": "能从周围环境中吸着大量汽态水分的纤维 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "防污纤维",
+    "english": "anti-soil fibers",
+    "definition": "具有抵抗沾污或易去污性能的纤维 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "离子交换纤维",
+    "english": "ion exchange fibers",
+    "definition": "具有离子交换功能的纤维 , 根据其拥有的离子交换基团的种类 , 可分为阳离子交换纤维 、 阴离子交",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "活性碳纤维",
+    "english": "activated carbon fibers",
+    "definition": "经活化处理得到表面有大量微孔结构 , 并有很大比表面积的碳化纤维 。 一般比表面积大于500 me /g。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "生物基再生纤维",
+    "english": "regenerated bio-based fibers",
+    "definition": "以生物质为原料经纺丝所制成的纤维 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "生物基合成纤维",
+    "english": "synthetic bio-based fibers",
+    "definition": "以生物质为原料经发酵等方法制备小分子 , 再经聚合制备高分子后纺丝成形所制成的纤维 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "光敏变色纤维",
+    "english": "cChameleon fibers",
+    "definition": "色泽随外界光照条件变化发生可逆变化的纤维 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "形状记忆纤维",
+    "english": "shape memory fibers",
+    "definition": "在特定条件下能够回复外界所赋予初始形状的纤维 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "调温纤维",
+    "english": "thermoregulation fibers",
+    "definition": "根据外界环境温度变化 , 在一定时间内实现温度调节功能的纤维 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "自修复纤维",
+    "english": "self-repairing fibers",
+    "definition": "受到一定程度破坏后 , 通过自诊断和自修复功能重新获得性能的纤维 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "化学循环再利用纤维",
+    "english": "chemical recycled fibers",
+    "definition": "回收材料经分解 、 再聚合等化学方法制成的纤维 。汉语拼音索引变开乡乡千乡佳 T并列型复合纤维一 .榴绍超细纤维一 …超短纤维一 …单绍导电纤维一 …导湿纤维一 .低收缩纤维 …短纤维 …发光纶维 …反应型活性纤维一 …防电磁辐射纤维 …防污纤维 .仿真纤维一 .复合纤维 .改性纤维 …高强度高模量纤维 …盲取向纺 …高收缩纤维 …高易水纤维一 .高性能化学纤维一 …工业其经功能性化学纤维 …光导纤维一 .光数变色纤维 …",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  }
+]

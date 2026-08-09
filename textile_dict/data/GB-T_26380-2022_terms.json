@@ -1,0 +1,1164 @@
+[
+  {
+    "term": "桑蚕彩色茧",
+    "english": "colored cocoon",
+    "definition": "桑蚕直接吐出非白色丝结的茧 。注 : 白色的色度坐标及颜色体系标号的规定测定与计算见 GB/T 37370。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "鲜茧",
+    "english": "fresh cocoon",
+    "definition": "从蔽具上摘下 , 未经杀蛹干燥处理的蚕茧 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "次菖",
+    "english": "light defective cocoon",
+    "definition": "有疵点 , 但可供绪制低等级丝的茧 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "庄口",
+    "english": "lot",
+    "definition": "区分蚕茧产地 、 年份和季节的茧批标 ( 名 ) 称 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "蚕丝",
+    "english": "silk",
+    "definition": "熟蚕结茧时分泌丝液凝固而成的连续长纤维 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "桑蚕丝",
+    "english": "mulberry silk",
+    "definition": "桑蚕分泌的丝 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "茧丝",
+    "english": "bave",
+    "definition": "由单粒蚕茧抽取的丝纤维 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "生丝",
+    "english": "raw silk",
+    "definition": "厂丝以桑蚕茧为原料 , 按一定的制丝工艺和质量要求",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "粗规格生丝",
+    "english": "COarse raW silk",
+    "definition": "纤度规格在 76.6 dtex(69 den) 以上的",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "双宫丝",
+    "english": "dqouppion silk",
+    "definition": "以双宫茧为主要原料 , 按一定的制丝 ]OnL生丝 。[ 艺和质量要求 ,",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "色丝",
+    "english": "dyed silk",
+    "definition": "经脱胶 、 染色的蚕丝 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "桑蚊挛线丝",
+    "english": "thrown silk",
+    "definition": "单根或多根无掏或有挝生丝经并合加",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "碧绑线",
+    "english": "corkscrew yarn",
+    "definition": "j 两根及以上生丝组成的抢线丝与一根或多根生生丝呈螺旋状包缠于芯丝表的复合丝 。j 机械将若干根茧丝抱合胶着绪制而成的长丝 。j 机械绪制的具有疙瘩状独特风格的长丝 。丝并合 , 再加反向强掏而成具有一定膨松性的螺",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "柞蚕土丝",
+    "english": "",
+    "definition": "以柞蚕劣茧为原料 , 用简单机械 , 按药水丝工艺缤制的长丝 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "蚕丝绵",
+    "english": "",
+    "definition": "sSilk floss以蚕茧茧壳或绪丝加 -[ 的副产品为原料加工而成的网状 、 祭状注 : 蚕丝绵主要有桑蚕丝绵 、 柞蚕丝绵和绢制丝绵 。3.2.2 1绢制丝绵采",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "色纺绢丝",
+    "english": "dyed spun silk yarn",
+    "definition": "蚕丝短纤维先经染色 , 再加",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "柞蚕纳丝",
+    "english": "",
+    "definition": "tussah silk noilj 桑蚕绢纺落绵 , 经绍丝纺工艺系统加工纺制的纱线 。yarnj 柞蚕绢纺落绵 , 经绍丝纺工艺系统加工纺制的纱线 。[ 艺系统加 Jj 作填充物的丝绵 。[ 纺制的纱线 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "蚕丝下脚",
+    "english": "silk waste;silk by-products",
+    "definition": "缙丝加工过程中产生的副产品 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "蛹衬",
+    "english": "basin residue",
+    "definition": "线丝过程中不能再绿丝的内层落绪茧 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "蚕蛹",
+    "english": "chrysalis",
+    "definition": "蚕吐丝结茧完成后在茧内脱皮化成的蛹 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "柞蚕大挽手",
+    "english": "tussah long waste",
+    "definition": "柞蚕茧在绪丝前的扒茧过程中获得的绪丝 , 经加工整理制成的条束状纤维 。注 : 按柞蚕茧的煮漂方法 、 用药种类 、 缤丝方法和原料茧种类的不同 , 又分为水缬大损手 、 药水大损手 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "柞蚕二挽手",
+    "english": "tussah short waste",
+    "definition": "柞蚕茧维丝过程中 , 经索理绪获得的绪丝 , 经加工整理制成的条束状纤维 。注 : 按柞蚕茧的煮漂方法 、 用药种类 、 缤丝方法和原料茧种类的不同 , 分为水线二损手 、 药水二损手 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "精干绵",
+    "english": "scoured waste silk",
+    "definition": "绢纺原料精练后 , 经过水洗 、 脱水 、 烘干制成洁净 、 蔡松 、 柔软 、 干燥适宜的半制品 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "回绵",
+    "english": "reusable spun silk waste",
+    "definition": "制绵 、 纺丝加工过程中产生的可回用的半制品 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "落绵",
+    "english": "silk noil",
+    "definition": "经精梳机梳理提取精绵后落下的短纤维 。注 : 圆型梳绵机的落绵称为圆梳落绵 ; 直型精梳机的落绵称为精梳落绵 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "丝织物",
+    "english": "silk fabric",
+    "definition": "丝绸以蚕丝 、 化学纤维长丝或以其为主要原料织成的各种织物 。注 : 按织物的组织 、 加艺 、 质地和外观效应 , 可分为纺 、 绕 、 缎 、 绫 、 纱 、 罗 、 绚 、 锦 、 绣 、 呢 、 葛 、 绢 、 绢 、 绸等十四大类 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "桑蚕绍丝织物",
+    "english": "mulberry noil silk fabric",
+    "definition": "绵绸以桑蚕绍丝纯织或以其为主与其他纱线交织的织物 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "柞蚕丝织物",
+    "english": "tussah silk fabric",
+    "definition": "以柞蚕丝纯织或以其为主与其他纱线交织的织物 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "柞蚕绢丝织物",
+    "english": "tussah spun silk fabric",
+    "definition": "以柞蚕绢丝纯织或以其为主与其他纱线交织的织物 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "再生纤维素丝织物",
+    "english": "regenerated cellulose filament fabric",
+    "definition": "以再生纤维素长丝为主要原料纯织或交织的丝织物 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "富春纺",
+    "english": "fu-chun rayon taffeta",
+    "definition": "经丝为再生纤维素长丝 、 纬丝为再生纤维素短纤纱交织成的平纹织物 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "合成纤维丝织物",
+    "english": "synthetic filament yarn fabric",
+    "definition": "以合成纤维长丝为主要原料纯织或交织的丝织物 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "麂皮绒",
+    "english": "suede nap",
+    "definition": "经丝或纬丝采用海岛丝等水溶性合成纤维织成 , 并经磨毛 、 砂洗等处理 , 绸面有明显麂皮绒感的织物 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "桑蚕丝弹力织物",
+    "english": "elastic mulberry silk fabric",
+    "definition": "以桑蚕丝为主要原料 , 通过加艺或添加弹性纤维而具有弹性的丝织物 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "蚕丝装饰织物",
+    "english": "decorative silk fabric",
+    "definition": "以蚕丝为主要原料 , 作为装饰用的丝织物 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "丝织被面",
+    "english": "jacquard quilt cover",
+    "definition": "j 作被褥或被子面层的独幅丝织物 , 以重纬组织为主 , 花样布局以中心独花和两边对称花及四个花组成 。注 : 可分为软缎被面 、 织锦被面和线绢被面三类 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "锦缎类丝织物",
+    "english": "brocade and satin of silk fabrics",
+    "definition": "经 、 纬丝无掏或加弱掏 , 先染后织 , 以经面缎面或斜纹为地 、 纬起花 、 色彩多于三色的提花织物 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "织锦缎",
+    "english": "satin brocade",
+    "definition": "经丝采用桑蚕丝或粘胶长丝 , 纬丝采用不同色彩的染色粘胶长丝或金银丝色织的纬三重锦类丝织物 。注 : 可分为桑蚕丝织锦缎 、 粘胶长丝织锦缎和桀蚕丝与粘胶长丝交织织锦缎三类 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "古香缎",
+    "english": "soochow brocade",
+    "definition": "经 、 纬原料与织锦缎完全相同 , 组织结构和经纬密度较织锦缎稍稀 , 以满地花纹为多的锦类丝织物 。注 : 可分为粘胶长丝桑蚕丝交织古香缎 、 全粘胶长丝古香缎两类 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "丝绒织物",
+    "english": "silk velvet fabric",
+    "definition": "以桑蚕丝 、 涤纶丝 、 锦纶丝等与粘胶长丝交织成上 、 下两层织物 , 经割绒和后整理 , 织物表面具有耸立绒毛的花 、 素丝织物 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "金丝绒",
+    "english": "pleuche",
+    "definition": "以蚕丝和粘胶长丝为原料交织 , 地组织为平纹 , 用双层织造方法生产的经起绒丝织物 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "练白绸",
+    "english": "degummed silk",
+    "definition": "经精练处理的丝织物 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "漂白绸",
+    "english": "bleached silk",
+    "definition": "经精练和漂白处理的丝织物 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "色织绸",
+    "english": "yarn-dyed silk",
+    "definition": "j 染色丝织成的丝织物 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "染色绸",
+    "english": "dyed silk",
+    "definition": "j 染料或颜料将丝织物染成各种颜色的绸 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "扎染绸",
+    "english": "tie-dyed silk",
+    "definition": "采用扎染方法获得各种花纹的丝织物 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "印经绸",
+    "english": "warp printed fabric",
+    "definition": "将经丝与极稀的纬丝交织 ( 称假织 ) 的经面先印以花纹 , 在织造同时将假织的纬丝割除 , 而经丝和纬丝交织成绸面具有隐约印花花纹的花或素丝织物 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "段染绸",
+    "english": "space-dyed fabric",
+    "definition": "j 段染方法染成的具有段条状色彩的丝织物 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "素织物",
+    "english": "plain fabric",
+    "definition": "j 平纹 、 斜纹和缎纹的三元组织及其变化组织 , 织成绸面平整素洁的丝织物 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "小提花绸",
+    "english": "dqobby design fabric",
+    "definition": "采用多臂机织成绸面呈现各种细小花纹的丝织物 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "大提花绸",
+    "english": "jacquard fabric",
+    "definition": "采用提花机织成绸面呈现明显大花纹的丝织物 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "针织物",
+    "english": "knitted fabric",
+    "definition": "j 织针等成圈机件将纱线形成线圈 , 并使线圈相互穿套联接而成的织物 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "桑蚕丝针织绸",
+    "english": "mulberry silk knitted fabric",
+    "definition": "栖蚕丝编织成圈而形成的织物 。注 : 分为经编针织绸和纬编针织绸 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "桑蚕丝纬编针织绸",
+    "english": "mulberry silk weft knitted fabric",
+    "definition": "一根或数根桑蚕丝沿织物横向喂人针织机的工作针上 , 有顺序地弯曲成圈 , 并相互穿套联结而成匹筒状的针织物 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "桑蚕丝经编针织绸",
+    "english": "mulberry silk warp knitted fabric",
+    "definition": "一组或数组桀蚕丝沿织物纵向喂人针织机的工作针上 , 编织成圈并相互穿套联接而构成的针织物 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "丝绸典型品种",
+    "english": "typical varieties of silk",
+    "definition": "历史悠次 、 文化底蕴深厚 、 传统经典或具有代表性的丝织物或制品 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "云锦",
+    "english": "Vun brocade",
+    "definition": "以纯桑蚕丝或桑蚕丝作经丝 、 有光粘胶长丝色丝和 ( 或 ) 金银丝作纬的色织提花锦类丝织物 。 采用彭〔茎王』茶j孛统不{艺才娄鱼E戛机, 两人分上下楼手工织造 。 采用 “ 挑花结本 、 通经断纬 、 挖花盘织 、 夹金织银 “ 等工乙 。注 : 明清时南京专设江宁织造局织造云锦以供客廷之需 。 分为 “ 库锦 、 库缎 、 妆花 “ 三类 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "宋锦",
+    "english": "Song brocade",
+    "definition": "亿二组染色桑蚕丝 ( 或其中一组生丝 ) 作经线 , 三组及以上的染色桑蚕丝 、 染色粘胶长丝或其他染色纤维色丝 ( 纱 ) 作纬线 , 以三枚斜纹为基本组织 、 重纬结构的多彩经纬显花的色织提花织锦 。注 : 原产于苏州 。 一般用于书 、 画装帧裱贴 。 分为 “ 大锦 、 小锦 、 盒锦 “ 三类 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "蜀锦",
+    "english": "Shu brocade",
+    "definition": "以桀蚕色丝或粘胶长丝色丝作为主要原料的常以多重彩经或彩纬起花色织提花锦类丝织物 。注 : 是古蜀郡 ( 现四川省 ) 生产的具有民族特色和地方风格的多彩织锦 。 分为 “ 经锦 “ 和 “ 纬锦 “ 两类 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "壮锦",
+    "english": "Zhuang brocade",
+    "definition": "以棉或麻线作经 、. 桑蚕丝作纬色织的提花锦类丝织物 。注 1: 壮族传统织锦工艺品 。注 2: 近代壮锦采用染色桑蚕丝 、 粘胶长丝和金银皮等为原料 , 用提花机制织 , 缎纹地上显现纬花 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "绿丝",
+    "english": "kossu fabric; Kesi",
+    "definition": "刻丝以桑蚕丝为经线 , 桑蚕丝或其他丝线为纬线 , 采用通经回纬平纹组织织造 , 纬向按花纹轮廓手工挚织 , 绕结收尾所形成的正反面花型一致的织物 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "莨纱绸",
+    "english": "gambiered cantongauze and silk",
+    "definition": "经荧莨液浸渍处理 , 再经过河泥腐晒等传统手工艺加工而成的栖蚕丝提花绞纱或绸类丝织物 。注 : 分为莨纱和莨绸两类 。 莴纱也称为香云纱 , 莴绸也称为拷绸 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "杭纺",
+    "english": "Hangzhou habotai",
+    "definition": "以生丝或土丝为原料织成的纺类丝织物 。注 : 产地杭州 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "杭罗",
+    "english": "H angzhou silk leno",
+    "definition": "以桑蚕丝为原料 , 纬丝浸渍 , 采用平纹和罗组织联合水织而成 , 具有等距规律的目条形或横条形纱孔 , 孔眼清晰的丝织物 。注 : 产地杭州 。 分为横罗 、 直罗二类 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "艾特莱斯绸",
+    "english": "adelis silk",
+    "definition": "舒库拉绸采用我国古老的扎经染色工艺 , 按图案的要求 , 在经纱上扎结进行染色 。 扎结完成后再分层染整经 、 织绸 。 绸面图案沿经向上下形成似流苏纹和木梳纹 。注 : 为新疆维吾尔族妇女的传统特色用绸 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "鸾绣",
+    "english": "Vue embroidery",
+    "definition": "以潮州和广州为中心产区的广东刺绣品 , 广州刺绣 ( 广绣 ) 和潮州刺绣 ( 潮绣 ) 的总称 。注 : 粤绣的构图繁密热闸 , 色彩富丽夺目 , 施针简约 , 绣线较粗且松 , 针脚长短参差 , 针纹重叠微凸 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "丝绸制品",
+    "english": "silk product",
+    "definition": "以蚕丝为主要原料生产加工而成的制成品 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "蚕丝被",
+    "english": "silk quilt",
+    "definition": "填充物含蚕丝 50% 及以上的被类产品 。注 : 分纯蚕丝被和混合蚕丝被两类 。 填充物含 100% 蚕丝的为纯蚕丝被 , 填充物含 50% 及以上蚕丝的为混合蚕丝被 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "丝绸服装",
+    "english": "silk garment",
+    "definition": "以蚕丝织物为主要面料制成的服装 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "丝绸家居服",
+    "english": "silk home wear",
+    "definition": "以蚕丝织物为主要面料制成的适合在家居室内穿着的服装 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "丝绸旗袍",
+    "english": "silk qipao",
+    "definition": "以蚕丝织物为主要面料 , 制成立领 、 右大襟 , 紧腰身 , 下搓开叉的中国女性的传统袍服 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "丝针织服装",
+    "english": "silk knitted garment",
+    "definition": "以蚕丝针织物为主要面料制成的服装 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "丝绸围巾",
+    "english": "silk scarf",
+    "definition": "以蚕丝织物为主要面料制成的围巾 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "丝绸领带",
+    "english": "silk tie",
+    "definition": "以蚕丝织物为主要面料制成的领带 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "丝绸床上用品",
+    "english": "silk bedding",
+    "definition": "以蚕丝织物为主要面料制成的床上用品 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "蚕丝凉席",
+    "english": "silk mat",
+    "definition": "以蚕丝为主要原料制成的凉席 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "丝绸眼罩",
+    "english": "silk eyeshade",
+    "definition": "以蚕丝织物为主要面料制成的用于保护或遮挡眼睛 、 消除疲劳和辅助睡眠的产品 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "丝绸包",
+    "english": "silk bag",
+    "definition": "以蚕丝织物为面层材质或其与皮革等材料拼接制成的包 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "丝绸书",
+    "english": "silk book",
+    "definition": "采用织造 、 印染等加工工艺 , 将文字 、 图片清晰地显示在丝织物上 , 并以此为材质装潢而成的书产品 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "丝绸画",
+    "english": "silk painting",
+    "definition": "以丝 、 绸为主要原料 , 通过提花织造 、 手绘 、 喷印等工艺制成的富有装饰性的画类产品 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "丝绸册页",
+    "english": "silk brochure",
+    "definition": "采用织造 、 印染 、 印刷等加艺 , 将文字 、 图片清晰地显示在丝织物上 , 并以此为材质 , 采用传统“ 经折装 “ 装帧形式的工艺美术类产品 。 每对折的两页组成 , 可装两幅画芯 , 开数一般取双数 。 册页中可镶崴邮票 、 钱币 . 剪纸等制成集邮册 . 钱币册 、 剪纸册等艺术品形式 。I",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "烘茸",
+    "english": "cocoon drying",
+    "definition": "j 热烘杀蚕蛹并使蚕茧干燥到规定程度的工序 , 即蚕茧的干燥加工 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "混茧",
+    "english": "cocoon mixing",
+    "definition": "根据工艺要求将单庄口或多庄口性状相近的蚕茧进行均匀混合的工序 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "剥茧",
+    "english": "cocoon stripping",
+    "definition": "制丝过程中 , 根据工艺要求将茧衣剥除的工序 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "选茸",
+    "english": "cocoon sorting",
+    "definition": "制丝过程中 , 根据工艺要求对蚕茧进行分类的工序 。注 : 一般需要按茧形大小 、 茧层厚薄 、 茧的色泽差异以及是否有疵点及其严重程度等进行选别 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "煮茧",
+    "english": "cocoon stewing",
+    "definition": "制丝过程中 , 根据工艺要求利用水 、 蒸汽和红外线等煮熟蚕茧的工序 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "绪丝",
+    "english": "reeling",
+    "definition": "制丝过程中 , 将若干根茧丝顺序抽出 , 依靠丝胶抱合胶着而成生丝 , 并将生丝卷绕 3",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "索绪",
+    "english": "cocoon brushing",
+    "definition": "制丝过程中 , 从煮熟",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "理绪",
+    "english": "end picking",
+    "definition": "在制丝过程中 , 将索绪得到的有绪茧除",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "添绪",
+    "english": "end feeding",
+    "definition": "茧和落绪茧的茧层表面引出绪丝的工序 。去杂乱的绪丝整理成一茧一丝的正在制丝过程中 , 将有绪茧送人绪丝果 , 绪丝交给发生落细的绪头的工序 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "复摇",
+    "english": "re-reeling",
+    "definition": "扬返在制丝过程中 , 把小部分疲点 、 具有一定的卷",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "整理",
+    "english": "finishing",
+    "definition": "箱上的生丝卷绕到大等或丝筒上的工序 。 同时使生丝适当绕形式 。绪茧的工序 。在制丝过程中 , 将复摇所得的丝片进行编丝 、 检查 、 绞丝 、 打包 、 配色成批的",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "烘折",
+    "english": "drying discount of fresh cocoon",
+    "definition": "蚕茧干燥前对干燥后的",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "烘率",
+    "english": "drying percentage of cocoon",
+    "definition": "烘茧后干茧重量对烘茧前鲜茧重",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "茧层率",
+    "english": "cocoon shell percentage",
+    "definition": "茧层重量占全茧重量的百分率 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "茧丝量",
+    "english": "bave weight",
+    "definition": "一粒茧所绪得丝的吊民 -色城 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "茧丝长",
+    "english": "bave length",
+    "definition": "一粒萨所绪得丝的总长度 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "解舒",
+    "english": "reelability",
+    "definition": "绪丝时 , 茧丝从茧层",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "解舒率",
+    "english": "reelability percentage",
+    "definition": "解舒丝长对茧丝长的百分率 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "回收率",
+    "english": "",
+    "definition": "柞蚕茧丝量占纤维总量的百分率 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "茧丝纤度",
+    "english": "bave size",
+    "definition": "单粒蚕茧所抽得的茧丝的粗乡量所计算的绯折 。程度 。注 : 一般以 “ 旦尼尔 (den) “ 来表示其单位 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "原料选别",
+    "english": "sorting of waste silk",
+    "definition": "根楷原料的品质对原料进行分级和合并 , 并去除部分杂质及初步扯松原料的工序 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "原料精练",
+    "english": "refining for waste silk",
+    "definition": "除去原料上大部分的丝胶和油脂 、 蜡质 、 无机物以及其他一些杂质的工序 。注 : 根据处理药剂及方法的不同 , 分为化学精练和生物化学精练 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "精干绵选别",
+    "english": "",
+    "definition": "按精F 绵品质进行分级 , 剔除混杂松的工序 。raw silk percentage of cocoon生丝重量对所消耗的蚕茧重量的百分率 。recycling percentage of tussah silk主要成分之一 , 是构成蚕丝主体不溶于水的纤维状蛋白质 。主要成分之一 , 是一种能溶于水的包围并粘在丝素表面的球型蛋白质 。化学方法去胶脱脂 , 以物理机械方法消除蛹屑 、 杂质并切短较长纤维 , 经梳理 、 牵伸 、[ 成优良绢纺纱的过程 。sorting of refined waste silk日 - 口Bh 的非丝纤维 、 金属物及精练不良原料 , 并对纤维进行初步扯",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "切绵",
+    "english": "filling",
+    "definition": "将开绵绵张或圆梳落绵绵张进一步开松 、 除杂 、 混合 , 切断超长纤维并制成一定规格 “ 棒绵 “ 的工序 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "棒绵",
+    "english": "fringe of silk",
+    "definition": "将切绵锡林上两针板间的定长 、 定重纤维层卷取在绵杆上形成的半制品的工序 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "梳绵",
+    "english": "dressing",
+    "definition": "利用罗拉式或盖板式梳理机梳理纤维成一定平行顺直度的单纤维 , 去除部分杂质 , 均匀混和纤维 ,并制成绵条的工序 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "精梳制绵",
+    "english": "combing process of silk spinning",
+    "definition": "利用直型精梳机及相关设备 , 通过对纤维精细的梳理 , 使受梳纤维成为伸直平行的单纤维 , 清除杂质 , 去除部分短纤维和绵结 , 制成符合质量要求的精梳绵条的工序 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "理条",
+    "english": "preparing gill",
+    "definition": "对梳绵条进行并合与牵仰 , 提高纤维的均匀混合及平行仰直度 , 消除部分弯钩 , 改善绵条粗细均匀度 , 利于精梳机加工的工序 :",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "延展",
+    "english": "spreading",
+    "definition": "将一定重量的精绵制成定长绵带 , 以控制绵带特数 。 同时使精绵进行均匀混和 , 提高纤维伸直平行度的工序 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "精绵配绵",
+    "english": "fine drafts mixing",
+    "definition": "根据精绵的品质及所纺绢丝质量要求 , 将数种精绵接一定比例配合成混合精绵的工序 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "制条",
+    "english": "slivering",
+    "definition": "将延展绵带接长拉细 , 制成连续的绵条 , 同时使纤维进一步平行伸直的",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "练条",
+    "english": "drawing gill",
+    "definition": "工序 。通过多根精梳绵条的并合与牵伸 , 改善绵条的粗细均匀度 , 提高纤维的工序 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "延绞",
+    "english": "first roving",
+    "definition": "将末道绵条进一步拉细 , 同时利用针辊的分梳 , 分散绵条中的集束短纤",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "精纺",
+    "english": "spinning",
+    "definition": "平行伸直度及混合均匀度的维 , 有利于减少纱疲的工序 。并卷绕成适当卷装的工序 。将粗纱纺制成一定粗细的细纱 , 加上适当抛度 , 并卷绕成一定形状的卷",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "烧毛",
+    "english": "singeing",
+    "definition": "通过烧和摩擦的方法 , 去除绢丝表面毛羽和绵结的工序 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "搏绞",
+    "english": "silk reeling",
+    "definition": "将烧毛筒子退绕 , 绕成一定重量绞纱的工序 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "节取",
+    "english": "skein-finishing",
+    "definition": "人工对摇绞后的绢丝进行质量检验 , 剔除病疵的工序 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "浸渍",
+    "english": "dipping",
+    "definition": "浸泡规律相互交织形成丝织物的将桑蚕丝浸泡在浸渍液中 , 去除部分丝胶 , 消除硬等角 , 使丝身柔软而富有弹性的工序 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "络丝",
+    "english": "silk winding",
+    "definition": "将绞装桑蚕丝卷绕于等子或有边筒子上的工序 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "并丝",
+    "english": "string",
+    "definition": "将两根及两根以上的丝并合在一起的工序 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "捻丝",
+    "english": "silk throwing",
+    "definition": "将丝线加以一定掂度的工序 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "弱挛",
+    "english": "soft twist",
+    "definition": "1 000 掏 /m 以下的掏度 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "捻缩",
+    "english": "twist shrinkage",
+    "definition": "丝线经加掏后 , 其缩短的长度即为挝缩 。注 : 缩短长度和原长度之比即为掏缩率 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "定形",
+    "english": "setting",
+    "definition": "丝线定掩将丝线在一定温度和湿度中经一定时间处理 , 侗加掩丝产 4E 的扭矩获得稳定 , 不产生工序 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "成绞",
+    "english": "skeining",
+    "definition": "将筒装丝线卷绕成绞丝的工序 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "卷纬",
+    "english": "copping",
+    "definition": "将丝线卷绕成符合织造要求并适合梭二形状的纤子 , 供织造时用作纬丝的工序 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "精密络筒",
+    "english": "precision winding",
+    "definition": "将丝线卷绕于筒子上时 , 成形精密良好 , 退绕顺利而卷装量大的工序 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "装造",
+    "english": "jacquard tie",
+    "definition": "在织造前 , 按织物设计的要求 , 将综丝 、 通丝 、 直针 、 横针有机结合起来 , 并选择合理的穿综和穿第方法的准备工作 , 以利织出一定的织物组织和花纹 。注 : 分素机装造和花机装造 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "纹样",
+    "english": "pattern",
+    "definition": "按提花织物要求绘制的花样 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "点间丝",
+    "english": "cutting point",
+    "definition": "在平涂的花纹块面上加上组织点 , 用以限制过长的经浮线或纬浮线 。注 : 分平切 、 活切和花切 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "纹板轧制与编排",
+    "english": "card punching and numbering",
+    "definition": "按照意匠图 , 用孔洞将织物组织点的起落轧制在规定的纹板上 , 作为提花机的织花信号 , 并将纹板按顺序用线串联起来 , 编排成可供指挥提花机直针提升的纹板链 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "品号",
+    "english": "article number",
+    "definition": "根据丝织物的原料 、 组织结构等进行的统一编号 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "绸重",
+    "english": "weight of silk fabric",
+    "definition": "单位面积上丝织物的重量 , 常用每平方米克重 (g/m ) 表示 。注 : 在实际生产和贸易中 , 也常用姆米 (m/m) 表示 ,1 m/m 一 4.305 6 g/me 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "染整工艺",
+    "english": "dyeing and finishing process",
+    "definition": "采用染化料配方和工艺参数的设置 ( 如温度 、 时间 . 压力 、 速度 、 浴比等 ), 使丝织物达到所需颜品质的加工过程 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "吊攀精练",
+    "english": "hang scouring",
+    "definition": "吊练坯绸经退卷 、 码绸 、 钉攀 、 穿杆 , 挂在方型练槽内进行精练的方法 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "平幅精练",
+    "english": "open width scouring",
+    "definition": "坯绸以平幅状态进行连续精练的方法 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "星形架精练",
+    "english": "star-frame scouring",
+    "definition": "将坯绸圈挂在星形架上 , 吊人圆简精练槽进行精练的方法 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "高温高压精练",
+    "english": "high temperature and pressure scouring",
+    "definition": "坯绸在高温高压加工条件或状态下进行精练的方法 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "悬挂式喷射绞丝精练",
+    "english": "hanging jet hank scouring",
+    "definition": "丝线在喷射绞丝设备上进行精练的方法 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "皂碱法精练",
+    "english": "soap-alkali dqegumming",
+    "definition": "以肥皂和纯碱作为主练剂进行精练的方法 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "碟 - 合成洗涤剂精练",
+    "english": "alkali-synthetic detergent degumming",
+    "definition": "以纯碱和表面活性剂作为主练剂进行精练的方法 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "酶精练",
+    "english": "enzymatic degumming",
+    "definition": "以生物酶作为主练剂进行精练的方法 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "轧水打卷",
+    "english": "padding and batching",
+    "definition": "将精练脱胶后 S 码或圈码状态的蚕丝织物 , 通过轧水机浸轧水后卷成平幅绸卷的工艺 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "练减率",
+    "english": "degumming loss percentage",
+    "definition": "坯绸或丝线在精练 ( 脱胶 ) 过程中重量减少的百分率 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "丝绸漆白",
+    "english": "silk bleaching",
+    "definition": "将蚕丝织物进行氧化 ( 还原 ) 漂白的工艺 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "拨染印花",
+    "english": "discharge printing",
+    "definition": "雕印织物先染色后印花 , 通过色浆中拔染剂和助拔剂破坏地色而在有色织物上显示图案的印花方法 。注 : 分拔白印花和色拔印花 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "手绘印花",
+    "english": "hand-draw printing",
+    "definition": "手工将颜料或染料绘或泼在织物上 , 形成一定花纹图案的印花方法 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "数码喷墨印花",
+    "english": "digital ink-jet printing",
+    "definition": "应用数码印花机将印花墨水直接喷印在织物上 , 形成花纹图案的印花方法 。注 : 包括单面喷印和双面喷印 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "连续平网印花",
+    "english": "continuous flat screen printing",
+    "definition": "平网网框对织物连续自动刮印的印花方法 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "砂洗",
+    "english": "sand washing",
+    "definition": "通过碱剂 、 专用砂洗剂或浮石的作用 , 使织物表面形成短密 、 均匀绒面的工艺 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "染色",
+    "english": "dyeing",
+    "definition": "j 染料使纤维 、 织物等材料着色的工艺 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "段染",
+    "english": "space dyeing",
+    "definition": "间隔染色在绞纱或织物上 , 每间隔不定距离 , 形成不同颜色的染色方法 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "渐近色染色",
+    "english": "progressive shade dyeing",
+    "definition": "织物经向或纬向颜色渐变的染色方法 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "卷染",
+    "english": "jig dyeing",
+    "definition": "在卷染机上 , 织物呈平幅状态的染色方法 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "绳状染色",
+    "english": "rope dyeing",
+    "definition": "在绳状机或滥流染色机上 , 织物呈绳状的染色方法 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "植物染料染色",
+    "english": "vegetable dyeing",
+    "definition": "从植物中提取的色素进行染色的方法 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "织物后整理",
+    "english": "fabric finishing",
+    "definition": "织物在精练 、 染色或印花后改善和提高其品质的工艺 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "呢毯整理",
+    "english": "blanket finishing",
+    "definition": "织物在精练 、 染色后或印花水洗后 , 在呢毯机上进行整纬 、 烘干和柔软整理的方法 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "拉幅整理",
+    "english": "stenter finishing",
+    "definition": "织物在精练 、 染色或印花水洗后 , 在拉幅机上进行整纬 、 拉幅 、 烘干等整理的方法 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "单辊筒整理",
+    "english": "single-cylinder finishing",
+    "definition": "织物在精练 、 染色或印花水洗后 , 在单辊简整理机上进行整纬 、 烘",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "柔软整理",
+    "english": "softening finishing",
+    "definition": "采用化学 、 物理方法使织物手感更加柔软的工艺 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "预缩整理",
+    "english": "shrunk finishing",
+    "definition": "采用机械 \\ 蒸汽等物理方法降低织物缩水率的工艺 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "增重",
+    "english": "adding weight",
+    "definition": "采用化学整理方法使蚕丝或织物增加重量的工艺 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "保胶",
+    "english": "sericin retention",
+    "definition": "使蚕丝或制品的丝胶不溶解或少量溶解的工艺 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "丝鸢",
+    "english": "silk scroop",
+    "definition": "丝与丝之间因摩擦而产生轻微声音的现象 。参 _ 考 _ 文献[11 GB/T 37370 “ 中国常见色色名和色度特性",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  }
+]

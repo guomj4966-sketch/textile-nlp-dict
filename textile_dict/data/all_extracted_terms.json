@@ -1,0 +1,4825 @@
+[
+  {
+    "term": "套装",
+    "english": "suits",
+    "definition": "上装与下装配套穿着的服装 , 一般由同色同料或造型格调一致的衣 、 裤 、 裙等相配而成 。2. 12",
+    "source": "GB/T 15557-2008",
+    "category": "服装术语"
+  },
+  {
+    "term": "内衣",
+    "english": "Underwear",
+    "definition": "贴身穿着的服装 。2. 14外衣 “outerwear穿着于内衣外面的服装 。2. 15",
+    "source": "GB/T 15557-2008",
+    "category": "服装术语"
+  },
+  {
+    "term": "功能性服装",
+    "english": "functional garments",
+    "definition": "具有各种特殊功能的服装 , 如抗静电服装 、 防辐射服装等 。2. 22职业服 _work wear社团或行业成员在工作时 , 为展示整体形象需要和劳动动作需求所穿着的服装 。 职业服可以分为三大类 : 职业标志服 、 防护服和职业时装 。2. 23防护服 “_protective work wear为特殊行业人员在工作时提供便利和防护伤害的服装 , 如矿工服 、 炼钢服等 。2. 24",
+    "source": "GB/T 15557-2008",
+    "category": "服装术语"
+  },
+  {
+    "term": "人造毛皮服装",
+    "english": "fake fur garment",
+    "definition": "以天然纤维或化学纤维仿制成的毛皮为主2. 40",
+    "source": "GB/T 15557-2008",
+    "category": "服装术语"
+  },
+  {
+    "term": "茄克衫",
+    "english": "jacket",
+    "definition": "衣长较短 , 宽胸目uH悲[PEE、 紧袖口 、 紧下摆式样的上衣 。3. 6",
+    "source": "GB/T 15557-2008",
+    "category": "服装术语"
+  },
+  {
+    "term": "喇叭裤",
+    "english": "bell-bottom trousers",
+    "definition": "裤腿君喇叭状的裤子 。3. 31",
+    "source": "GB/T 15557-2008",
+    "category": "服装术语"
+  },
+  {
+    "term": "羽绒裤",
+    "english": "down pants",
+    "definition": "以羽绒为填充物 ( 含绒量不低于 50% ) 的裤子 。3. 33超矢豆子】军 mini shorts一种裤长至大腿中部或以上的短裤 。3. 34雨裤rain-proof pants具有防雨功能的裤子 。3. 35内裤underpants贴身穿着的裤子 。混纺交织的仔布制作 。g 8. 10. 3g 9. 5. 7s薹)】.e…】_(_in之'二茗............................................................................................................ 7. 2.7刑 9. 2. 6刑 4. 2. 1. 17d 4. 2. 1. 24伟 7. 3. 4. 1i 2. 27伟 8. 9. 3阜 4. 2. 1. 1Stan d 4. 1. 1. 19诊 9. 6.4standard Sampe 9. 6. 6standard sample photo for checking spt 9. 6. 5陆 9. 5. 9g 9. 6. 3stitehing bound p 7. 3.",
+    "source": "GB/T 15557-2008",
+    "category": "服装术语"
+  },
+  {
+    "term": "晚礼服",
+    "english": "evening wear",
+    "definition": "在晓上社交场合中穿着的有华丽感的礼服 , 见图 20。3. 52憎尾服 _morning coat为男士在特定场合穿着的礼服 , 前身短 , 后身如燕尾形呈二片开叉 , 见图 21。图 5 图 6 图 7 图 8图 9 图 10 图 11 图 12图 19 图 20 图 21",
+    "source": "GB/T 15557-2008",
+    "category": "服装术语"
+  },
+  {
+    "term": "结构图",
+    "english": "cutting illustration",
+    "definition": "、 直 、 斜 、 弧线等图线将服装造型分解并展开成平面裁剪方法的图 , 又称为裁剪图 , 见图 85。",
+    "source": "GB/T 15557-2008",
+    "category": "服装术语"
+  },
+  {
+    "term": "示意图",
+    "english": "sketch map",
+    "definition": "为表达某部件的结构组成 、 加 ]解释图 , 在设计 、 加工部门之间起沟",
+    "source": "GB/T 15557-2008",
+    "category": "服装术语"
+  },
+  {
+    "term": "止口直线",
+    "english": "front edge",
+    "definition": "与上衣基本线垂直 , 表示前门襟边沿的直线 , 见图 88。",
+    "source": "GB/T 15557-2008",
+    "category": "服装术语"
+  },
+  {
+    "term": "缘大裤底",
+    "english": "attaching back crotch stay",
+    "definition": "裤底装在后裆十字处缝合 。. 5. 25",
+    "source": "GB/T 15557-2008",
+    "category": "服装术语"
+  },
+  {
+    "term": "后身吊",
+    "english": "bodice back too short",
+    "definition": "后身短 , 底边不合身 , 后中线处抽紧 。",
+    "source": "GB/T 15557-2008",
+    "category": "服装术语"
+  },
+  {
+    "term": "腰头探出",
+    "english": "waistband extansion",
+    "definition": "腰头前口不齐 , 与工艺要求不符 。",
+    "source": "GB/T 15557-2008",
+    "category": "服装术语"
+  },
+  {
+    "term": "裙身之",
+    "english": "hem pull up and stand away",
+    "definition": "裙下摆吊起 。. 9裙浪不匀 “Uneven skirt flare裙波浪大小不匀 。. 10",
+    "source": "GB/T 15557-2008",
+    "category": "服装术语"
+  },
+  {
+    "term": "划粉",
+    "english": "chalk",
+    "definition": "画线用的粉块 。",
+    "source": "GB/T 15557-2008",
+    "category": "服装术语"
+  },
+  {
+    "term": "压料铁",
+    "english": "weights",
+    "definition": "压料子用的工具 。",
+    "source": "GB/T 15557-2008",
+    "category": "服装术语"
+  },
+  {
+    "term": "桑蚕彩色茧",
+    "english": "colored cocoon",
+    "definition": "桑蚕直接吐出非白色丝结的茧 。注 : 白色的色度坐标及颜色体系标号的规定测定与计算见 GB/T 37370。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "鲜茧",
+    "english": "fresh cocoon",
+    "definition": "从蔽具上摘下 , 未经杀蛹干燥处理的蚕茧 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "次菖",
+    "english": "light defective cocoon",
+    "definition": "有疵点 , 但可供绪制低等级丝的茧 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "庄口",
+    "english": "lot",
+    "definition": "区分蚕茧产地 、 年份和季节的茧批标 ( 名 ) 称 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "蚕丝",
+    "english": "silk",
+    "definition": "熟蚕结茧时分泌丝液凝固而成的连续长纤维 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "桑蚕丝",
+    "english": "mulberry silk",
+    "definition": "桑蚕分泌的丝 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "茧丝",
+    "english": "bave",
+    "definition": "由单粒蚕茧抽取的丝纤维 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "生丝",
+    "english": "raw silk",
+    "definition": "厂丝以桑蚕茧为原料 , 按一定的制丝工艺和质量要求",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "粗规格生丝",
+    "english": "COarse raW silk",
+    "definition": "纤度规格在 76.6 dtex(69 den) 以上的",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "双宫丝",
+    "english": "dqouppion silk",
+    "definition": "以双宫茧为主要原料 , 按一定的制丝 ]OnL生丝 。[ 艺和质量要求 ,",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "色丝",
+    "english": "dyed silk",
+    "definition": "经脱胶 、 染色的蚕丝 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "桑蚊挛线丝",
+    "english": "thrown silk",
+    "definition": "单根或多根无掏或有挝生丝经并合加",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "碧绑线",
+    "english": "corkscrew yarn",
+    "definition": "j 两根及以上生丝组成的抢线丝与一根或多根生生丝呈螺旋状包缠于芯丝表的复合丝 。j 机械将若干根茧丝抱合胶着绪制而成的长丝 。j 机械绪制的具有疙瘩状独特风格的长丝 。丝并合 , 再加反向强掏而成具有一定膨松性的螺",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "柞蚕土丝",
+    "english": "",
+    "definition": "以柞蚕劣茧为原料 , 用简单机械 , 按药水丝工艺缤制的长丝 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "蚕丝绵",
+    "english": "",
+    "definition": "sSilk floss以蚕茧茧壳或绪丝加 -[ 的副产品为原料加工而成的网状 、 祭状注 : 蚕丝绵主要有桑蚕丝绵 、 柞蚕丝绵和绢制丝绵 。3.2.2 1绢制丝绵采",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "色纺绢丝",
+    "english": "dyed spun silk yarn",
+    "definition": "蚕丝短纤维先经染色 , 再加",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "柞蚕纳丝",
+    "english": "",
+    "definition": "tussah silk noilj 桑蚕绢纺落绵 , 经绍丝纺工艺系统加工纺制的纱线 。yarnj 柞蚕绢纺落绵 , 经绍丝纺工艺系统加工纺制的纱线 。[ 艺系统加 Jj 作填充物的丝绵 。[ 纺制的纱线 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "蚕丝下脚",
+    "english": "silk waste;silk by-products",
+    "definition": "缙丝加工过程中产生的副产品 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "蛹衬",
+    "english": "basin residue",
+    "definition": "线丝过程中不能再绿丝的内层落绪茧 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "蚕蛹",
+    "english": "chrysalis",
+    "definition": "蚕吐丝结茧完成后在茧内脱皮化成的蛹 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "柞蚕大挽手",
+    "english": "tussah long waste",
+    "definition": "柞蚕茧在绪丝前的扒茧过程中获得的绪丝 , 经加工整理制成的条束状纤维 。注 : 按柞蚕茧的煮漂方法 、 用药种类 、 缤丝方法和原料茧种类的不同 , 又分为水缬大损手 、 药水大损手 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "柞蚕二挽手",
+    "english": "tussah short waste",
+    "definition": "柞蚕茧维丝过程中 , 经索理绪获得的绪丝 , 经加工整理制成的条束状纤维 。注 : 按柞蚕茧的煮漂方法 、 用药种类 、 缤丝方法和原料茧种类的不同 , 分为水线二损手 、 药水二损手 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "精干绵",
+    "english": "scoured waste silk",
+    "definition": "绢纺原料精练后 , 经过水洗 、 脱水 、 烘干制成洁净 、 蔡松 、 柔软 、 干燥适宜的半制品 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "回绵",
+    "english": "reusable spun silk waste",
+    "definition": "制绵 、 纺丝加工过程中产生的可回用的半制品 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "落绵",
+    "english": "silk noil",
+    "definition": "经精梳机梳理提取精绵后落下的短纤维 。注 : 圆型梳绵机的落绵称为圆梳落绵 ; 直型精梳机的落绵称为精梳落绵 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "丝织物",
+    "english": "silk fabric",
+    "definition": "丝绸以蚕丝 、 化学纤维长丝或以其为主要原料织成的各种织物 。注 : 按织物的组织 、 加艺 、 质地和外观效应 , 可分为纺 、 绕 、 缎 、 绫 、 纱 、 罗 、 绚 、 锦 、 绣 、 呢 、 葛 、 绢 、 绢 、 绸等十四大类 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "桑蚕绍丝织物",
+    "english": "mulberry noil silk fabric",
+    "definition": "绵绸以桑蚕绍丝纯织或以其为主与其他纱线交织的织物 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "柞蚕丝织物",
+    "english": "tussah silk fabric",
+    "definition": "以柞蚕丝纯织或以其为主与其他纱线交织的织物 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "柞蚕绢丝织物",
+    "english": "tussah spun silk fabric",
+    "definition": "以柞蚕绢丝纯织或以其为主与其他纱线交织的织物 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "再生纤维素丝织物",
+    "english": "regenerated cellulose filament fabric",
+    "definition": "以再生纤维素长丝为主要原料纯织或交织的丝织物 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "富春纺",
+    "english": "fu-chun rayon taffeta",
+    "definition": "经丝为再生纤维素长丝 、 纬丝为再生纤维素短纤纱交织成的平纹织物 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "合成纤维丝织物",
+    "english": "synthetic filament yarn fabric",
+    "definition": "以合成纤维长丝为主要原料纯织或交织的丝织物 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "麂皮绒",
+    "english": "suede nap",
+    "definition": "经丝或纬丝采用海岛丝等水溶性合成纤维织成 , 并经磨毛 、 砂洗等处理 , 绸面有明显麂皮绒感的织物 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "桑蚕丝弹力织物",
+    "english": "elastic mulberry silk fabric",
+    "definition": "以桑蚕丝为主要原料 , 通过加艺或添加弹性纤维而具有弹性的丝织物 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "蚕丝装饰织物",
+    "english": "decorative silk fabric",
+    "definition": "以蚕丝为主要原料 , 作为装饰用的丝织物 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "丝织被面",
+    "english": "jacquard quilt cover",
+    "definition": "j 作被褥或被子面层的独幅丝织物 , 以重纬组织为主 , 花样布局以中心独花和两边对称花及四个花组成 。注 : 可分为软缎被面 、 织锦被面和线绢被面三类 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "锦缎类丝织物",
+    "english": "brocade and satin of silk fabrics",
+    "definition": "经 、 纬丝无掏或加弱掏 , 先染后织 , 以经面缎面或斜纹为地 、 纬起花 、 色彩多于三色的提花织物 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "织锦缎",
+    "english": "satin brocade",
+    "definition": "经丝采用桑蚕丝或粘胶长丝 , 纬丝采用不同色彩的染色粘胶长丝或金银丝色织的纬三重锦类丝织物 。注 : 可分为桑蚕丝织锦缎 、 粘胶长丝织锦缎和桀蚕丝与粘胶长丝交织织锦缎三类 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "古香缎",
+    "english": "soochow brocade",
+    "definition": "经 、 纬原料与织锦缎完全相同 , 组织结构和经纬密度较织锦缎稍稀 , 以满地花纹为多的锦类丝织物 。注 : 可分为粘胶长丝桑蚕丝交织古香缎 、 全粘胶长丝古香缎两类 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "丝绒织物",
+    "english": "silk velvet fabric",
+    "definition": "以桑蚕丝 、 涤纶丝 、 锦纶丝等与粘胶长丝交织成上 、 下两层织物 , 经割绒和后整理 , 织物表面具有耸立绒毛的花 、 素丝织物 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "金丝绒",
+    "english": "pleuche",
+    "definition": "以蚕丝和粘胶长丝为原料交织 , 地组织为平纹 , 用双层织造方法生产的经起绒丝织物 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "练白绸",
+    "english": "degummed silk",
+    "definition": "经精练处理的丝织物 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "漂白绸",
+    "english": "bleached silk",
+    "definition": "经精练和漂白处理的丝织物 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "色织绸",
+    "english": "yarn-dyed silk",
+    "definition": "j 染色丝织成的丝织物 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "染色绸",
+    "english": "dyed silk",
+    "definition": "j 染料或颜料将丝织物染成各种颜色的绸 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "扎染绸",
+    "english": "tie-dyed silk",
+    "definition": "采用扎染方法获得各种花纹的丝织物 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "印经绸",
+    "english": "warp printed fabric",
+    "definition": "将经丝与极稀的纬丝交织 ( 称假织 ) 的经面先印以花纹 , 在织造同时将假织的纬丝割除 , 而经丝和纬丝交织成绸面具有隐约印花花纹的花或素丝织物 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "段染绸",
+    "english": "space-dyed fabric",
+    "definition": "j 段染方法染成的具有段条状色彩的丝织物 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "素织物",
+    "english": "plain fabric",
+    "definition": "j 平纹 、 斜纹和缎纹的三元组织及其变化组织 , 织成绸面平整素洁的丝织物 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "小提花绸",
+    "english": "dqobby design fabric",
+    "definition": "采用多臂机织成绸面呈现各种细小花纹的丝织物 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "大提花绸",
+    "english": "jacquard fabric",
+    "definition": "采用提花机织成绸面呈现明显大花纹的丝织物 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "针织物",
+    "english": "knitted fabric",
+    "definition": "j 织针等成圈机件将纱线形成线圈 , 并使线圈相互穿套联接而成的织物 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "桑蚕丝针织绸",
+    "english": "mulberry silk knitted fabric",
+    "definition": "栖蚕丝编织成圈而形成的织物 。注 : 分为经编针织绸和纬编针织绸 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "桑蚕丝纬编针织绸",
+    "english": "mulberry silk weft knitted fabric",
+    "definition": "一根或数根桑蚕丝沿织物横向喂人针织机的工作针上 , 有顺序地弯曲成圈 , 并相互穿套联结而成匹筒状的针织物 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "桑蚕丝经编针织绸",
+    "english": "mulberry silk warp knitted fabric",
+    "definition": "一组或数组桀蚕丝沿织物纵向喂人针织机的工作针上 , 编织成圈并相互穿套联接而构成的针织物 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "丝绸典型品种",
+    "english": "typical varieties of silk",
+    "definition": "历史悠次 、 文化底蕴深厚 、 传统经典或具有代表性的丝织物或制品 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "云锦",
+    "english": "Vun brocade",
+    "definition": "以纯桑蚕丝或桑蚕丝作经丝 、 有光粘胶长丝色丝和 ( 或 ) 金银丝作纬的色织提花锦类丝织物 。 采用彭〔茎王』茶j孛统不{艺才娄鱼E戛机, 两人分上下楼手工织造 。 采用 “ 挑花结本 、 通经断纬 、 挖花盘织 、 夹金织银 “ 等工乙 。注 : 明清时南京专设江宁织造局织造云锦以供客廷之需 。 分为 “ 库锦 、 库缎 、 妆花 “ 三类 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "宋锦",
+    "english": "Song brocade",
+    "definition": "亿二组染色桑蚕丝 ( 或其中一组生丝 ) 作经线 , 三组及以上的染色桑蚕丝 、 染色粘胶长丝或其他染色纤维色丝 ( 纱 ) 作纬线 , 以三枚斜纹为基本组织 、 重纬结构的多彩经纬显花的色织提花织锦 。注 : 原产于苏州 。 一般用于书 、 画装帧裱贴 。 分为 “ 大锦 、 小锦 、 盒锦 “ 三类 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "蜀锦",
+    "english": "Shu brocade",
+    "definition": "以桀蚕色丝或粘胶长丝色丝作为主要原料的常以多重彩经或彩纬起花色织提花锦类丝织物 。注 : 是古蜀郡 ( 现四川省 ) 生产的具有民族特色和地方风格的多彩织锦 。 分为 “ 经锦 “ 和 “ 纬锦 “ 两类 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "壮锦",
+    "english": "Zhuang brocade",
+    "definition": "以棉或麻线作经 、. 桑蚕丝作纬色织的提花锦类丝织物 。注 1: 壮族传统织锦工艺品 。注 2: 近代壮锦采用染色桑蚕丝 、 粘胶长丝和金银皮等为原料 , 用提花机制织 , 缎纹地上显现纬花 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "绿丝",
+    "english": "kossu fabric; Kesi",
+    "definition": "刻丝以桑蚕丝为经线 , 桑蚕丝或其他丝线为纬线 , 采用通经回纬平纹组织织造 , 纬向按花纹轮廓手工挚织 , 绕结收尾所形成的正反面花型一致的织物 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "莨纱绸",
+    "english": "gambiered cantongauze and silk",
+    "definition": "经荧莨液浸渍处理 , 再经过河泥腐晒等传统手工艺加工而成的栖蚕丝提花绞纱或绸类丝织物 。注 : 分为莨纱和莨绸两类 。 莴纱也称为香云纱 , 莴绸也称为拷绸 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "杭纺",
+    "english": "Hangzhou habotai",
+    "definition": "以生丝或土丝为原料织成的纺类丝织物 。注 : 产地杭州 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "杭罗",
+    "english": "H angzhou silk leno",
+    "definition": "以桑蚕丝为原料 , 纬丝浸渍 , 采用平纹和罗组织联合水织而成 , 具有等距规律的目条形或横条形纱孔 , 孔眼清晰的丝织物 。注 : 产地杭州 。 分为横罗 、 直罗二类 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "艾特莱斯绸",
+    "english": "adelis silk",
+    "definition": "舒库拉绸采用我国古老的扎经染色工艺 , 按图案的要求 , 在经纱上扎结进行染色 。 扎结完成后再分层染整经 、 织绸 。 绸面图案沿经向上下形成似流苏纹和木梳纹 。注 : 为新疆维吾尔族妇女的传统特色用绸 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "鸾绣",
+    "english": "Vue embroidery",
+    "definition": "以潮州和广州为中心产区的广东刺绣品 , 广州刺绣 ( 广绣 ) 和潮州刺绣 ( 潮绣 ) 的总称 。注 : 粤绣的构图繁密热闸 , 色彩富丽夺目 , 施针简约 , 绣线较粗且松 , 针脚长短参差 , 针纹重叠微凸 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "丝绸制品",
+    "english": "silk product",
+    "definition": "以蚕丝为主要原料生产加工而成的制成品 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "蚕丝被",
+    "english": "silk quilt",
+    "definition": "填充物含蚕丝 50% 及以上的被类产品 。注 : 分纯蚕丝被和混合蚕丝被两类 。 填充物含 100% 蚕丝的为纯蚕丝被 , 填充物含 50% 及以上蚕丝的为混合蚕丝被 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "丝绸服装",
+    "english": "silk garment",
+    "definition": "以蚕丝织物为主要面料制成的服装 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "丝绸家居服",
+    "english": "silk home wear",
+    "definition": "以蚕丝织物为主要面料制成的适合在家居室内穿着的服装 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "丝绸旗袍",
+    "english": "silk qipao",
+    "definition": "以蚕丝织物为主要面料 , 制成立领 、 右大襟 , 紧腰身 , 下搓开叉的中国女性的传统袍服 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "丝针织服装",
+    "english": "silk knitted garment",
+    "definition": "以蚕丝针织物为主要面料制成的服装 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "丝绸围巾",
+    "english": "silk scarf",
+    "definition": "以蚕丝织物为主要面料制成的围巾 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "丝绸领带",
+    "english": "silk tie",
+    "definition": "以蚕丝织物为主要面料制成的领带 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "丝绸床上用品",
+    "english": "silk bedding",
+    "definition": "以蚕丝织物为主要面料制成的床上用品 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "蚕丝凉席",
+    "english": "silk mat",
+    "definition": "以蚕丝为主要原料制成的凉席 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "丝绸眼罩",
+    "english": "silk eyeshade",
+    "definition": "以蚕丝织物为主要面料制成的用于保护或遮挡眼睛 、 消除疲劳和辅助睡眠的产品 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "丝绸包",
+    "english": "silk bag",
+    "definition": "以蚕丝织物为面层材质或其与皮革等材料拼接制成的包 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "丝绸书",
+    "english": "silk book",
+    "definition": "采用织造 、 印染等加工工艺 , 将文字 、 图片清晰地显示在丝织物上 , 并以此为材质装潢而成的书产品 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "丝绸画",
+    "english": "silk painting",
+    "definition": "以丝 、 绸为主要原料 , 通过提花织造 、 手绘 、 喷印等工艺制成的富有装饰性的画类产品 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "丝绸册页",
+    "english": "silk brochure",
+    "definition": "采用织造 、 印染 、 印刷等加艺 , 将文字 、 图片清晰地显示在丝织物上 , 并以此为材质 , 采用传统“ 经折装 “ 装帧形式的工艺美术类产品 。 每对折的两页组成 , 可装两幅画芯 , 开数一般取双数 。 册页中可镶崴邮票 、 钱币 . 剪纸等制成集邮册 . 钱币册 、 剪纸册等艺术品形式 。I",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "烘茸",
+    "english": "cocoon drying",
+    "definition": "j 热烘杀蚕蛹并使蚕茧干燥到规定程度的工序 , 即蚕茧的干燥加工 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "混茧",
+    "english": "cocoon mixing",
+    "definition": "根据工艺要求将单庄口或多庄口性状相近的蚕茧进行均匀混合的工序 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "剥茧",
+    "english": "cocoon stripping",
+    "definition": "制丝过程中 , 根据工艺要求将茧衣剥除的工序 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "选茸",
+    "english": "cocoon sorting",
+    "definition": "制丝过程中 , 根据工艺要求对蚕茧进行分类的工序 。注 : 一般需要按茧形大小 、 茧层厚薄 、 茧的色泽差异以及是否有疵点及其严重程度等进行选别 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "煮茧",
+    "english": "cocoon stewing",
+    "definition": "制丝过程中 , 根据工艺要求利用水 、 蒸汽和红外线等煮熟蚕茧的工序 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "绪丝",
+    "english": "reeling",
+    "definition": "制丝过程中 , 将若干根茧丝顺序抽出 , 依靠丝胶抱合胶着而成生丝 , 并将生丝卷绕 3",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "索绪",
+    "english": "cocoon brushing",
+    "definition": "制丝过程中 , 从煮熟",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "理绪",
+    "english": "end picking",
+    "definition": "在制丝过程中 , 将索绪得到的有绪茧除",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "添绪",
+    "english": "end feeding",
+    "definition": "茧和落绪茧的茧层表面引出绪丝的工序 。去杂乱的绪丝整理成一茧一丝的正在制丝过程中 , 将有绪茧送人绪丝果 , 绪丝交给发生落细的绪头的工序 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "复摇",
+    "english": "re-reeling",
+    "definition": "扬返在制丝过程中 , 把小部分疲点 、 具有一定的卷",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "整理",
+    "english": "finishing",
+    "definition": "箱上的生丝卷绕到大等或丝筒上的工序 。 同时使生丝适当绕形式 。绪茧的工序 。在制丝过程中 , 将复摇所得的丝片进行编丝 、 检查 、 绞丝 、 打包 、 配色成批的",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "烘折",
+    "english": "drying discount of fresh cocoon",
+    "definition": "蚕茧干燥前对干燥后的",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "烘率",
+    "english": "drying percentage of cocoon",
+    "definition": "烘茧后干茧重量对烘茧前鲜茧重",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "茧层率",
+    "english": "cocoon shell percentage",
+    "definition": "茧层重量占全茧重量的百分率 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "茧丝量",
+    "english": "bave weight",
+    "definition": "一粒茧所绪得丝的吊民 -色城 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "茧丝长",
+    "english": "bave length",
+    "definition": "一粒萨所绪得丝的总长度 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "解舒",
+    "english": "reelability",
+    "definition": "绪丝时 , 茧丝从茧层",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "解舒率",
+    "english": "reelability percentage",
+    "definition": "解舒丝长对茧丝长的百分率 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "回收率",
+    "english": "",
+    "definition": "柞蚕茧丝量占纤维总量的百分率 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "茧丝纤度",
+    "english": "bave size",
+    "definition": "单粒蚕茧所抽得的茧丝的粗乡量所计算的绯折 。程度 。注 : 一般以 “ 旦尼尔 (den) “ 来表示其单位 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "原料选别",
+    "english": "sorting of waste silk",
+    "definition": "根楷原料的品质对原料进行分级和合并 , 并去除部分杂质及初步扯松原料的工序 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "原料精练",
+    "english": "refining for waste silk",
+    "definition": "除去原料上大部分的丝胶和油脂 、 蜡质 、 无机物以及其他一些杂质的工序 。注 : 根据处理药剂及方法的不同 , 分为化学精练和生物化学精练 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "精干绵选别",
+    "english": "",
+    "definition": "按精F 绵品质进行分级 , 剔除混杂松的工序 。raw silk percentage of cocoon生丝重量对所消耗的蚕茧重量的百分率 。recycling percentage of tussah silk主要成分之一 , 是构成蚕丝主体不溶于水的纤维状蛋白质 。主要成分之一 , 是一种能溶于水的包围并粘在丝素表面的球型蛋白质 。化学方法去胶脱脂 , 以物理机械方法消除蛹屑 、 杂质并切短较长纤维 , 经梳理 、 牵伸 、[ 成优良绢纺纱的过程 。sorting of refined waste silk日 - 口Bh 的非丝纤维 、 金属物及精练不良原料 , 并对纤维进行初步扯",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "切绵",
+    "english": "filling",
+    "definition": "将开绵绵张或圆梳落绵绵张进一步开松 、 除杂 、 混合 , 切断超长纤维并制成一定规格 “ 棒绵 “ 的工序 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "棒绵",
+    "english": "fringe of silk",
+    "definition": "将切绵锡林上两针板间的定长 、 定重纤维层卷取在绵杆上形成的半制品的工序 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "梳绵",
+    "english": "dressing",
+    "definition": "利用罗拉式或盖板式梳理机梳理纤维成一定平行顺直度的单纤维 , 去除部分杂质 , 均匀混和纤维 ,并制成绵条的工序 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "精梳制绵",
+    "english": "combing process of silk spinning",
+    "definition": "利用直型精梳机及相关设备 , 通过对纤维精细的梳理 , 使受梳纤维成为伸直平行的单纤维 , 清除杂质 , 去除部分短纤维和绵结 , 制成符合质量要求的精梳绵条的工序 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "理条",
+    "english": "preparing gill",
+    "definition": "对梳绵条进行并合与牵仰 , 提高纤维的均匀混合及平行仰直度 , 消除部分弯钩 , 改善绵条粗细均匀度 , 利于精梳机加工的工序 :",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "延展",
+    "english": "spreading",
+    "definition": "将一定重量的精绵制成定长绵带 , 以控制绵带特数 。 同时使精绵进行均匀混和 , 提高纤维伸直平行度的工序 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "精绵配绵",
+    "english": "fine drafts mixing",
+    "definition": "根据精绵的品质及所纺绢丝质量要求 , 将数种精绵接一定比例配合成混合精绵的工序 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "制条",
+    "english": "slivering",
+    "definition": "将延展绵带接长拉细 , 制成连续的绵条 , 同时使纤维进一步平行伸直的",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "练条",
+    "english": "drawing gill",
+    "definition": "工序 。通过多根精梳绵条的并合与牵伸 , 改善绵条的粗细均匀度 , 提高纤维的工序 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "延绞",
+    "english": "first roving",
+    "definition": "将末道绵条进一步拉细 , 同时利用针辊的分梳 , 分散绵条中的集束短纤",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "精纺",
+    "english": "spinning",
+    "definition": "平行伸直度及混合均匀度的维 , 有利于减少纱疲的工序 。并卷绕成适当卷装的工序 。将粗纱纺制成一定粗细的细纱 , 加上适当抛度 , 并卷绕成一定形状的卷",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "烧毛",
+    "english": "singeing",
+    "definition": "通过烧和摩擦的方法 , 去除绢丝表面毛羽和绵结的工序 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "搏绞",
+    "english": "silk reeling",
+    "definition": "将烧毛筒子退绕 , 绕成一定重量绞纱的工序 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "节取",
+    "english": "skein-finishing",
+    "definition": "人工对摇绞后的绢丝进行质量检验 , 剔除病疵的工序 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "浸渍",
+    "english": "dipping",
+    "definition": "浸泡规律相互交织形成丝织物的将桑蚕丝浸泡在浸渍液中 , 去除部分丝胶 , 消除硬等角 , 使丝身柔软而富有弹性的工序 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "络丝",
+    "english": "silk winding",
+    "definition": "将绞装桑蚕丝卷绕于等子或有边筒子上的工序 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "并丝",
+    "english": "string",
+    "definition": "将两根及两根以上的丝并合在一起的工序 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "捻丝",
+    "english": "silk throwing",
+    "definition": "将丝线加以一定掂度的工序 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "弱挛",
+    "english": "soft twist",
+    "definition": "1 000 掏 /m 以下的掏度 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "捻缩",
+    "english": "twist shrinkage",
+    "definition": "丝线经加掏后 , 其缩短的长度即为挝缩 。注 : 缩短长度和原长度之比即为掏缩率 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "定形",
+    "english": "setting",
+    "definition": "丝线定掩将丝线在一定温度和湿度中经一定时间处理 , 侗加掩丝产 4E 的扭矩获得稳定 , 不产生工序 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "成绞",
+    "english": "skeining",
+    "definition": "将筒装丝线卷绕成绞丝的工序 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "卷纬",
+    "english": "copping",
+    "definition": "将丝线卷绕成符合织造要求并适合梭二形状的纤子 , 供织造时用作纬丝的工序 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "精密络筒",
+    "english": "precision winding",
+    "definition": "将丝线卷绕于筒子上时 , 成形精密良好 , 退绕顺利而卷装量大的工序 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "装造",
+    "english": "jacquard tie",
+    "definition": "在织造前 , 按织物设计的要求 , 将综丝 、 通丝 、 直针 、 横针有机结合起来 , 并选择合理的穿综和穿第方法的准备工作 , 以利织出一定的织物组织和花纹 。注 : 分素机装造和花机装造 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "纹样",
+    "english": "pattern",
+    "definition": "按提花织物要求绘制的花样 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "点间丝",
+    "english": "cutting point",
+    "definition": "在平涂的花纹块面上加上组织点 , 用以限制过长的经浮线或纬浮线 。注 : 分平切 、 活切和花切 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "纹板轧制与编排",
+    "english": "card punching and numbering",
+    "definition": "按照意匠图 , 用孔洞将织物组织点的起落轧制在规定的纹板上 , 作为提花机的织花信号 , 并将纹板按顺序用线串联起来 , 编排成可供指挥提花机直针提升的纹板链 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "品号",
+    "english": "article number",
+    "definition": "根据丝织物的原料 、 组织结构等进行的统一编号 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "绸重",
+    "english": "weight of silk fabric",
+    "definition": "单位面积上丝织物的重量 , 常用每平方米克重 (g/m ) 表示 。注 : 在实际生产和贸易中 , 也常用姆米 (m/m) 表示 ,1 m/m 一 4.305 6 g/me 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "染整工艺",
+    "english": "dyeing and finishing process",
+    "definition": "采用染化料配方和工艺参数的设置 ( 如温度 、 时间 . 压力 、 速度 、 浴比等 ), 使丝织物达到所需颜品质的加工过程 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "吊攀精练",
+    "english": "hang scouring",
+    "definition": "吊练坯绸经退卷 、 码绸 、 钉攀 、 穿杆 , 挂在方型练槽内进行精练的方法 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "平幅精练",
+    "english": "open width scouring",
+    "definition": "坯绸以平幅状态进行连续精练的方法 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "星形架精练",
+    "english": "star-frame scouring",
+    "definition": "将坯绸圈挂在星形架上 , 吊人圆简精练槽进行精练的方法 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "高温高压精练",
+    "english": "high temperature and pressure scouring",
+    "definition": "坯绸在高温高压加工条件或状态下进行精练的方法 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "悬挂式喷射绞丝精练",
+    "english": "hanging jet hank scouring",
+    "definition": "丝线在喷射绞丝设备上进行精练的方法 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "皂碱法精练",
+    "english": "soap-alkali dqegumming",
+    "definition": "以肥皂和纯碱作为主练剂进行精练的方法 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "碟 - 合成洗涤剂精练",
+    "english": "alkali-synthetic detergent degumming",
+    "definition": "以纯碱和表面活性剂作为主练剂进行精练的方法 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "酶精练",
+    "english": "enzymatic degumming",
+    "definition": "以生物酶作为主练剂进行精练的方法 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "轧水打卷",
+    "english": "padding and batching",
+    "definition": "将精练脱胶后 S 码或圈码状态的蚕丝织物 , 通过轧水机浸轧水后卷成平幅绸卷的工艺 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "练减率",
+    "english": "degumming loss percentage",
+    "definition": "坯绸或丝线在精练 ( 脱胶 ) 过程中重量减少的百分率 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "丝绸漆白",
+    "english": "silk bleaching",
+    "definition": "将蚕丝织物进行氧化 ( 还原 ) 漂白的工艺 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "拨染印花",
+    "english": "discharge printing",
+    "definition": "雕印织物先染色后印花 , 通过色浆中拔染剂和助拔剂破坏地色而在有色织物上显示图案的印花方法 。注 : 分拔白印花和色拔印花 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "手绘印花",
+    "english": "hand-draw printing",
+    "definition": "手工将颜料或染料绘或泼在织物上 , 形成一定花纹图案的印花方法 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "数码喷墨印花",
+    "english": "digital ink-jet printing",
+    "definition": "应用数码印花机将印花墨水直接喷印在织物上 , 形成花纹图案的印花方法 。注 : 包括单面喷印和双面喷印 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "连续平网印花",
+    "english": "continuous flat screen printing",
+    "definition": "平网网框对织物连续自动刮印的印花方法 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "砂洗",
+    "english": "sand washing",
+    "definition": "通过碱剂 、 专用砂洗剂或浮石的作用 , 使织物表面形成短密 、 均匀绒面的工艺 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "染色",
+    "english": "dyeing",
+    "definition": "j 染料使纤维 、 织物等材料着色的工艺 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "段染",
+    "english": "space dyeing",
+    "definition": "间隔染色在绞纱或织物上 , 每间隔不定距离 , 形成不同颜色的染色方法 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "渐近色染色",
+    "english": "progressive shade dyeing",
+    "definition": "织物经向或纬向颜色渐变的染色方法 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "卷染",
+    "english": "jig dyeing",
+    "definition": "在卷染机上 , 织物呈平幅状态的染色方法 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "绳状染色",
+    "english": "rope dyeing",
+    "definition": "在绳状机或滥流染色机上 , 织物呈绳状的染色方法 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "植物染料染色",
+    "english": "vegetable dyeing",
+    "definition": "从植物中提取的色素进行染色的方法 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "织物后整理",
+    "english": "fabric finishing",
+    "definition": "织物在精练 、 染色或印花后改善和提高其品质的工艺 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "呢毯整理",
+    "english": "blanket finishing",
+    "definition": "织物在精练 、 染色后或印花水洗后 , 在呢毯机上进行整纬 、 烘干和柔软整理的方法 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "拉幅整理",
+    "english": "stenter finishing",
+    "definition": "织物在精练 、 染色或印花水洗后 , 在拉幅机上进行整纬 、 拉幅 、 烘干等整理的方法 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "单辊筒整理",
+    "english": "single-cylinder finishing",
+    "definition": "织物在精练 、 染色或印花水洗后 , 在单辊简整理机上进行整纬 、 烘",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "柔软整理",
+    "english": "softening finishing",
+    "definition": "采用化学 、 物理方法使织物手感更加柔软的工艺 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "预缩整理",
+    "english": "shrunk finishing",
+    "definition": "采用机械 \\ 蒸汽等物理方法降低织物缩水率的工艺 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "增重",
+    "english": "adding weight",
+    "definition": "采用化学整理方法使蚕丝或织物增加重量的工艺 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "保胶",
+    "english": "sericin retention",
+    "definition": "使蚕丝或制品的丝胶不溶解或少量溶解的工艺 。",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "丝鸢",
+    "english": "silk scroop",
+    "definition": "丝与丝之间因摩擦而产生轻微声音的现象 。参 _ 考 _ 文献[11 GB/T 37370 “ 中国常见色色名和色度特性",
+    "source": "GB/T 26380-2022",
+    "category": "丝绸术语"
+  },
+  {
+    "term": "再生纤维",
+    "english": "regenerated fibers",
+    "definition": "以天然产物 ( 纤维",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "无机纤维",
+    "english": "inorganic fibers",
+    "definition": "以矿物质等为原料制成的纤维 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "再生纤维素纤维",
+    "english": "",
+    "definition": "regenerated cellulose fibers以天然纤维素为原料 , 经纺丝过程制成的再生纤维 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "再生蛋白质纤维",
+    "english": "regenerated protein fibers",
+    "definition": "以天然蛋白质为原料 , 经纺丝过程制成的再生纤维 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "生物基化学纤维",
+    "english": "",
+    "definition": "bio-based fibers以生物质为原料或含有生物质来源单体的聚合物所制成的纤维 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "功能性化学纤维",
+    "english": "",
+    "definition": "在纤维生产过程",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "高性能化学纤维",
+    "english": "",
+    "definition": "h 赋孙其的 , 具有超出常规纤维功能的纤维 。high performance fibers本身的物理机械性能 、 热性能突出 , 或具有某些特殊性能的纤维 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "长丝",
+    "english": "filament",
+    "definition": "连续长度很长的单根或多根丝条 。 长度一般以千米计 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "短纤维",
+    "english": "staple fibers",
+    "definition": "化学纤维的切段纤维 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "工业长丝",
+    "english": "industry filament",
+    "definition": "于工业领域的具有较高的物理机械性能的化学纤维长丝 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "高取向丝",
+    "english": "high oriented yarn; HOY",
+    "definition": "超高速纺丝得到的结晶高取向化纤长丝 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "全拉伸丝",
+    "english": "full drawn yarn;FDY",
+    "definition": "纺丝 、 拉伸一步法得到的充分结唾 、 取向化纤长丝 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "拉伸变形丝",
+    "english": "draw textured yarn; DTY",
+    "definition": "化纤长丝的全部或部分拉伸阶段与变形工艺在同一机台上进行而制成的变形纤维 , 又称弹力丝 。以生产工艺不同有低弹丝 、 中弹丝和高弹丝等 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "膨体长丝",
+    "english": "bulked continuous filament; BCF",
+    "definition": "经过纺丝 、 牵伸 、 热空气变形处理制成的蓬松长丝 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "网络丝",
+    "english": "interlaced yarn;tangled yarn",
+    "definition": "化学纤维长丝经过特殊压缩空气喷嘲 ( 网络器 ) 加工成的交缠丝 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "牵切纤维",
+    "english": "stretch breaking fibers",
+    "definition": "采用丝束直接成条的工艺把丝束拉断或切断 , 使纤维长度不超过规定上限所得到的短纤维 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "中空纤维膜",
+    "english": "hollow fibers membrane",
+    "definition": "纤维壁具有微孔的选择透过性中空纤维 , 微孔尺寸为纳米至微米级 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "超细纤维",
+    "english": "superfine fibers; microfibers",
+    "definition": "单丝线密度小于或等于 0.33 dtex 的纤维 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "纳米乡千乡佳",
+    "english": "nanofibers",
+    "definition": "平均直径小于 100 nm 的纤维 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "消光纤维",
+    "english": "dull fibers",
+    "definition": "纺丝过程中 , 经过化学或物理方法进行消光处理制成的纤维 。注 : 通常用二氧化钛为消光剂 , 依二氧化钛添加量有微消光纤维 、 半消光纤维和全消光纤维之分 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "三维卷曲纤维",
+    "english": "three-dimensional crimp fibers",
+    "definition": "在规定的条件下 , 产生立体卷曲的纤维 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "超短纤维",
+    "english": "short cut fibers",
+    "definition": "长度小于 20 mm 的纤维 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "原液着色纤维",
+    "english": "spun-dyed fibers",
+    "definition": "含有着色剂的纺丝原液或熔体纺制成的有色纤维 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "阳离子染料可染聚酯纤维",
+    "english": "cationic-dyeable fibers",
+    "definition": "具有阳离子染料可染性能的聚酯纤维 。注 : 在聚合过程中 , 添加人含有磺酸基团的第三单体制成三元共聚物后进行纺丝制成的纤维 ; 或者再进一步添加人巳具有疏松分子链结构的其他单体 , 组成",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "皮芯型复合纤维",
+    "english": "sheath-core composite fibers",
+    "definition": "两种组分聚合物分别沿纤维纵向连续形成皮",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "裂片型复合纤维",
+    "english": "split composite fibers",
+    "definition": "两种组分聚合物沿纤维轴向分别连续排列 , 纤维截多个裂片的复合纤维 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "海岛型复合纤维",
+    "english": "sea-island composite fibers",
+    "definition": "分散相聚合物 ( 岛 ) 均匀嵌在连续相聚合物 ( 海 ) q",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "毛条",
+    "english": "top",
+    "definition": "化学纤维原料制成的条形纤维集合体 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "帘子线",
+    "english": "tire cord",
+    "definition": "作帘子布经纱的强力股线 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "碳纤维原丝",
+    "english": "carbon fibers precursor",
+    "definition": "员的复合纤维 。呈现橡瓣 、 条形等形状 , 经后加工处理 , 能分成h 形成的复合纤维 。于生产化学纤维的以粉状 、 絮状等固体形式存在的合成高分子材料 。用于生产化学纤维的以球形 、 柱形 、 圆柱状等颗粒形状存在的合成高分子材料 。扎生产化学纤维的成纤性天然或合成聚合物经化学或机械处理而制成的纤维状聚集体 。能满足生产碳纤维要求的专用纤维 , 又称碳纤维前驱体 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "丝束",
+    "english": "tow",
+    "definition": "来切断成短纤维或经牵切法而制成化纤条的大量根数的连续长丝集合而成的基本无挝的长条化学纤维东 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "弹性纤维",
+    "english": "elastic fibers",
+    "definition": "具有高延伸性 , 高回弹性的纤维 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "高收缩纤维",
+    "english": "high shrinkage fibers",
+    "definition": "经过热处理后 , 具有较高收缩率的纤维 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "低收缩纤维",
+    "english": "low shrinkage fibers",
+    "definition": "经过热处理后 , 具有较低收缩率的纤维 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "阻燃纤维",
+    "english": "flame retardant fibers",
+    "definition": "离开火焰后能很快自行熄灭有焰燃烧和无焰燃烧的纤维 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "发光纤维",
+    "english": "Iuminescent fibers; luminous fibers",
+    "definition": "受到射线照射时能发出可见光的纤维 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "结构生色纤维",
+    "english": "structural coloration fibers",
+    "definition": "利用微观结构经光散射或干涉等作用而产生颜色的纤维 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "抗静电纤维",
+    "english": "antistatic fibers",
+    "definition": "不易集聚静电荷 , 有防止产生静电或消除静电作用的纤维 。 也称防静电纤维 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "导电纤维",
+    "english": "electro conductive fibers",
+    "definition": "全部或部分使用金属或导电性有机物等导电材料或亚导电材料制成的纤维 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "上血纤维",
+    "english": "stanch fibers",
+    "definition": "有优良黏附性和疑血作用且无毒性和可被吸收的多孔柔软纤维 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "可吸收纤维",
+    "english": "absorbable fibers",
+    "definition": "植人人类或动物肌体内 , 在一定时间内能自行降解并被植人机体组织完全吸收的纤维 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "反应型活性纤维",
+    "english": "reactive fibers",
+    "definition": "在大分子主链或侧链含有化学反应性基团的纤维 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "吸湿纤维",
+    "english": "hydroscopic fibers",
+    "definition": "能从周围环境中吸着大量汽态水分的纤维 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "防污纤维",
+    "english": "anti-soil fibers",
+    "definition": "具有抵抗沾污或易去污性能的纤维 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "离子交换纤维",
+    "english": "ion exchange fibers",
+    "definition": "具有离子交换功能的纤维 , 根据其拥有的离子交换基团的种类 , 可分为阳离子交换纤维 、 阴离子交",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "活性碳纤维",
+    "english": "activated carbon fibers",
+    "definition": "经活化处理得到表面有大量微孔结构 , 并有很大比表面积的碳化纤维 。 一般比表面积大于500 me /g。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "生物基再生纤维",
+    "english": "regenerated bio-based fibers",
+    "definition": "以生物质为原料经纺丝所制成的纤维 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "生物基合成纤维",
+    "english": "synthetic bio-based fibers",
+    "definition": "以生物质为原料经发酵等方法制备小分子 , 再经聚合制备高分子后纺丝成形所制成的纤维 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "光敏变色纤维",
+    "english": "cChameleon fibers",
+    "definition": "色泽随外界光照条件变化发生可逆变化的纤维 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "形状记忆纤维",
+    "english": "shape memory fibers",
+    "definition": "在特定条件下能够回复外界所赋予初始形状的纤维 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "调温纤维",
+    "english": "thermoregulation fibers",
+    "definition": "根据外界环境温度变化 , 在一定时间内实现温度调节功能的纤维 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "自修复纤维",
+    "english": "self-repairing fibers",
+    "definition": "受到一定程度破坏后 , 通过自诊断和自修复功能重新获得性能的纤维 。",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "化学循环再利用纤维",
+    "english": "chemical recycled fibers",
+    "definition": "回收材料经分解 、 再聚合等化学方法制成的纤维 。汉语拼音索引变开乡乡千乡佳 T并列型复合纤维一 .榴绍超细纤维一 …超短纤维一 …单绍导电纤维一 …导湿纤维一 .低收缩纤维 …短纤维 …发光纶维 …反应型活性纤维一 …防电磁辐射纤维 …防污纤维 .仿真纤维一 .复合纤维 .改性纤维 …高强度高模量纤维 …盲取向纺 …高收缩纤维 …高易水纤维一 .高性能化学纤维一 …工业其经功能性化学纤维 …光导纤维一 .光数变色纤维 …",
+    "source": "GB/T 4146.2-2017",
+    "category": "化学纤维术语"
+  },
+  {
+    "term": "废棉",
+    "english": "cotton waste",
+    "definition": "油花 \\ 地脚花以及落棉 、 回花 、 皮辊花 ( 吸风花 ) 绒辊花等的总称 。注 : 油花为沾有油污的棉花 ; 地脚花为掉落在地上沾有污渍的短绒和飞花 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "清梳落棉",
+    "english": "carded droppings",
+    "definition": "从开清棉机或梳棉机等分离出的纤维和杂质 。注 : 主要有统破籽 、 地弄花 、 车肚花 、 盖板花等 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "统破籽",
+    "english": "picker waste",
+    "definition": "清棉机尘格下的所有落棉 。注 : 含破籽 、 尘杂较多 。异纤分拣机喷出或人工挑拣出的含有非棉纤维的棉花 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "车肚花",
+    "english": "card waste",
+    "definition": "梳棉机车肚下的落棉 。注 : 从梳棉机后车肚刺辊部分落下的称后车肚花 , 从前车肚锡林部分落下的称前车肚花 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "精梳落棉",
+    "english": "combed droppings",
+    "definition": "经精梳机梳理过程中分离出来的短纤维和杂质 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "皮辊花",
+    "english": "roller lap waste",
+    "definition": "吸风花条子 、 粗纱或细纱断头后 , 由前罗拉和皮辊继续送出的 , 卷绕在上下皮辊或罗拉上 , 或由断头吸棉器所吸取的须条 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "绒辊花",
+    "english": "crow waste",
+    "definition": "绒板花梳棉 、 精梳 、 并条 , 粗纱 、 细纱机等绒辊或绒板上集附的短纤维 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "回丝",
+    "english": "thread waste",
+    "definition": "细纱 、 络筒 、 掂线等工序产生的纱线留头 . 废纱等的统称 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "清花棉卷",
+    "english": "blowing lap",
+    "definition": "原棉经开清棉机开松 、 混合去除大部分杂质后 , 凝聚成一定宽度和厚度的连续均匀棉层 , 再加压卷成的卷状物 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "棉条",
+    "english": "sliver",
+    "definition": "棉网经集束形成的 , 或经并条牵伸形成的条状物 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "精梳棉卷",
+    "english": "comber lap",
+    "definition": "棉条经过条并卷机并和 、 牵伸加工成一定宽度和厚度的连续均匀棉层 , 再经加压卷绕后形成的卷状物 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "精梳棉条",
+    "english": "combed sliver",
+    "definition": "经精梳机制成的棉条 , 其中纤维较伸直 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "粗纱",
+    "english": "roving",
+    "definition": "熟条经粗纱机牵伸加掏制成的具有一定线密度和掏度 , 并卷装成形供细纱工序使用的连续条状物 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "细纱",
+    "english": "spun yarn",
+    "definition": "粗纱经细纱机牵伸加掏制成的具有一定线密度和掏度 , 并卷装成形供掏线 、 机织或针织等使用的连续线状物 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "普梳棉纱",
+    "english": "carded cotton yarn",
+    "definition": "普梳纱经过清棺 、 梳棺 、 并条 . 粗纱 、 细纱等工序 , 但不经过精梳工序纺制的棉纱 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "半精梳棉纱",
+    "english": "semi-combed cotton yarn",
+    "definition": "将精梳条和生条进行并合 , 或以落棉较少的精梳棉条纺制的棉纱 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "弱捅纱",
+    "english": "soft twist yarn",
+    "definition": "与正常纱相比 , 掂度较小的纱 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "特细号纱",
+    "english": "extra-fine yarn",
+    "definition": "高支纱线密度在 10 tex 及以下 ( 纱支 60「 及以上 ) , 细度很细的纱 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "生的离心力使纤维在转杯周边赔聚槽",
+    "english": "",
+    "definition": "喷气涡流纺纱 “air-jet-vortex-spun yarn利用喷射气流形成的涡流场对纤维进行凝聚 、 加掏纺制的纱 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "竹节纱",
+    "english": "slub yarn;bunchy yarn",
+    "definition": "在单纱长度方向上呈不规则竹节式粗细节的花式纱 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "结子纱",
+    "english": "knot yarn",
+    "definition": "纱条表面间隔缠绕有许多大小不等小结子的花式纱 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "本色纱",
+    "english": "grey yarn",
+    "definition": "未经漂染 , 保持纤维原有色泽的纱 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "色纺纱",
+    "english": "colored spun yarn",
+    "definition": "纤维或条子染色后经纺纱工艺纺制的纱 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "漂白纱",
+    "english": "bleach yarn",
+    "definition": "本色纱经过漂白工艺加工而成的纱 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "段彩纱",
+    "english": "space dyed yarn",
+    "definition": "在长度方向上呈现不同色彩和色泽变化的纱线 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "烧毛纱",
+    "english": "singed yarn",
+    "definition": "将纱线通过高温火焰 , 瞬时间烧去纱线表面毛羽的纱 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "筒纱",
+    "english": "cone shaped yarn",
+    "definition": "筒子纱纱线的一种卷装形式 。注 : 按卷装形状分为圆柱形 、 圆锥形和其他形状筒子 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "绞纱",
+    "english": "skein;lea",
+    "definition": "缉纱把管纱或筒二纱在摇纱机上按规定圈数 、 长度 、hnl量卷绕成绞的纱 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "纯棉织物",
+    "english": "cotton fabric",
+    "definition": "以纯棉纱线为原料制造的机织物和针织物 。注 : 其中纯棉机织物又称棉布 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "纱织物",
+    "english": "single yarn fabric",
+    "definition": "以单纱织成的机织物 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "线织物",
+    "english": "thread fabric",
+    "definition": "以股线织成的机织物 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "混纺织物",
+    "english": "blended fabric; blended-spun-yarn fabric",
+    "definition": "以一种混纺纱线制成的织物 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "本色织物",
+    "english": "grey fabric",
+    "definition": "本色纱线织成 , 未经染整加工的织物 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "本光布",
+    "english": "nonmercerized fabric",
+    "definition": "经煮练 、 退浆 , 不经丝光工艺处理的织物 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "漂白织物",
+    "english": "bleached fabric",
+    "definition": "经烧毛 、 退浆 , 焯练 、 漂白等前处理工序 , 再经适当整理加工而成的织物 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "染色织物",
+    "english": "dyed fabric",
+    "definition": "经练漂等前处理工序 , 再进行染色及整理加工而成的织物 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "静电植绒织物",
+    "english": "flock printed fabric",
+    "definition": "利用静电在 , 将绒毛植人涂有粘合剂的织物表面 , 形成表面为绒毛层的有色织物或花纹图案织物 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "蓝印花布",
+    "english": "indigo blue printed fabric",
+    "definition": "靛蓝花布靛蓝防白印花工艺印制的蓝地 ( 底 ) 白花织物 。注 : 属民间传统印花织物 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "吹兰才二仨布",
+    "english": "burnt-out fabric",
+    "definition": "利用纤维的不同性能 , 经酸腐蚀烂花工艺处理 , 呈现透明与不透明 ( 或凹凸 ) 的两部分 , 形成凹凸囹案效果的织物 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "蜡染织物",
+    "english": "wax resist printed fabric",
+    "definition": "蜡防织物以蜡为防染剂进行印花 ( 称蜡染或涂蜡防染 ) 后形成色地白花织物 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "色织物",
+    "english": "yarn-dyed fabric",
+    "definition": "色织布亿染色纱或色纺纱织成的织物 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "玻璃纱",
+    "english": "voile",
+    "definition": "巴里纱亿掏度较大的特细号或细号纱作经纬织成的稀薄透明的平纹织物 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "斜纹织物",
+    "english": "twill fabric",
+    "definition": "采用斜纹组织织成的织物的统称 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "哗叽",
+    "english": "serge",
+    "definition": "采用二上二下斜纹组织织成的织物 。 经向紧度约为 55% 一 70 % , 经纬向紧度比约为 6: 5, 斜纹倾斜角接近 45“, 经纬密较接近 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "卡其",
+    "english": "khaki drill",
+    "definition": "采用斜纹组织织成的高紧度织物 。 经密及经向紧度较高 , 经纬向紧度比接近 2 : 1, 多经丝光工艺处理 。 采用三上一下斜纹组织的为单面卡 , 采用二上二下斜纹组织的为双面卡 , 采用斜纹变化组织中急斜纹组织的为缎纹卡 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "华达呢",
+    "english": "cotton gabardine",
+    "definition": "采用二上二下斜纹组织织成的织物 。 斜纹倾斜角约 60「“, 高经密 , 低纬密 , 经向紧度约为 75% 一95 % , 经纬向紧度比接近 2 : 1, 其总紧度和斜纹倾斜角介于唉叽与卡其之间 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "牛仔布",
+    "english": "denim",
+    "definition": "以较粗的纱线作经纬织成的斜纹布 。注 : 传统牛仔布的经纱为青蓝色 , 纬纱为本色或淡色 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "缎纹织物",
+    "english": "satin fabric",
+    "definition": "采用缎纹组织织成的织物的统称 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "贡缎",
+    "english": "satin drill",
+    "definition": "以中号或细号纱做经纬 , 采用缎纹组织织成的 , 具有较密经密或纬密 , 富有光泽的织物 。注 : 分为直贡和横贡 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "双层布",
+    "english": "double fabric",
+    "definition": "双层织物表 、 里两个系统的经纱和表 、 里两个系统的纬纱交织而成相互重叠的织物 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "灯芯绒",
+    "english": "corduroy",
+    "definition": "采用纬二重组织 , 经割绒整理 , 布面呈灯芯状凹凸绒条的织物 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "水洗布",
+    "english": "washer wrinkle fabric",
+    "definition": "采用印染整理加工后 , 具有水洗风格的织物 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "轧纹布",
+    "english": "embossing fabric",
+    "definition": "经印染整理加工后 , 布面呈现凹凸花纹的织物 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "提花织物",
+    "english": "jacquard fabric",
+    "definition": "利用提花机构织成具有花纹的织物 。注 : 分为小提花织物和大提花织物两大类 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "落杂率",
+    "english": "trash removal rate",
+    "definition": "经开清棉和梳棉工序分离出落棉中的杂质含量占喂人棉总量的百分率 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "棉结",
+    "english": "neps",
+    "definition": "纤维相互缠绕形成的小球粒 , 染色后在产品上呈现白星或色结 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "杂质",
+    "english": "trashes",
+    "definition": "纱线或织物中含有的籽脚 , 硼叶 、 碎枝杆 、 棉籽软皮 . 麻草 、 木",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "多股",
+    "english": "superfluous ply",
+    "definition": "股线中单纱根数多于规定根数 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "缺股",
+    "english": "deficient ply",
+    "definition": "股线中单纱根数少于规定根数 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "多捻",
+    "english": "superfluous twist",
+    "definition": "掏度高于规定范围的纱线疵点 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "在瑟壬芯",
+    "english": "broken core",
+    "definition": "包芯纱中的芯纱断裂 , 造成仅有包覆纤维而无芯纱的一段纱线 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "上浆率",
+    "english": "sizing percentage",
+    "definition": "纱线上浆前后的质量差值对上浆前纱线质量的百分比 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "退浆率",
+    "english": "desizing percentage",
+    "definition": "纱线或织物退浆前后的质量差值对其退浆前质量的百分比 。汉语拼音索引巴里纱包芯纱本光布本色织物层差粗支纱倒绒灯芯绒靛蓝花布缎纹织物帆布仿麂皮织物",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "通用型玄武岩纤维",
+    "english": "general basalt fiber",
+    "definition": "具有一定的拉伸强度 、 拉伸弹性模量 、 耐碱盐侵蚀性和耐高温性的玄武岩纤维 。",
+    "source": "GB/T 38111-2019",
+    "category": "静电性能术语"
+  },
+  {
+    "term": "耐高温玄武岩纤维",
+    "english": "high temperature resistant basalt fiber",
+    "definition": "经规定的高温条件处理后 , 纱线的拉伸断裂强度比通用型高一倍以上 , 具有显著的耐高温能力的玄武命纤维 。注 : 简称耐温型 。",
+    "source": "GB/T 38111-2019",
+    "category": "静电性能术语"
+  },
+  {
+    "term": "腈纶类废旧纺织品",
+    "english": "acrylic textile waste",
+    "definition": "以腈纶为主体的废旧纺织品 。",
+    "source": "GB/T 38923-2020",
+    "category": "废旧纺织品分类"
+  },
+  {
+    "term": "其他类废旧纺织品",
+    "english": "other textile waste",
+    "definition": "棉 、 毛 、 涤纶 、 锦纶和腈纶成分之外的某一种纤维 ( 如丝 、 麻 ) 为主体的废旧纺织品 。",
+    "source": "GB/T 38923-2020",
+    "category": "废旧纺织品分类"
+  },
+  {
+    "term": "废旧纺织品不合格物",
+    "english": "disqualified goods",
+    "definition": "在废旧纺织品中含有的不适合以现有工艺再利用的纺织品 , 或具备连接 、 装饰 、 标识或其他作用的部件 。示例 : 膜 、 标签 、 拉链 、 纽扣 、 绳带 。",
+    "source": "GB/T 38923-2020",
+    "category": "废旧纺织品分类"
+  },
+  {
+    "term": "废旧纺织品不合格物含量",
+    "english": "content of disqualified goods",
+    "definition": "废旧纺织品中不合格物的质量占被检物总质量的百分数 。",
+    "source": "GB/T 38923-2020",
+    "category": "废旧纺织品分类"
+  },
+  {
+    "term": "棉类废旧纺织品分级指标及质量要求",
+    "english": "",
+    "definition": "棺类废旧纺织品分级指标及质量要求见表 3。表 3 棉类废旧纺织品分级指标及质量要求棉类废纺织品质量要求棉类旧纺织品质量要求序号指标一级二级三级一级二级三级《01010101) (《01010102) (《01010103) (《01020101) (《01020102) 《01020103)不合格] “ 台格物妙 0.1 一 2 一 3 妙 5 妙 10 妙 15含量 / %棉纤维",
+    "source": "GB/T 38923-2020",
+    "category": "废旧纺织品分类"
+  },
+  {
+    "term": "其他类废旧纺织品分级指标及质量要求",
+    "english": "",
+    "definition": "兴他类废旧纺织品分级指标及质量要求见表 8。表 8 其他类废旧纺织品分级指标及质量要求其他类废纺织品质量要求其他类旧纺织品质量要求序号指标一级二级一级二级(《01010601) (《01010602) 《01020601) (《01020602)| 1 不合格物吴量 / %f 5 三 10 三 10 三 20| 2 主要材质含量 /% 三 75 三 50 75 2350",
+    "source": "GB/T 38923-2020",
+    "category": "废旧纺织品分类"
+  },
+  {
+    "term": "内在检验",
+    "english": "",
+    "definition": "废旧纺织品每批应不多于 10 t, 每批抽样量为被检总质量的 0.01% 。行鉴别 。 成分含量附 “ 录 A( 规范性附录 )废旧纺织品不合格物含量试验方法A.1 工具台秤 。A.2 试验步骤称量所抽取废旧纺织品样品的总质量 , 然后人工分拣出样品次废旧纺织品的不合格物含量 。A.3 “ 计算公式废旧纺织品不合格物含量按照式 (A.1) 进行计算 ,八二璧※ 100 5772 1A 一一废旧纺织品不合格物含量 , % ;",
+    "source": "GB/T 38923-2020",
+    "category": "废旧纺织品分类"
+  },
+  {
+    "term": "自然灾害场",
+    "english": "",
+    "definition": "于应急产业 , 具有预防防护 . 应急处置 、 救援注 : 应急产业一般指为预防 、 处置突发景用纺织品应纺织品 。",
+    "source": "GB/T 42693-2023",
+    "category": "产业用纺织品术语"
+  },
+  {
+    "term": "事故灾难场",
+    "english": "",
+    "definition": "应用于矿山‖…件 、 踩踏事件 、 核事故 . 水上交通事故 . 航空景用纺织品与辐射事故 、 工业",
+    "source": "GB/T 42693-2023",
+    "category": "产业用纺织品术语"
+  },
+  {
+    "term": "公共卫生事",
+    "english": "",
+    "definition": "件场景用纺织品应用于传染",
+    "source": "GB/T 42693-2023",
+    "category": "产业用纺织品术语"
+  },
+  {
+    "term": "棉花",
+    "english": "cotton",
+    "definition": "锦葵科棉属植物及其种子上纤维的统称 。注 : 包括籽棉 , 皮棉等 。[ 来源 :GB/T 32139 一 2015,2.1.1, 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "细绒棉",
+    "english": "upland cotton;medium cotton",
+    "definition": "从陆地棉栽培品种取得的棉纤维 (3.1.2 ) 。注 1: 陆地棉是四倍体栽培棉种之一 , 原产于中美洲墨西哥南部的高地及加勒比地区 。注 2: 一般手扯长度 23 mm 一 33 mm, 线密度 143 mtex 一 222 mtex。[ 来源 :NY/ 工 2673 一 2015,3.6 , 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "长绒棉",
+    "english": "sea island cotton;long staple cotton",
+    "definition": "从海岛棉栽培品种取得的棉纤维 (3.1.2 ) 。巳巳注 1: 海岛棉是四倍体栽培棉种之一 , 原产于南美洲中美洲和加勒比地区 。注 2: 一般手扯长度 33 mm 一 40 mm , 线密度小于 143 mtex。[ 来源 :NY/T 2673 一 2015 ,3.7 , 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "籽棉",
+    "english": "seed cotton",
+    "definition": "从棉铃中采摘的带籽棉花 。[ 来源 :GB/T 32139 一 2015 ,2.2.1, 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "锯齿棉",
+    "english": "saw ginned cotton",
+    "definition": "籽棉 (3.1.7) 经锯齿轧花工艺加工获得的皮棉 (3.1.8)。[ 来源 :GB 1103.1 一 2023,3.1, 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "锡齿加工细绒棉",
+    "english": "saw ginned upland cotton",
+    "definition": "娄棉 (3.1.7) 经锯齿轧花工艺加工获得的细绒棺 (3.1.3 ) 。[ 来源 :GB 1103.1 一 2023,3.1, 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "剥桃棉",
+    "english": "bolly cotton;snapped cotton",
+    "definition": "从非自然开裂的棉铃中剥取的棉花 (3.1.1)。",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "落地棉",
+    "english": "floor sweeping cotton",
+    "definition": "在机械采摘收购 . 成包 、 储运等过程中 , 落地沾污的棉花 (3.1.1)。[ 来源 :GB/T 32139 一 2015,2.1.11, 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "棉短绒",
+    "english": "cotton linter",
+    "definition": "棉籽绒从轧花后的毛棉籽上刮剥下来的棉纤维 (3.1.2 ) 。注 : 毛棉籽是籽棉经轧花工艺分离出的棉娄 , 着生少量棉纤维 。[ 来源 :GB/T 32139 一 2015,2.4.10 , 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "一类棉短绒",
+    "english": "first-cut linter",
+    "definition": "纤维手扯长度 (3.2.4.29) 为 13 mm 及以上的棉短绒 (3.1.20) 。[ 来源 :GB/T 32139 一 2015,2.4.11, 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "二类棉短绒",
+    "english": "second-cut linter",
+    "definition": "纤维手扯长度 (3.2.4.29) 为 13 mm 以下的棉短绒 (3.1.20) 。[ 来源 :GB/T 32139 一 2015,2.4.12 , 有修改 ]3.2 “ 检验3.2.1 “ 方法",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "感官检验",
+    "english": "sensory inspection",
+    "definition": "依据实物标准 , 应用感官对棉花品质进行检验的活动 。注 : 包括颜色级 、 品级和轧工质量等 ,",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "实验室样品",
+    "english": "laboratory sample",
+    "definition": "按规定从批样 (3.2.2.1) 中抽取的F 实验室检验的样品 。[ 来源 :GB/T 6097 一 2023,3.2 , 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "试验样品",
+    "english": "test sample",
+    "definition": "按规定从实验室样品 (3.2.2.2) 中抽取的用于试验的样品 。[ 来源 :GB/T 6097 一 2023,3.3 , 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "光谱功率分布",
+    "english": "spectral power distribution",
+    "definition": "光谱密集度与波长之间的丽数关系 。[ 来源 :GB/T 13786 一 2022 3.1]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "显色指数",
+    "english": "color rendering index",
+    "definition": "光源显色性的度量 。注 : 以被测光源下物体的颜色和参照光源下物体的颜色的相符程度来表示 。[ 来源 :GB/T 13786 一 2022 3.5 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "光照强度",
+    "english": "illumination",
+    "definition": "照度单位面积上所接受可见光的光通量 。注 : 单位为勒克斯 (Lx) 。[ 来源 :GB/T 13786 一 2022 ,3.7 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "平均照度",
+    "english": "average illuminantce",
+    "definition": "规定表面上各点照度的平均值 。[ 来源 :GB/T 13786 一 2022 3.8 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "照度均匀度",
+    "english": "uniformity ratio of illuminance",
+    "definition": "规定表面上的最小照度与平均照度之比 。[ 来源 :GB/T 13786 一 2022 3.9 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "颜色级",
+    "english": "color grade",
+    "definition": "锯齿加工细绒棉 (3.1.12) 颜色的类型和级别 。注 : 类型依据黄色深度确定 , 级别依据明暗程度确定 。[ 来源 :GB 1103.1 一 2023 ,3.2 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "反射率",
+    "english": "reflectance degree; Rd",
+    "definition": "棉花 (3.1.1) 样品反射光的明暗程度 。[ 来源 :GB/TT 20392 一 2023 ,3.1 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "黄色深度",
+    "english": "yellowness",
+    "definition": "黄度十 b棉花 (3.1.1) 样品黄色色调的深浅程度 。[ 来源 :GB/TT 20392 一 2023 ,3.2 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "黄染棉",
+    "english": "yellow stained cotton",
+    "definition": "整体泛黄的锯齿加工细绒棉 (3.1.12) 。",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "轧工质量",
+    "english": "preparation",
+    "definition": "籽棺 (3.1.7) 经过加工后 , 皮棺 (3.1.8) 外观形态粗糙程度和所含疵点的种类及数量 。[ 来源 :GB 1103.1 一 2023,3.4]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "破籽",
+    "english": "seed coat fragment",
+    "definition": "白积在 2 mm: 及以上 , 带有或不带有纤维的碎棉籽壳 。[ 来源 :GB/T 32139 一 2015,2.4.8, 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "索丝",
+    "english": "stringy cotton",
+    "definition": "相互纠缠且纵向难以扯开的条索状纤维柬 。[ 来源 :GB/T 32139 一 2015,2.3.31, 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "软籽表皮",
+    "english": "cuticle of immature cotton seed",
+    "definition": "未成熟棉籽上的表皮 。注 : 软濂呈黄褐色 , 一般带有底绒 。[ 来源 :GB/T 6103 一 2006,3.1.4, 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "僵片",
+    "english": "ginned dead cotton",
+    "definition": "从受到病虫害或未成熟的籽棉轧下的僵棉片 。[ 来源 :GB/T 6103 一 2006,3.1.5 , 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "带纤维籽层",
+    "english": "bearded motes",
+    "definition": "白积在 2 mm: 以下 , 带有纤维的硼籽屑 。[ 来源 :GB/T 6103 一 2006,3.1.6, 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "棉结",
+    "english": "nep",
+    "definition": "棉纤维 (3.1.2) 纠缠而成的结点 。注 : 因棉纤维不成熟或轧花工艺不良造成的 , 一般在染色后形成深色或浅色细点 。[ 来源 :GB/T 6103 一 2006,3.1.7 , 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "黄根",
+    "english": "tinged linter",
+    "definition": "于皮辊轧花工艺不良 , 混人皮棉 (3.1.8) 中棉籽上的黄褐色底绒 。[ 来源 :GB/T 6103 一 2006,3.1.8, 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "黄根率",
+    "english": "percentage of tinged linter mass",
+    "definition": "皮棉 (3.1.8) 试样中拣出的黄根 (3.2.4.23) 质量占试样质量的百分率 。[ 来源 :GB/T 6103 一 2006,3.6 , 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "单项疵点粒数",
+    "english": "number of single defect",
+    "definition": "100 g 皮棺 (3.1.8) 中所含单项疲点的粒数 。[ 来源 :GB/T 6103 一 2006,3.2 , 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "手扯长度",
+    "english": "pulling staple length",
+    "definition": "手扯尺量方法测得的棉纤维 (3.1.2) 长度 。注 1: 单位为毫米 (mm ) 。注 2: 采用棉花手扯长度实物标准进行校准 , 与上半部平均长度相一致 。[ 来源 :GB/T 19617 一 2007 ,3.2 , 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "品质长度",
+    "english": "quality length",
+    "definition": "棉纤维 (3.1.2) 长度分布中 , 主体长度 (3.2.4.30) 以上各组纤维的质量加权平均长度 (3.2.4.32) 。注 : 单仨为毫米 (mm) 。[ 来源 :GB/T 6098 一 2018,3.2 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "质量加权平均长度",
+    "english": "average length of mass",
+    "definition": "棉纤维 (3.1.2) 长度分布中 , 以各组纤维的质量加权得出的平均长度 。注 : 单仨为毫米 (mm) 。[ 来源 :GB/T 6098 一 2018,3.4 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "基数",
+    "english": "uniformity extent",
+    "definition": "纤维主体长度组及其相邻共 5 mm 长度范围内纤维质量占总质量的百分率 。注 : 用罗拉式分析仪测试时表示棉纤维长度整齐程度的指标 。[ 来源 :GB/T 6098 一 2018,3.5, 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "上半部平均长度",
+    "english": "upper half mean length",
+    "definition": "在照影曲线图中 , 从纤维数量 50 % 处作照影曲线的切线 , 切线与长度坐标轴交点所显示的长度值 。注 : 单仨为毫米 (mm) 。[ 来源 :GB/T 20392 一 2023 ,3.7 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "跨距长度",
+    "english": "span length",
+    "definition": "纤维照影仪长度曲线图中 , 跨越纤维相对根数百分率纤维的长度 , 纤维握持线处纤维相对根数为 100 % 。注 : 常用 2.5% 和 50 % 跨距长度表示 , 单位为毫米 (mm) 。[ 来源 :GB/ 工 35931 一 2018,3.3 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "长度整齐度指数",
+    "english": "uniformity index",
+    "definition": "平均长度 (3.2.4.35) 占上半部平均长度 (3.2.4.36) 的百分率 。[ 来源 :GB/T 20392 一 2023,3.8, 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "短纤维率",
+    "english": "short fiber content",
+    "definition": "棉纤维 (3.1.2) 中短于一定长度界限的纤维质量 ( 或根数 ) 占纤维总质量 ( 或根数 ) 的百分率 。注 : 细绒棉长度界限 16 mm, 长绒棉长度界限 20 mm 。[ 来源 :GB 1103.1 一 2023,3.5, 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "胞壁厚度",
+    "english": "wall thickness",
+    "definition": "棉纤维 (3.1.2) 转曲展平段的壁厚 。[ 来源 :GB/T 6099 一 2008,3.6 , 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "中腔宽度",
+    "english": "Iumen width",
+    "definition": "棉纤维 (3.1.2) 转曲展平段壁间的剩余空腔宽度 。[ 来源 :GB/T 6099 一 2008,3.7 , 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "胞壁增厚度",
+    "english": "degree of fiber wall thickening",
+    "definition": "胞壁的实际横截面积对具有相同周长的圆面积之比 。[ 来源 :GB/T 6099 一 2008,3.2 , 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "成熟纤维百分率",
+    "english": "percent maturity",
+    "definition": "成熟纤维根数占纤维总根数的百分率 。[ 来源 :GB/T 13777 一 2024,3.5 , 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "成熟系数",
+    "english": "mature coefficient",
+    "definition": "中腔宽度 (3.2.4.43 ) 与胞壁厚度 (3.2.4.42) 的比值定出的相应数值 。",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "死纤维",
+    "english": "dead fiber",
+    "definition": "棉纤维 (3.1.2) 经 18 % 氡氧化钠溶液处理膨胀后 , 胞壁厚度 (3.2.4.42 ) 小于或等于最大宽度的五分之一的纤维 。注 : 死纤维有各种形态 , 通常为无转曲扁平带状或转曲较多的带状 。[ 来源 :GB/T 13777 一 2024,3.2 , 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "薄壁纤维",
+    "english": "thin-walled fiber",
+    "definition": "棉纤维 (3.1.2) 经 18 % 氡氧化钠溶液处理膨胀后 , 不符合正常纤维 (3.2.4.49 ) 或死纤维 (3.2.4.48 ) 特征的纤维 。[ 来源 :GB/T 13777 一 2024,3.4, 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "未成熟纤维",
+    "english": "immature fiber",
+    "definition": "棉纤维 (3.1.2) 经 18 % 氡氧化钠溶液处理膨胀后 , 呈螺旋或扁平带状 , 胞壁极薄几乎呈透明轮廓的纤维 , 胞壁厚度 (3.2.4.42) 小于最大宽度的四分之一 。[ 来源 :GB/T 13777 一 2024,3.6 , 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "线密度",
+    "english": "linear density",
+    "definition": "棉纤维 (3.1.2) 单位长度的质量 。注 : 表征纤维粗细程度 , 单位为 mtex。[ 来源 :GB/T 6100 一 2007,3.1, 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "异性纤维",
+    "english": "foreign fiber",
+    "definition": "混人棉花 (3.1.1) 中的非棉纤维和非本色棉纤维 。注 : 包括化学纤维 、 毛发丝 、 麻 、 塑料膜 、 塑料绳 . 染色线 ( 绳 , 布块 ) 等 。[ 来源 :GB 1103.1 一 2023,3.10]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "成包皮棉异性纤维含量",
+    "english": "the content of foreign fiber of baled cotton",
+    "definition": "单位重量成包皮棉 (3.1.8) 中挑拣出的异性纤维 (3.2.4.54) 的重量 。注 : 单位为克每吨 (g/t) 。[ 来源 :GB 1103.1 一 2023,3.11 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "异性纤维含量",
+    "english": "content of foreign fiber",
+    "definition": "皮棺 (3.1.8) 试样中挑拣出的异性纤维 (3.2.4.54) 质量与试样质量之比 。注 : 单位为克每吨 (g/t) 。[ 来源 :GB/T 41690 一 2022 ,3.2 , 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "塑料膜类异性纤维含量",
+    "english": "content of plastic film foreign fiber",
+    "definition": "皮棉 (3.1.8) 试样中挑拣出的塑料膜异性纤维质量与试样质量之比 。注 : 单位为克每吨 (g/t) 。[ 来源 :GB/T 41690 一 2022 3.3, 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "其他类异性纤维含量",
+    "english": "content of other foreign fiber",
+    "definition": "除塑料膜之外 , 皮棉 (3.1.8) 试样中挑拣出的其他类异性纤维质量与试样质量之比 。注 : 单位为克每吨 (g/t) 。[ 来源 :GB/T 41690 一 2022,3.4, 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "异性纤维数量",
+    "english": "number of foreign fiber",
+    "definition": "皮棉 (3.1.8) 试样中挑拣出的异性纤维数量 。注 : 单仨为个 。[ 来源 :GB/T 41690 一 2022 3.5 , 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "危害性杂物",
+    "english": "dangerous foreign matters",
+    "definition": "混入棉花 (3.1.1) 中的硬杂物和软杂物 。注 : 包括金属 、 砚石及异性纤维等 。[ 来源 :GB 1103.1 一 2023 ,3.12 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "断裂伸长率",
+    "english": "breaking elongation",
+    "definition": "纤维李在断裂负荷最大值时的相应伸长占 3.2 mm 隔距长度的百分率 。[ 来源 :GB/TT 20392 一 2023 ,3.10 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "粘性",
+    "english": "stickiness",
+    "definition": "棉纤维 (3.1.2) 生长过程中沾染糖类物质 , 棉纤维之间或棉纤维与其他物体之间产生吸附的性质 。",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "籽棉衣分率",
+    "english": "lint percentage",
+    "definition": "从籽棉 (3.1.7) 上轧出的皮棉 (3.1.8) 质量占相应籽棉质量的百分率 。[ 来源 :GB/T 40628 一 2021,3.1, 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "净籽棉质量",
+    "english": "net seed cotton mass",
+    "definition": "排除土杂后的籽棉 (3.1.7) 质量 。注 : 土杂包括尘土 、 叶屑 、 棉杆 , 铃壳等 。[ 来源 :GB/T 40628 一 2021,3.3, 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "洛籽棉公定衣分率",
+    "english": "conditioned lint percentage of net seed cotton",
+    "definition": "从籽棉 (3.1.7) 上轧出的皮棉 (3.1.8) 公定重量 (3.2.5.16) 占相应净籽棉质量 (3.2.5.4) 的百分率 。[ 来源 :GB/T 40628 一 2021,3.5 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "毛重",
+    "english": "gross weight",
+    "definition": "棉花 (3.1.1) 及其包装物重量之和 。[ 来源 :GB 1103.1 一 2023,3.6]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "净重",
+    "english": "net weight",
+    "definition": "毛重 (3.2.5.7) 减去包装物重量后的重量 。[ 来源 :GB 1103.1 一 2023,3.7 , 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "烘干质量",
+    "english": "over-drying mass",
+    "definition": "试样在烘箱中烘至恒量 (3.2.5.12) 时的质量 。[ 来源 :GB/T 6102.1 一 2006,3.3 , 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "恒量",
+    "english": "constant mass",
+    "definition": "皮棉 (3.1.8) 烘验过程中间隔一定时间称量 , 当连续两次称量的差值小于后一次称量值的 0.05 X时 , 后一次的称见质量 。[ 来源 :GB/T 6102.1 一 2006,3.2 , 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "公定重量",
+    "english": "conditioned weight",
+    "definition": "洗重 (3.2.5.8) 按棉花 (3.1.1) 实际含杂率 (3.2.5.15) 和实际回潮率 (3.2.5.13) 折算成标准含杂率和公定回潮率后的重量 。[ 来源 :GB 1103.1 一 2023 ,3.8 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "属性代码结构",
+    "english": "",
+    "definition": "按照 GB 1103.1 一 2023、GB 1103.2 一 2012、GB/TIT 1103.3 一 2024、GB/T 19635 一 2024 相关规定 , 棉纤维蒿性代玛采 12 位的特征组合码， 斓滩X3X4X…X6X7X8X9X…Xn兄2表示【)棉纤维属性编码结构 , 应符合图 1 的规定 。X X X X4 Xs Xe X Xs 又 9 Xlo 叉 L p颜色 “ 一一一采摘方式加工方式颜色级 / 品级轧工质量长度马克隆值断裂比强度长度整齐度指数短纤维率异性纤维图 1 棉纤维属性编码结构",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "七级一",
+    "english": "",
+    "definition": "注 1: 皮辊加工细绒棉品级分为七级 。注 2: 长绒棉品级分为 5 级 。",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "机械控制的针织横机",
+    "english": "flatbed knitting machine with mechanical control",
+    "definition": "主要功能由机械控制的横编机器 。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "电子控制的针织横机",
+    "english": "flatbed knitting machine with electronic control",
+    "definition": "电脑针织横机纺织机械与附件 “ 针织横机 “ 术语文件 。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "单机头针织横机",
+    "english": "flatbed knitting machine with one knitting head",
+    "definition": "一个机头往复运动生产针织物的横编机器 。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "多机头针织横机",
+    "english": "flatbed knitting machine with several knitting heads",
+    "definition": "多个机头往复运动生产针织物的横编机器 。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "三角座滑架环形运动的针织横机",
+    "english": "flatbed knitting machine with circulating carriage",
+    "definition": "三角座滑架单方向环形运动驱动织针的横编机器 。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "无三角座滑架的针织横机",
+    "english": "flatbed knitting machine without carriage",
+    "definition": "每枚织针独立驱动的横编机器 。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "前侧面",
+    "english": "front side",
+    "definition": "V主操作面 ( 见图 1) 。一一 L 一一一士 T T T TE 4标引符号说明 :V 一一前侧面 ;X 一一后侧面 ;R 一一右侧面 ;L 一一左侧面 ;",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "右侧面",
+    "english": "right side",
+    "definition": "击主操作面的右侧面 ( 见图 1) 。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "左侧面",
+    "english": "left side",
+    "definition": "L主操作面的左侧面 ( 见图 1) 。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "针床",
+    "english": "needle bed support",
+    "definition": "于安装针床的基座 。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "机头导轨",
+    "english": "knitting head rail",
+    "definition": "于机头运行的轨道 。3.7 “ 驱动",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "辅助驱动",
+    "english": "ancillary drive",
+    "definition": "于驱动除机头外的单个组件运动的机械装置 。3.8 “ 针床及结构",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "前针床",
+    "english": "front needle bed",
+    "definition": "在前侧的针床 ( 见图 2)。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "辅助针床",
+    "english": "auxillary bed",
+    "definition": "安装在前和 ( 或 ) 后针床起到辅助作用的针床 。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "脱圈部位",
+    "english": "knock-over cam",
+    "definition": "针床的一部分 , 用于形成线圈横列 。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "针床间距",
+    "english": "",
+    "definition": "_蓄′婆′′前后针床脱图",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "舌针",
+    "english": "latch needle",
+    "definition": "呈扁平或圆形横截面 , 具有钩形针头 , 以及安装于针头前端固定轴上的活动针舌 。注 1: 在成圈过程P , 通过纱线的作注 2: 见 GB/TT 30160.1 一 2013。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "复合针",
+    "english": "compo",
+    "definition": "针钩件和闭合件组成注 1: 针钩件主要呈扁und needle注 2: 见 GB/TT 30160.3 一 2013。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "辅助织针机件",
+    "english": "",
+    "definition": ", 针舌将针钩开的针织机件 。F 形并具有钩形针头 。 闭合件具有扁平针杆 , 由针钩件导向 ,auxiliary needle element控制织针运动的机件 。示例 : 挺针片和选针片 。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "辅助针尺",
+    "english": "narrowing rod",
+    "definition": "与针槽垂直的限定和引导辅助织针机件运动的条形机件 。3.9 “ 机头",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "三角座滑架",
+    "english": "carriage",
+    "definition": "装载驱动织针 、 辅助织针机件 、 握持沉降片和辅助机件及纱嘴机构的载架装置 。注 : 三角座滑架包含一个或多个不可分割的系统 。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "三角座",
+    "english": "carriage part",
+    "definition": "适配针床或辅助织针的三 〗肢或关闭 。座滑架的部分 ( 见图 4) 。F 闭合针钩 。标引序号说明 :",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "三角座滑架天桥",
+    "english": "carriage bow",
+    "definition": "前后三角座的连接件 ( 见图 4) 。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "系统",
+    "english": "system",
+    "definition": "引导织针 、 辅助织针机件 、 辅助机件在一个工作循环内运动的装置 。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "编织系统",
+    "english": "knitting system",
+    "definition": "在编织过程中使织针运动以形成线圈的装置 。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "辅助系统",
+    "english": "auxiliary system",
+    "definition": "在编织过程中使织针和 / 或辅助机件运动使线商实现特殊效果的装置 。3.11 “ 三角",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "三角系统",
+    "english": "cam system",
+    "definition": "于控制和移动针床或辅助针床中的织针 、 辅助针机件和 / 或其他辅助机件的系统 。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "三角底板",
+    "english": "cam plate",
+    "definition": "装有三角的底座 。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "集圈三角",
+    "english": "raising cam for tuck",
+    "definition": "移动织针和辅助织针机件上升到集圈位置的三角 ( 见图 5)。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "挺针三角",
+    "english": "raising cam for knitting",
+    "definition": "图 5 三角移动织针和辅助织针机件至退圈位置的三角 ( 见图 5) 。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "移圈三角",
+    "english": "transfer raising cam",
+    "definition": "移圈时将织针和辅助织针机件上升到移圈位置的三角 ( 见图 5) 。接圈三角 “receiving raising cam移圈时推动织针和辅助针机件至接圈位置的",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "成园三角",
+    "english": "stitch cam",
+    "definition": "使织针和辅助织针机件下降至线圈形成的位置 ( 决定纵向密度 ) 的三角 ( 见图 5) 。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "护针三角",
+    "english": "limiting cam",
+    "definition": "限制织针和辅助织针机件运动的三角 ( 见图 5) 。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "复位三角",
+    "english": "restoring cam",
+    "definition": "移动织针和辅助织针机件至起始位置的三角 ( 见图 5) 。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "导纱装置",
+    "english": "yarn guiding device",
+    "definition": "于稳固纱筒 、 引导和控制纱线的装置 。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "纱线控制装置",
+    "english": "yarn control device",
+    "definition": "于产生 、 保持和监测纱线张力并监测纱线的装置 。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "导纱器",
+    "english": "yarn feeder",
+    "definition": "引导纱线到织针上的机件 。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "纱嘴",
+    "english": "yarn feeder head",
+    "definition": "将纱线直接喂人织针上的机件 ( 见囹 6) 。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "导纱滑架",
+    "english": "yarn feeder slide",
+    "definition": "在导纱器轨道上滑行的机件 ( 见图 6) 。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "导纱器滑轨",
+    "english": "yarn feeder raill",
+    "definition": "天杠与针床平行安装的导轨 ( 见图 6) 。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "导纱器限位块",
+    "english": "yarn feed block",
+    "definition": "于限制导纱器滑动位置的装置 。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "牵拉装置",
+    "english": "fabric take-down",
+    "definition": "产生织物向下牵拉力和传输织物的装置 。注 : 包括不同的型式 : 如罗拉 ( 见图 7) , 牵拉梳 ( 起底板 ) 、 辅助牵拉装置 。标引序号说明 :",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "高位罗拉",
+    "english": "sub-roller",
+    "definition": "贴近前后针床脱圈头",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "控制单元",
+    "english": "control umnit",
+    "definition": "于存储 、 处理 、 输出工艺数据的装置 。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "选针器",
+    "english": "needle selector",
+    "definition": "F 选择织针工作状态的组件 。3.15 “ 其他装置及系统",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "针床横移机构",
+    "english": "racking mechanism",
+    "definition": "于实现针床和 / 或辅助针床在横向不同定位的装置 。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "润滑系统",
+    "english": "lubrication system",
+    "definition": "用于润滑机械移动机件的系统 。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "清洁系统",
+    "english": "cleaning system",
+    "definition": "于清洁机器各个部位的系统 。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "特殊附件",
+    "english": "special attachments",
+    "definition": "不包含在本文件中的其他横编机器用辅助装置 。示例 : 输纱装置 、 纱线长度测量装置 、 纱线夹子 、 纱线剪刀 、 吹风装置 。",
+    "source": "GB/T 47198-2026",
+    "category": "生物基纤维术语"
+  },
+  {
+    "term": "聚丙烯腈",
+    "english": "polyacrylonitrile",
+    "definition": "丙烯腈经过聚合反应所形成的聚合物 。",
+    "source": "GB/T 47771-2026",
+    "category": "功能性纺织品术语"
+  },
+  {
+    "term": "纺丝溶剂",
+    "english": "spinning solvent",
+    "definition": "在溶液纺丝工艺中 , 用于溶解并携带成聚丙烯腈 (3.1.1) 的化学试剂 。",
+    "source": "GB/T 47771-2026",
+    "category": "功能性纺织品术语"
+  },
+  {
+    "term": "纺丝原液",
+    "english": "spinning dope",
+    "definition": "聚丙烯腈 (3.1.1) 含量 、 黏度等指标达到纺丝要求的溶液 。",
+    "source": "GB/T 47771-2026",
+    "category": "功能性纺织品术语"
+  },
+  {
+    "term": "溶液聚合",
+    "english": "solution polymerization",
+    "definition": "丙烯腈或丙烯腈与共聚单体在溶剂中进行的聚合反应 。",
+    "source": "GB/T 47771-2026",
+    "category": "功能性纺织品术语"
+  },
+  {
+    "term": "纺丝及后处理",
+    "english": "spinning and post-treatment",
+    "definition": "通过挤出 、 疑固 、 水洗 、 牵伸 、 上油 、 干燥 、 卷曲 、 收丝 、 定形 、 切断 、 打包等一系列工艺 , 将纺丝原液",
+    "source": "GB/T 47771-2026",
+    "category": "功能性纺织品术语"
+  },
+  {
+    "term": "溶液精合纺丝原液生产成套装备",
+    "english": "complete sets of equipment for solution-polymerized spinning",
+    "definition": "dope production聚合反应釜 (3.3.1.2) 、 脱单塔 (3.3.1.4) 、 脱泡塔 (3.3.1.5) 、 聚合物过源机 (3.3.1.8) 和监控系统(3.3.5) 等组成 , 将丙烯腈或丙烯腈与共聚单体加工成纺丝原液 (3.1.3) 的成套装备 。",
+    "source": "GB/T 47771-2026",
+    "category": "功能性纺织品术语"
+  },
+  {
+    "term": "水相聚合纺丝原液生产成套装备",
+    "english": "complete sets of equipment for aqueous-polymerized spinning",
+    "definition": "dope production聚合反应釜 (3.3.1.2) 、 聚合物干燥机 (3.3.1.3) 、 脱单塔 (3.3.1.4) 、 脱泡塔 (3.3.1.5) 、 聚合物过源机(3.3.1.8) 、 溶解系统 (3.3.1.9) 和监控系统 (3.3.5) 等组成 , 将丙烯腈或丙烯腈与共聚单体加工成纺丝原液(3.1.3) 的成套装备 。",
+    "source": "GB/T 47771-2026",
+    "category": "功能性纺织品术语"
+  },
+  {
+    "term": "纺丝及后处理生产成套装备",
+    "english": "complete sets of equipment for spinning and post-treatment production",
+    "definition": "纺丝机 (3.3.2.1) 、 凝固浴装置 (3.3.2.6) 、 水洗机 (3.3.2.7) 、 牵伸机 (3.3.2.8) 、 上油系统 (3.3.2.9 ) 、烘干机 (3.3.2.10) 、 收丝装置 (3.3.2.11) 、 卷曲机 (3.3.3.1) 、 定形机 (3.3.3.2) 、 切断机 (3.3.3.3) 、 打包机(3.3.3.4) 和监控系统 (3.3.5) 等组成 , 将纺丝原液 (3.1.3) 制备成聚丙烯腈纤维 (3.1.4) 的成套装备 。3.2 “ 性能参数",
+    "source": "GB/T 47771-2026",
+    "category": "功能性纺织品术语"
+  },
+  {
+    "term": "纺丝位数",
+    "english": "number of spinning positions",
+    "definition": "纺丝生产线上同时运行的丝束数量 。",
+    "source": "GB/T 47771-2026",
+    "category": "功能性纺织品术语"
+  },
+  {
+    "term": "纺丝生产线设计速度",
+    "english": "design speed of spinning production line",
+    "definition": "生产线允许的最高运行速度 。",
+    "source": "GB/T 47771-2026",
+    "category": "功能性纺织品术语"
+  },
+  {
+    "term": "聚合反应釜",
+    "english": "polymerization reactor",
+    "definition": "将定量的丙烯腈和共聚单体 、 引发剂等输送至反应釜内 , 通过揽拌器 、 换热系统等控制聚合反应的设备 。",
+    "source": "GB/T 47771-2026",
+    "category": "功能性纺织品术语"
+  },
+  {
+    "term": "纺丝机",
+    "english": "spinning machine",
+    "definition": "将纺丝原液 (3.1.3) 定量 、 连续纺成聚丙烯腈初注 : 纺丝机包含计量泵 、 纺前过源器 、 纺丝组件 , 凝固浴装置 。",
+    "source": "GB/T 47771-2026",
+    "category": "功能性纺织品术语"
+  },
+  {
+    "term": "纺前过溏器",
+    "english": "pre-spinning filter",
+    "definition": "生纤维的设备 。位于计量泵 (3.3.2.2) 和纺丝组件 (3.3.2.5) 间 , 对纺丝原液 (3.1.3) 进行过滤的装置 。",
+    "source": "GB/T 47771-2026",
+    "category": "功能性纺织品术语"
+  },
+  {
+    "term": "喷丝板",
+    "english": "spinneret",
+    "definition": "将纺丝原液 (3.1.3) 通过微孔挤出形成一定截面形状细流的关键零件 。",
+    "source": "GB/T 47771-2026",
+    "category": "功能性纺织品术语"
+  },
+  {
+    "term": "凝固浴装置",
+    "english": "coagulation bath unit",
+    "definition": "使经喷丝板 (3.3.2.4) 形成的纺丝原液 (3.1.3) 细流凝固过滤材料 、 分配板 、 喷丝板 (3.3.2.4) 等组合的装置 。, 转变为聚丙烯腈初生纤维的装置 。",
+    "source": "GB/T 47771-2026",
+    "category": "功能性纺织品术语"
+  },
+  {
+    "term": "上油系统",
+    "english": "spin finish application system",
+    "definition": "在聚丙烯腈纤维 (3.1.4) 表面均匀涂覆纺丝油剂的系统 。",
+    "source": "GB/T 47771-2026",
+    "category": "功能性纺织品术语"
+  },
+  {
+    "term": "烘干机",
+    "english": "dryer",
+    "definition": "去除聚丙烯腈纤维 (3.1.4) 中水分的设备 。",
+    "source": "GB/T 47771-2026",
+    "category": "功能性纺织品术语"
+  },
+  {
+    "term": "收丝装置",
+    "english": "fiber take-up unit",
+    "definition": "通过铺丝或卷绕的方式收集聚丙烯腈纤维 (3.1.4) 丝束的设备 。",
+    "source": "GB/T 47771-2026",
+    "category": "功能性纺织品术语"
+  },
+  {
+    "term": "卷曲机",
+    "english": "crimping machine",
+    "definition": "使聚丙烯腈纤维 (3.1.4) 产生卷曲变形的设备 。",
+    "source": "GB/T 47771-2026",
+    "category": "功能性纺织品术语"
+  },
+  {
+    "term": "切断机",
+    "english": "cutting machine",
+    "definition": "将聚丙烯腈纤维 (3.1.4) 丝束切成规定长度短纤维的设备 。",
+    "source": "GB/T 47771-2026",
+    "category": "功能性纺织品术语"
+  },
+  {
+    "term": "溶剂回收装置",
+    "english": "solyvent recovery unit",
+    "definition": "将稀溶液中溶剂回收的设备 。",
+    "source": "GB/T 47771-2026",
+    "category": "功能性纺织品术语"
+  },
+  {
+    "term": "溶剂纯化装置",
+    "english": "solvent purification unit",
+    "definition": "将回收溶剂中杂质去除的设备 。",
+    "source": "GB/T 47771-2026",
+    "category": "功能性纺织品术语"
+  },
+  {
+    "term": "粽丙烯腈纤维生产成套装备分类",
+    "english": "",
+    "definition": "名称 、 分类号及主要组成应符合表 1 的规定 。表 1 名称 . 分类号及主要组成序号名称分类号主要组成 _",
+    "source": "GB/T 47771-2026",
+    "category": "功能性纺织品术语"
+  },
+  {
+    "term": "成套装备产品型号",
+    "english": "",
+    "definition": "h 选取设备的代号 。等 。成套装备产品型号见图 1。编号分类号企业代号注 1.“ 人 “ 为阿拉伯数字 ,“ 为大写英文字母 。注 2: 如有其他要求 , 由供需双方协商确定 。图 1 成套装备产品型号示例 : GY-SP-48, 表示 :GY",
+    "source": "GB/T 47771-2026",
+    "category": "功能性纺织品术语"
+  },
+  {
+    "term": "缝针",
+    "english": "sewing needle",
+    "definition": "机针缝纫中带引缝线穿过缝料的针 。[ 来源 :GB/TT 30420.1 一 2024 ,3.1.3 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "弯针",
+    "english": "looper",
+    "definition": "缝纫中带引缝线穿过线环的弯形零 ( 构 ) 件 。[ 来源 :GB/T 30420.1 一 2024,3.1.4 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "压脚",
+    "english": "presser foot",
+    "definition": "压紧机构中 , 压住缝料的零件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "过线环",
+    "english": "thread loop",
+    "definition": "引导缝线的零件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "针板",
+    "english": "needle plate",
+    "definition": "支撑缝料的零件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "梭芯套",
+    "english": "bobbin case",
+    "definition": "安装在旋梭 (3.1.8) 或摆梭 (3.1.9) 内 , 用于放置梭芯 (3.1.10) 并引导梭芯线的零件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "送料牙",
+    "english": "feed dog",
+    "definition": "送布牙送料机构 (3.1.21) 中 , 带有齿形状的用于输送缝料的零件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "挑线杆",
+    "english": "thread take-up lever",
+    "definition": "挑线机构 (3.1.19) 中 , 输送 . 收紧针线的零件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "挑线簧",
+    "english": "thread picking spring",
+    "definition": "实现针线缓冲 、 提供断线信号的零件 。[ 来源 :GB/T 30420.2 一 2019 ,2.3.2.4 , 有修改 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "线架",
+    "english": "spool pin",
+    "definition": "放置线团 . 引导针线的组件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "机架",
+    "english": "stand",
+    "definition": "于安装台板 (3.1.17) 的机件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "台板",
+    "english": "table plate",
+    "definition": "车台于安装缝纫机及放置布料的平台 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "挑线机构",
+    "english": "take-up mechanism",
+    "definition": "输送 、 回收并收紧针线的部件 。注 : 按机构形式分为凸轮挑线机构 . 连杆挑线机构滑杆挑线机构 . 旋转挑线机构和针杆挑线机构等 。[ 来源 :GB/TT 30420.1 一 2024 ,3.3.2 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "分线机构",
+    "english": "picker mechanism",
+    "definition": "扬线机构将线环分开 、 改变针线线量的剪线辅助装置 。[ 来源 :GB/T 30420.2 一 2019 ,2.3.11 ]3.1.2 1",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "压紧机构",
+    "english": "pressing mechanism",
+    "definition": "压料机构对缝料施加压力的部件 。[ 来源 :GB/T 30420.1 一 2024,3.3.5 , 有修改 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "夹线装置",
+    "english": "thread tension device",
+    "definition": "夹线器夹线座对缝线施加压力并能进行调节的部件 。[ 来源 :GB/T 30420.1 一 2024,3.3.10 , 有修改 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "润滑装置",
+    "english": "Iubricating device",
+    "definition": "缝纫过程中输送润滑油的部件 。注 : 润滑装置分为重力润滑装置 、 压力润滑装置和自动润滑装置等 。[ 来源 :GB/T 30420.1 一 2024,3.3.11 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "易油装置",
+    "english": "oil suction device",
+    "definition": "回油装置将润滑油吸回贮油器的部件 。[ 来源 :GB/T 30420.1 一 2024,3.3.12 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "针距调节装署",
+    "english": "stitch length adjusting device",
+    "definition": "调节针迹距大小的部件 。[ 来源 :GB/T 30420.1 一 2024 ,3.3.14 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "倒送料装置",
+    "english": "reverse feed device",
+    "definition": "改变送料方向的部件 。[ 来源 :GB/T 30420.1 一 2024 ,3.3.15 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "剪线装置",
+    "english": "thread trimming device",
+    "definition": "缝纫完成后 , 剪断缝线的部件 。[ 来源 :GB/ 工 30420.1 一 2024 ,3.3.16 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "穿线装置",
+    "english": "threading device",
+    "definition": "穿线器将针线穿人机针孔的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "旋梭吹气装置",
+    "english": "rotary hook blowing device",
+    "definition": "起缝前 , 将梭线线头吹离旋梭 (3.1.8) 或梭芯套 (3.1.11) 的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "图像识别装置",
+    "english": "image recognition device",
+    "definition": "通过成像技术 , 鉴别面料 、 纽扣等图案 . 形状及颜色的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "送框装置",
+    "english": "frame delivery device",
+    "definition": "送压板装置将模板框 (3.3.11) 、 压板送至缝纫工位或裁剪台的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "吸风装置",
+    "english": "air suction device",
+    "definition": "通过负压作用 , 将缝料吸附在缝纫工作台或奥烫平台等的使缝料",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "废料斗",
+    "english": "waste hopper",
+    "definition": "贮存裁片或布屑的容器 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "扩展台",
+    "english": "extension table",
+    "definition": "提供大面积缝料缝纫的辅助平台 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "定刀",
+    "english": "fixed knife",
+    "definition": "剪线装置 (3.1.31) 中的固定的刀具 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "封针",
+    "english": "latch needle",
+    "definition": "于闭合缝针 (3.1.1) 针孔缺口的零",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "护针",
+    "english": "needle guard",
+    "definition": "保护缝针 (3.1.1) 刺穿缝料时所产生",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "随动压脚",
+    "english": "linkage presser foot",
+    "definition": "中压脚缝纫过程中 , 随机针作循环压料动作的机械部件 。[ 来源 :GB/TT 30420.1 一 2024 ,3.3.5.4 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "辅助压脚",
+    "english": "auxiliary presser foot",
+    "definition": "缝纫过程中 , 辅助压紧缝料的机械部件 。[ 来源 :GB/TT 30420.1 一 2024 ,3.3.5.5 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "分离式针杆架",
+    "english": "separate needle bar holder",
+    "definition": "使两根针杆 (3.1.6) 分离运动或同步运动的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "针杆摆动机构",
+    "english": "needle bar swing mechanism",
+    "definition": "使针杆 (3.1.6) 左右或前后运动的部件 。[ 来源 :GB/TIT 30420.1 一 2024,3.3.1.1 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "下送料机构",
+    "english": "lower feeding mechanism",
+    "definition": "下送料牙 ( 或滚轮 ) 运动的送料机构 (3.1.21) 。[ 来源 :GB/T 30420.1 一 2024,3.3.3.1 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "差动送料机构",
+    "english": "differential feeding mechanism",
+    "definition": "两个独立的下送料牙或送料压脚 (3.1.3) , 以不同的移动量运动的送料机构 (3.1.21) 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "滚轮送料机构",
+    "english": "",
+    "definition": "[ 来源 :GB/ 工 30420.1 一 2024 ,3.3.3.6 ]roller feeding mechanism滚轮压紧缝料与另一个送料滚轮或送料牙 (3.1.12) 一起运动的送料机构 (3.1.21) 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "压脚提升机构",
+    "english": "presser foot lifting mechanism",
+    "definition": "将压脚 (3.1.3) 提起离缝料的部件 。[ 来源 :GB/T 30420.1 一 2024 ,3.3.6 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "线装置",
+    "english": "",
+    "definition": "ti disconnection thread tension device持针线线头 , 防止针线脱离机针孔的部件 。anti-bird nest device消除或减少起缝时缝料下方针线 、 梭线缠绕或堆积的部件 。自动取身「3l装置 automatic material retrieval device通过静电吸附板 、 针刺 、 机械手爪 ( 刚 / 柔性 ) 、 真空负压等形式 , 按照控制指令在指定位置抓取或放置缝料的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "切边装置",
+    "english": "edge trimming device",
+    "definition": "缝纫中切除缝料废边的部件 。[ 来源 :GB/ 工 30420.1 一 2024,3.3.8 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "松紧带定长输送及切断装罩",
+    "english": "elastic ribbon delivery and cutting device",
+    "definition": "按缝纫长度运送并剪断松紧带的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "松紧带端折叠装置",
+    "english": "elastic band end folding device",
+    "definition": "翻折松紧带两端的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "折边装置",
+    "english": "flanging device",
+    "definition": "折取缝料边缘的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "折裤攀装罩",
+    "english": "folding belt loop device",
+    "definition": "将裤襟的两端向内折取的装置 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "标签自动输送装置",
+    "english": "automatic label conveying device",
+    "definition": "将标签输送到缝制工位的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "模板识别装置",
+    "english": "template recognition device",
+    "definition": "通过读取模板 (3.3.10) 上的条码 、RFID 射频识别卡 、 二维码等信息 , 控制面板 (3.8.7) 调取 、 显示相对应的缝制花样文件的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "机头旋转装置",
+    "english": "head rotating device",
+    "definition": "针杆挑线勾线旋转装置针杆 (3.1.6) 、 挑线及勾线机构 (3.4.1.9 ) 按下一个缝纫针迹的送料方向 , 由计算机控制同步旋转的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "落料平台",
+    "english": "blanking platform",
+    "definition": "存放裁片并能根据堆垛高度升降的工作台 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "针杆箱",
+    "english": "needle bar case",
+    "definition": "针杆架〈 刺绣机 ; 由多个针杆 (3.1.6) 排列组合而成的部件 。[ 来源 :GB/T 30420.2 一 2019 ,2.3.2.1]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "拉杆",
+    "english": "pull bar",
+    "definition": "拉杆开关控制刺绣机启 、 停 、 回退等功能的开关 。[ 来源 :GB/ 工 30420.2 一 2019 ,2.3.3 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "绣框",
+    "english": "embroidery frame",
+    "definition": "口定刺绣面料的装置 。[ 来源 :GB/T 30420.2 一 2019 ,2.3.4, 有修改 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "绣框驱动机构",
+    "english": "embroidery frame driving system",
+    "definition": "将电机旋转变为直线运动并驱动绣框 (3.4.1.6) 的装置 。注 : 按行进方向分为 z 轴驱动机构和 y 轴驱动机构 ; 按驱动动力分为伺服绣框和步进绣框 , 其理分为开环步进绣框和闭环步进绣框 。[ 来源 :GB/T 30420.2 一 2019 ,2.3.5 , 有修改 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "勾线机构",
+    "english": "thread hooking mechanism",
+    "definition": "〈 刺绣机 ; 剪线后将绣线带出面料并固定的装置 。注 : 勾线机构分为集中勾线机构 、 独立勾线机构 。[ 来源 :GB/TIT 30420.2 一 2019 ,2.3.12 , 有修改 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "换色机构",
+    "english": "color changing mechanism",
+    "definition": "通过变换针杆 (3.1.6) 或环梭位置进行换色的装置 。注 : 按动力源形式分为交流电机换色机构和步进电机换色机构 。[ 来源 :GB/TIT 30420.2 一 2019 ,2.3.13 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "金片装置",
+    "english": "sequin device",
+    "definition": "亮片装置输送 、 切割金片的装置 。[ 来源 :GB/T 30420.2 一 2019 ,2.3.16 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "筒易毛巾绣装置",
+    "english": "simple chenille embroidery device",
+    "definition": "锁式绣机头上完成类似毛巾绣效果的装置 。[ 来源 :GB/T 30420.2 一 2019 ,2.3.17 , 有修改 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "筒易盘带绣装置",
+    "english": "simple cording embroidery device",
+    "definition": "锁式绣机头上完成类似盘带绣效果的装置 。[ 来源 :GB/TIT 30420.2 一 2019 ,2.3.18 , 有修改 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "珠子绣装置",
+    "english": "bead embroidery device",
+    "definition": "锁式绣机头上完成珠子绣的装置 。[ 来源 :GB/T 30420.2 一 2019 ,2.3.20, 有修改 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "自动润滑装署",
+    "english": "automatic lubrication device",
+    "definition": "刺绣过程中周期性对指定运动部位加注润滑油的装置 。[ 来源 :GB/T 30420.2 一 2019 ,2.3.24 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "针线张力联动调节机构",
+    "english": "needle thread tension adjuster",
+    "definition": "通过电机或其他形式同步调节所有机头当前针位针线张力的装置 。[ 来源 :GB/T 30420.2 一 2019 ,2.3.25 , 有修改 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "压脚高度调节机构",
+    "english": "presser foot height adjuster",
+    "definition": "通过电机或其他形式同步或独立调节各机头压脚 (3.1.3) 工作高度的装置 。[ 来源 :,GB/T 30420.2 一 2019 ,2.3.26 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "多色针线式三色绳绣装置",
+    "english": "three-color cording embroidery device with multi-color needle thread type",
+    "definition": "不同针线颜色及不同绳 ( 带 ) 颜色组合的绳绣绣作的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "单针三色绳绣装署",
+    "english": "three-color cording embroidery device with single-needle",
+    "definition": "单个机针绣作三种颜色绳 ( 带 ) 的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "植绒绣装置",
+    "english": "flocking embroidery device",
+    "definition": "绣作类似植绒状的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "剪绳带装置",
+    "english": "cording cutting device",
+    "definition": "剪断绳 、 带的部件 。3.4.2 “ 纺绣机纺缝机零部件",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "革安架装置",
+    "english": "Saddle device",
+    "definition": "驱动滚轮送布装置作 z 向往复直线移动的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "托布装置",
+    "english": "cloth supporting device",
+    "definition": "通过电机驱动 , 将里料托住并拉紧的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "接布装置",
+    "english": "cloth connecting device",
+    "definition": "将已完成组缝和即将绀缝的卷状面料首尾缝制 *",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "送布装置",
+    "english": "cloth feeding device",
+    "definition": "通过动力装置将面料恒定张力状态下输送到绀缝区域的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "颜色识别装置",
+    "english": "color recognition device",
+    "definition": "通过一个或多个颜",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "条切装置",
+    "english": "cutting",
+    "definition": "device按设定的切割宽度 ,",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "上主机机构",
+    "english": "upper host mechanism",
+    "definition": "实现送布松布和对边动作的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "下主机机构",
+    "english": "under host mechanism",
+    "definition": "支撑上主机机构 (3.5.1.1) 实施铺布动作的部件 。[ 来源 :GB/T 30420.3 一 2023 ,3.3.3 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "松布装置",
+    "english": "cloth-loosening device",
+    "definition": "解布装置消除面料伸缩弹性的部件 。[ 来源 :GB/ 工 30420.3 一 2023 ,3.3.1.3 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "松紧调节装置",
+    "english": "elastic adjustment device",
+    "definition": "通过传感器和调节管 , 调整面料松紧的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "对边装置",
+    "english": "edge-aligning device",
+    "definition": "控制上主机机构 (3.5.1.1) 左石往复运动 , 确保纵向铺布精度的部件 。[ 来源 :GB/T 30420.3 一 2023 ,3.3.2 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "展布装置",
+    "english": "cloth-flattening device",
+    "definition": "可随面料的宽度方向作张力的调整 , 消除面料的褶皱 、 压痕和内应力的部件 。[ 来源 :GB/T 30420.3 一 2023 ,3.3.4 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "上布装置",
+    "english": "cloth loading device",
+    "definition": "单次铺布后 , 完成布上表面与设定高度一致的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "升降装罩",
+    "english": "automatic lifting device",
+    "definition": "单次铺布后 , 完成面料上表面与设定高度一致的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "切布装置",
+    "english": "cloth cutting device",
+    "definition": "铺布完成后 , 切断面料的部件 。[ 来源 :GB/T 30420.3 一 2023,3.3.5 , 有修改 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "拨边装置",
+    "english": "edging device",
+    "definition": "展边装置把面料的卷边展开的部件 。[ 来源 :GB/ 工 30420.3 一 2023 ,3.3.6 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "匹布分层装置",
+    "english": "piece eloth layering device",
+    "definition": "将多层叠在一起的匹布一层一层分开的部件 。[ 来源 :GB/ 工 30420.3 一 2023 ,3.3.7 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "单拉压布装置",
+    "english": "single pulling and pressing cloth device",
+    "definition": "单向铺布时 , 压住面料防止其移动的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "后压布装置",
+    "english": "behind cloth-pressing device",
+    "definition": "口折器口定在铺布台 (3.5.1.19) 的起始端上 , 用于定位压住面料边缘的部件 。[ 来源 :GB/T 30420.3 一 2023 ,3.3.8.1 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "前压布装置",
+    "english": "front cloth-pressing device",
+    "definition": "移折器随铺布长度设置在铺布台 (3.5.1.19) 上 , 用于定位压住面料边缘的部件 。[ 来源 :GB/TIT 30420.3 一 2023 ,3.3.8.2 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "除静电装置",
+    "english": "static electricity removal device",
+    "definition": "消除面料产生静电的部件 。[ 来源 :GB/ 工 30420.3 一 2023 ,3.3.10 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "布尾感应器装置",
+    "english": "cloth tail sensor device",
+    "definition": "无布停机装置在面料铺完时控制上主机机构 (3.5.1.1) 自动停止运行后自动返回初始位置的部件 。[ 来源 :GB/T 30420.3 一 2023 ,3.3.11 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "铺布台",
+    "english": "eloth-spreading table",
+    "definition": "为铺布机提供铺布的支撑平台 。[ 来源 :GB/ 工 30420.3 一 2023 ,3.3.12 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "操作平台",
+    "english": "standing platform",
+    "definition": "随下主机机构 (3.5.1.2) 同步行进 , 操作者能站立操作并能观察运行状态的平台 。[ 来源 :GB/ 工 30420.3 一 2023 ,3.3.13 ]3.5.2 “ 裁剪设备零部件",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "裁刀装置",
+    "english": "eutting knife device",
+    "definition": "电机驱动裁刀片裁断布料的部件 , 并附有定时器 、 计数器 、 磨刀等辅助功能的部件或机构 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "裁头",
+    "english": "cutting head",
+    "definition": "数控裁剪机控制裁刀移动和进行剪裁动作的部件 。[ 来源 :GB/T 30420.3 一 2023 ,4.3.2 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "磨刀组件",
+    "english": "knife-sharpening assembly",
+    "definition": "安装在裁头 (3.5.2.2) 上使刀片锋利的部件 。[ 来源 :GB/T 30420.3 一 2023 ,4.3.3 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "二次覆盖装置",
+    "english": "secondary covering device",
+    "definition": "日覆盖装置裁剪完成后 , 将薄膜重新覆盖在已完成裁剪的面料上 , 防止真空腔体漏气的部件 。[ 来源 :,GB/T 30420.3 一 2023 ,4.3.13 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "打孔装置",
+    "english": "punching device",
+    "definition": "裁剪过程中根据需求在面料上打孔的部件 。注 : 根据可打孔数量不同分为单打孔装置 、 双打孔装置 、 多打孔装置等 。[ 来源 :GB/T 30420.3 一 2023 ,4.3.14 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "冷却装置",
+    "english": "cooling device",
+    "definition": "裁剪过程中降低裁刀的温度 , 并能实现瞬间冷却的部件 。[ 来源 :,GB/T 30420.3 一 2023 ,4.3.15 ]",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "视觉标注装署",
+    "english": "visual marking device",
+    "definition": "定位 、 识别裁剪面料上的特定标记或缺陷的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "边走边裁装置",
+    "english": "continuous cutting device",
+    "definition": "通过电机及控制系统 , 使裁头 (3.5.2.2) 运动与面料传输运动保持一致 , 实现不停机行进中完成裁剪的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "清洁装置",
+    "english": "cleaning device",
+    "definition": "清理裁剪台鬟毛砖上的布屑等异物的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "投影装置",
+    "english": "projection apparatus",
+    "definition": "将裁剪的码号信息投射到收料台裁片上 , 收料时区分码号的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "直刀",
+    "english": "straight knife",
+    "definition": "直线形的片状刀片 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "圆刀",
+    "english": "round knife",
+    "definition": "圆形或八角圆形状的刀片 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "刀架",
+    "english": "cutter stand",
+    "definition": "于刀片在果内作上下往复运动的立式柱架 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "安全防护罩",
+    "english": "safety shield",
+    "definition": "前盖装置安装在刀片前的压脚 (3.1.3) 和压脚杆组件上 , 起到安全保护作用的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "直刀驱动装置",
+    "english": "straight knife driving device",
+    "definition": "通过机械传动 , 带动直刀 (3.5.3.1) 刀片作上下往复直线运动的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "调速装置",
+    "english": "speed-regulating device",
+    "definition": "采用有级或无级调速的形式 , 改变电机转速的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "裁剪长度限制装置",
+    "english": "cutting length limit device",
+    "definition": "根据裁剪面料的宽度 , 设定裁剪运行长度的部件 。3.6 “ 东烫粘合零部件",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "轨道",
+    "english": "running track",
+    "definition": "在输送系统中所运行的进通各工序的循环轨道 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "撑衣装置",
+    "english": "clothes supporting device",
+    "definition": "将服装支撑展开的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "吸盘",
+    "english": "suction cups",
+    "definition": "采用负压吸盘的形式 , 分离 \\ 撑",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "烘干装置",
+    "english": "drying device",
+    "definition": "通过加热的方式对面料进行干",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "自动纠偏装署",
+    "english": "automatic deviation correction device",
+    "definition": "通过红外线光电或微动开关检测粘合物料输送带位置 , 采用气控或电控调节输送带运动位置的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "剥离装置",
+    "english": "stripping device",
+    "definition": "通过铲板将粘合物料脱离粘合带的部件 。3.7 “ 吊挂输送系统零部件",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "支轨",
+    "english": "branch raill",
+    "definition": "吊架 (3.7.3) 从主较 (3.7.1) 进人工作站和从工作站进人主轨 (3.7.1) 所运行的轨道 。注 : 由进站支轨 、 提升支轨和出站支轨组成 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "载具滚轮",
+    "english": "vehicle wheel",
+    "definition": "带动吊架 (3.7.3) . 输送框 ( 袋 )(3.7.4) 在用挂输送系统中移动的运动构件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "推杆",
+    "english": "rack push rod",
+    "definition": "驱动吊架 (3.7.3) 、 输送框 ( 袋 )(3.7.4) 等在主轨 (3.7.1) 上运行的构件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "输送轨道",
+    "english": "conveyor track device",
+    "definition": "通过电控或气控运动构件 , 按照控制指令将传输物品进行传送运行的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "出站变轨机构",
+    "english": "exit and track change mechanism",
+    "definition": "吊架 (3.7.3) 从出站支轨 (3.7.2) 进人到主轨 (3.7.1) 的轨道切换部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "进站变轨装置",
+    "english": "inbound track changing device",
+    "definition": "吊架 (3.7.3) 从主轨 (3.7.1) 进人到进站支轨 (3.7.2 ) 的轨道切换部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "满检装置",
+    "english": "full inspection device",
+    "definition": "检测设定区域内吊架 (3.7.3) 存储是否达到最大数量的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "支轨防护装置",
+    "english": "protection device for the branch raill",
+    "definition": "防止支轨 (3.7.2) 上吊架 (3.7.3) 掉落的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "分道输送装置",
+    "english": "lane transfer device",
+    "definition": "分流装置在主轨 (3.7.1) 上连续设置多个变轨机构与对应分轨相进 , 使吊架 (3.7.3) 分配至其他多条分轨上运行的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "扩展板",
+    "english": "expansion board",
+    "definition": "除主板外其他控制各类特殊功能的电路板 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "电源板",
+    "english": "power supply board",
+    "definition": "为控制系统提供所需电源的电路板 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "数字电源",
+    "english": "digital power",
+    "definition": "通过数字信号处理器或微控制器为控制系统及设备提供精确的输出电压 、 电流 、 功率等参数调节和控制的电源 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "双主轴控制器",
+    "english": "dual spindle controller",
+    "definition": "驱动两个伺服电机同步运转的控制设备 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "放布装置",
+    "english": "fabric releasing device",
+    "definition": "装载卷状面料的 , 并将面料前段送人机械",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "展平装置",
+    "english": "flattening device",
+    "definition": "采用吹气形式 , 使面料平整展开的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "视觉检测装置",
+    "english": "visual inspection device",
+    "definition": "通过摄像头与辅助光源 , 检查面料疵点的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "贴标装置",
+    "english": "labeling device",
+    "definition": "对面料疵点标记的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "对边收布装置",
+    "english": "fabric collection device with edge aligning",
+    "definition": "验布后将面料对边 、 收卷的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "称重装置",
+    "english": "load cell device",
+    "definition": "对收布后的面料测量重量 , 并在控制面板 (3.8.7) 上显示重量信息的部件 。3.9.2 “ 洗水缩水设备零部件09)夹紧 , 配合送布装置 (3.4.2.5) 送布的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "振动装置",
+    "english": "vibration device",
+    "definition": "抖动网带上面料 , 使其处于松弛状态的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "叠布装置",
+    "english": "fabric folding device",
+    "definition": "驱动摆布架摆动 , 折叠面料的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "蒸汽喷射装置",
+    "english": "steam injection device",
+    "definition": "采用喷射蒸汽的方式 , 消除面料收缩应力 , 降低面料缩水率的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "面料冷却装置",
+    "english": "fabric cooling device",
+    "definition": "采用风冷方式 , 降低面料温度的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "排汽装置",
+    "english": "steam exhaust device",
+    "definition": "对预缩产生的蒸汽尾汽收集并排放至室外的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "拨布装置",
+    "english": "fabric pulling device",
+    "definition": "通过螺旋旋转机构 , 将卷边或皱褶面料平整展开的部件 。3.9.3 _ 检针设备零部件",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "检针输送装置",
+    "english": "conveying device for needle detector",
+    "definition": "运送被检测物体的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "激光器冷却装置",
+    "english": "cooling device for laser source",
+    "definition": "通过循环流动的冷却介质 , 吸收激光器内部热量的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "辅助气体装置",
+    "english": "auxiliary gas device",
+    "definition": "激光切割产生的熔渣通过辅助气体吹离到抽风装置 (3.9.4.3) 的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "抽风装置",
+    "english": "gas exhaustion device",
+    "definition": "将激光切割产生的烟尘抽离切割区域的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "步丁受",
+    "english": "",
+    "definition": "激光切割装置 “laser cutting deviceR 用激光切割缝料的装置 。[ 来源 :GB/ 工 30420.2 一 2019 ,2.3.23, 有修改 ]3.9.5 “ 充绒设备零部件",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "搅拌装置",
+    "english": "agitator de",
+    "definition": "Vice储绒箱 (3.9.5.1) 中 , 均匀搅拌充填物的部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "输绒管",
+    "english": "velvet transport pipe",
+    "definition": "将充填物由储绒箱 (3.9.5.1) 输送到称重箱 (3.9.5.5) 的导向管 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "充绒管",
+    "english": "velvet filling",
+    "definition": "tube将充填物送到裁片的导向部件 。",
+    "source": "GB/T 30420.4-2025",
+    "category": "纤维含量标识"
+  },
+  {
+    "term": "建筑用纺织品",
+    "english": "",
+    "definition": "应用于长久性或临时性建筑物 、 构筑物及设施 , 具有增强 、 修复 、 防水 、 隔热 、 吸音隔音 、 视觉保护 、 防日晒 、 抗酸碱腐蚀 、 减震等建筑安全 、 环保节能和舒适功能的纺织品 , 包括 :a) 建筑增强纺织品 ;示例 1: 抗裂布 、 经编格栅 、 修复加固织物 ( 网 ) 、 混嚎土增强织物 ( 纤维 ) 。b ) 建筑防护纺织品 ;示例 2: 安全网 、 抑尘网 、 防火卷帘 、 减震织物 、 钢构防结露织物 。c) 建筑绝缘隔离纺织品 ;示例 3: 防水卷材胎基 、 吸音毡 、 纤维保温板 、 隔音板 、 建筑保温絮片 、 防水透汽布 ( 膜 ) 、 吸音纤维制品 。d ) 建筑结构纺织品 ;示例 4: PVC 涂层织物 、PTFE 涂层织物 、ETFE 涂层织物 、 涂层复合保温织物 。e) 建筑装饰纺织品 ;示例 5: 墙布 、 地垫 、 纤维地砌 、 纤维装饰板 、 舞台幕布 。f5 其他建筑用纺织品 。示例 6: 建筑风管织物 、 涂料滚刷绒布 、 油漆滚刷绒布 、 篷布 。",
+    "source": "GB/T 30558-2025",
+    "category": "再生纤维素纤维"
+  },
+  {
+    "term": "服饰家居配套用纺织品",
+    "english": "",
+    "definition": "应用于鞋 、 帽 、 箱包 、 沙发 、 座椅 、 服装配饰等的纺织品 , 包括 :a) 鞋帽箱包用纺织品 ;示例 1: 箱包帆布 、 鞋用帆布 、 沙发帆布 、 中底板 、 鞋带 。b) 衬布 ;示例 2: 服装衬 、 鞋帽衬 、 窗帘衬 、 箱包衬 、 沙发衬 。c) 缝纫线 ;示例 3: 涤纶缝纫线 、 芳纶缝纫线 、 锦纶缝纫线 、 聚四氟乙烯缝纫线 。d ) 织带 ;示例 4: 弹性织带 、 发光织带 、 导电织带 、 金银丝带 、 标签带 。e) 其他服饰家居配套用纺织品 。",
+    "source": "GB/T 30558-2025",
+    "category": "再生纤维素纤维"
+  },
+  {
+    "term": "过滤与分离用纺织品",
+    "english": "",
+    "definition": "应用于气 / 固过源 、 液 / 固分离 、 固 / 固分离 、 气 / 液分离 、 液 / 液分离 、 气 / 气分离 、 同相流体 ( 膜 )分离等领域的纺织品 , 包括 :a) 气 / 固过源纺织品 ;示例 1: 工业烟尘过滤布 、 空气净化过源布 、 口罩用滤材 。b) 液 / 固分离纺织品 ;示例 2: 滤清器用过滤布 、 拦污网 、 工业液体过源布 、 食品过滤布 、 造纸毛毯 、 造纸成型网 、 饮用水过滤布 、 污水过滤布 、 打火机滤芯 、 血液过滤布 。c) 固 / 固分离纺织品 ;示例 3: 工业筛网 、 过滤丝网 。d 〉 气 / 液分离纺织品 ;示例 4: 破沫网 、 香炯滤嘴 、 除雾纤维滤芯 。e) 液 / 液分离纺织品 ;示例 5: 透析用过滤纤维膜 ( 布 ) 、 反渗透中空纤维膜 、 油水分离纤维膜 ( 布 ) 。f) 气 / 气分离纺织品 ;示例 6: 碳捕集纤维膜 ( 布 ) 、 氯气分离纤维膜 ( 布 ) 、 氡气提纯纤维膜 ( 布 。g) 其他过滤与分离用纺织品 。示例 7: 除湿网 。",
+    "source": "GB/T 30558-2025",
+    "category": "再生纤维素纤维"
+  },
+  {
+    "term": "应急与安防用纺织品",
+    "english": "",
+    "definition": "在特定的环境下 ( 非军用 ) 保护人员和动物免受物理 、 生物 、 化学和机械等因素的伤害 , 发挥救援置等作用 , 具有防割 、 防刺 、 防弹 、 防爆 、 防火 、 防静电 、 防尘 、 防生化 、 防辐射等一种或多种功能的纺织品, 包蓦〔舌:a) 机械防护纺织品 ;示例 1: 防弹衣 、 防割防刺服 、 机械防护才b ) 颗粒物防护纺织品 ;F 套 、 柔性防爆隔爆墙 、 盾牌 。示例 2: 防尘服 、 洁净服 、 正压送风防护面罩 、 过滤式呼吸面罩 、 防毒面具 、 防护头罩 、 颗粒物防护口智 。c) 化学防护纺织品 ;示例 3: 化学防护服 、 防毒服 。d ) 电防护纺织品 ;示例 4: 防电弧服 ( 手套 ) 、 带电作业服 ( 手套 ) 、 静电防护服 ( 帽 、 手套 、 内衣 、 鞋 ) 、 高压静电防护服 、 低压绝缘服 、 带电作业绝缘绳索 、 防电弧雨衣 。e)〉 生物防护纺织品 ;示例 5: 生物防护服 、 防蚊虫服 ( 头套 、 手套 ) 、 防蜂服 、 防虫袜 。f) 射线防护纺织品 ;示例 6: 防辐射服 、 核沾染防护服 、 防辐射手套 、 ",
+    "source": "GB/T 30558-2025",
+    "category": "再生纤维素纤维"
+  },
+  {
+    "term": "其他工艺产业用纺织品",
+    "english": "",
+    "definition": "没有包括在 5.2.1 一 5.2.8 中的产业纺织品 。纺织品 。",
+    "source": "GB/T 30558-2025",
+    "category": "再生纤维素纤维"
+  },
+  {
+    "term": "士丕带",
+    "english": "semi-finished belt",
+    "definition": "纱线经织造或编织 , 未经切钩和抓毛等工序而成的带状织物 , 是粘扣带半成品 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "钩面",
+    "english": "hook face",
+    "definition": "粘扣带上有钩体的一面或部分 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "圈面",
+    "english": "loop face",
+    "definition": "粘扣带上有圈的一面或部分 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "实织面",
+    "english": "hook or",
+    "definition": "loop area粘扣带钩面或圈皂上有钩或圈的区域 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "钩体",
+    "english": "hook body",
+    "definition": "钩面上的钩型组织体 。粘扣粘扣",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "圈体",
+    "english": "loop body",
+    "definition": "圈面上的圈型组织体 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "纵密",
+    "english": "wale",
+    "definition": "针织粘扣带的纵行方向单位长度内所含的线圈横列数 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "横密",
+    "english": "course",
+    "definition": "针织粘扣带横列方向单位长度内所含的线圈纵行数 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "园密",
+    "english": "loop density",
+    "definition": "图面带单位面积内圈的数量 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "钩高",
+    "english": "hook height",
+    "definition": "粘扣带中一个完整钩的高度 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "有效宽度",
+    "english": "effective width",
+    "definition": "垂直于粘扣带的长度方向除去基边后的宽度 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "钩针边",
+    "english": "crochet selvedge",
+    "definition": "坯带由钩针锁边形成的布边 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "抓毛",
+    "english": "raising",
+    "definition": "对粘扣带的圈面带进行的起毛处理 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "分条",
+    "english": "cutting through",
+    "definition": "将粘扣带的坯带在宽度方向上的分割 ( 例如沿中缝分割 ), 形成一定幅宽的粘扣带 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "剪带",
+    "english": "eutting across",
+    "definition": "将粘扣带的坯带在长度方向上的分割 , 形成一定长度的粘扣带 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "接带",
+    "english": "joining",
+    "definition": "将两个粘扣带接合在一起 , 形成长度更长的粘扣带 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "柔软粘扣带",
+    "english": "soft touch and close fasteners",
+    "definition": "采用软质材料制成钩面带和圈面带的粘扣带 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "松紧粘扣带",
+    "english": "elastic touch and close fasteners",
+    "definition": "具有较大拉伸弹性的粘扣带 , 其圈面带的基 ( 底 ) 面布含有高弹材料 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "非织造粘扣带",
+    "english": "nonwoven touch and close fasteners",
+    "definition": "采用非织造布作为圈面带的粘扣带 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "背胶粘扣带",
+    "english": "glue-coated touch and close fasteners",
+    "definition": "在其背面涂膜适宜的粘着剂 , 可粘贴于其他物品上的粘扣带 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "与一段",
+    "english": "I",
+    "definition": "日是钩百 , 另一蘑菇割莓叟F占 …t口 『'r帚】1『_ touch and close fasteners with mushroom-head hooks钩面带的钩型为蘑菇头状的粘扣带 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "有效长度",
+    "english": "effective length",
+    "definition": "粘合区域在粘扣带长度方向的尺寸 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "有效面积",
+    "english": "effective area",
+    "definition": "粘扣带粘合区域的有效宽度和有效长度的乘积 。皂一排钩与一排圈 、",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "剪切强力",
+    "english": "shear force",
+    "definition": "沿粘扣带的长度方向拉伸 , 使闭合粘扣带的钩面带和圈面带平行分开所需的最大力 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "剪切强度",
+    "english": "shear strength",
+    "definition": "单位有效面积的剪切强力 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "剥离强度",
+    "english": "peel strength",
+    "definition": "单位有效宽度的剥离强力 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "染料迹",
+    "english": "dye stain",
+    "definition": "在染色坯带上局部呈现与邻近部位有差异的分散色块痕迹 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "污迹",
+    "english": "stain",
+    "definition": "外来物的污染造成 , 在粘扣带上不连续的异色区域 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "漏钩",
+    "english": "nceut loop",
+    "definition": "钩面带的钩圈未切开 , 未形成钩体 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "拉钩",
+    "english": "long hook",
+    "definition": "钩面带中高于正常高度的钩体 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "跳针",
+    "english": "float defect",
+    "definition": "坯带织造时纱线未按组织编织 , 呈现连续跨过几个纵行的长浮线 ; 或锁边针线未按正连续跨过两根或两根以上纬纱的一个线圈 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "毛园边",
+    "english": "loopy selvedge",
+    "definition": "纬纱呈圈状突出于基边外 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "起皱波纹",
+    "english": "cockling",
+    "definition": "坯带上呈现皱纹 、 弯曲或不平整的区域 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "边疵",
+    "english": "selvedge defect",
+    "definition": "坯带基边出现影响产品外观的缺陷 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "下丝",
+    "english": "yarn falling off",
+    "definition": "万背胶粘力的绑纱强力不足 , 导致基边两侧纱线脱落 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "断经",
+    "english": "broken end",
+    "definition": "坯带一段长度内缺少一根经纱 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "毛边",
+    "english": "fuzzy selvedge",
+    "definition": "粘扣带外侧有毛须状纤维的布边 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "断圈纱",
+    "english": "broken loop-yarn",
+    "definition": "构成圈面的纱线断裂 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "底板起毛",
+    "english": "back fuzzing",
+    "definition": "织造工序中 , 坯带反面出现的异常毛绒或长丝 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "散边",
+    "english": "frayed selvedge",
+    "definition": "坯带两侧边的锁边破坏 , 导致边纱脱落 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "反毛",
+    "english": "back raising",
+    "definition": "抓毛工序中 , 坯带反面出现不应有的起毛 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "渗胶",
+    "english": "glue permeation",
+    "definition": "坯带上胶过多 , 渗透至粘扣带的圈面或钩面 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "胶斑",
+    "english": "glue spot",
+    "definition": "粘在坯带上的结块胶水 。",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "钩圈偏小",
+    "english": "smaller hook",
+    "definition": "钩圈切钩后 , 其钩型尺寸小于设计钩型 。汉语拼音索引背)引交叟_熹占…_:口_\"帛薯_ E边疵诊剥离强度剥离强力不抓毛粘扣带错鳃 .大心迅 .仁铸 .仁团 .底板起毛 …断铸鲛 .断缉 .断园纱 .断纵 44反毛 ….....非织造粘抹带 …分条拱带 00钦目 .钦宿 .钩面钩体钩面粘抹带 …钩团大小不匀 .钩园偏大 …钩圈佐小 .钩园同面粘抹带 …钩园同体粘抹带 …D 3_`__5",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "强力粘扣带",
+    "english": "",
+    "definition": "筝酒圆明浑弃印易染料迹架色条绞 000柔软粘扣带散边 0色差色花熏铸 04滑膜 .实织面松紧粘扣带跟鳃跟钊英文对应词索引abnormal stI.ipe 才arch belt应back raisingbase selvagebigger hookbroken endebroken loop-yarnbroken pickClosure area",
+    "source": "GB/T 33278-2016",
+    "category": "色牢度试验"
+  },
+  {
+    "term": "化学纤维专用料",
+    "english": "",
+    "definition": "j 是必不可少的 。 凡是注日期的引` , 其最新版本 ( 包括所有的修改单 ) 适用于本文件 。忍专用料和直接制品 。部分产品 , 除具有一般的性能外 , 还满足了社会发展的特定时期的需求 , 需要按照国按照主要专j 料和他专j 料 , 分成两大类 。表 1 列出了主要规模化生产的化学纤维专用j 文件 , 仅注日期的版本适用于本文序系统化 , 形成一个科学合理的分类体系 。 在分类时 , 既包含现有情况 , 又充分扩展空间 。属性或特征先按照分百分类法 , 分成若干不同的分面 。 再按照线分类法 , 将每个分面内的分类对象逐次地分为若干类目 。 每个类目下例举若干典型产品 。F 同分面之间构成并列关系 。 分面与类目之间构成隶属关系 。 同一分面的类目之间构成并列家政策导向进每一大类 , 掉照种类不同分面 ; 进而分为若干类目 。表 1 化学纤维专用料分面类目示例主要专用料切片纤维级切片 、 纤维级再生切片粉体粽丙烯粉料树肢泡料膜泡 , 丝泡 、 布泡碎瓶片纤维级再生瓶片浆粕天然纤维素浆粕棉浆粕 、 木浆粕其他专用料母粒纺丝母粒色母粒 、 阻燃母粒 、 导电母粒粉剂色粉其他添加剂浆料",
+    "source": "GB/T 38136-2019",
+    "category": "遮热性能"
+  },
+  {
+    "term": "单组分化学纤维",
+    "english": "",
+    "definition": "表 2 列出了主要规模化生产的单组分化学纤维 。表 2 单组分化学纤维分面类目示例粘胶纤维 , 莫代尔纤维 , 莱赛尔纤维纤维素纤维醋酬纤维 . 三醋酮纤维人造纤维铜氨纤维甲壳素纤维 . 壳聚糖纤维其他类型的人造纤维海藻纤维聚对茉二甲酸乙二酯 (PET) 纤维 ( 涤纶 ) . 聚对茉二甲酸丙",
+    "source": "GB/T 38136-2019",
+    "category": "遮热性能"
+  },
+  {
+    "term": "按照原料来源分类",
+    "english": "",
+    "definition": "按照原料来源分 3",
+    "source": "GB/T 38136-2019",
+    "category": "遮热性能"
+  },
+  {
+    "term": "化学纤维直接制品",
+    "english": "",
+    "definition": "按照制品类别 , 分成两大类 ;一一短纤维制品 , 按照纺制方式不同 , 币一一长丝制品 , 按照制成品不同 , 万见表7(】k , 合成纤维为大",
+    "source": "GB/T 38136-2019",
+    "category": "遮热性能"
+  },
+  {
+    "term": "按照国家政策导向分类",
+    "english": "",
+    "definition": "在国家政策导向中",
+    "source": "GB/T 38136-2019",
+    "category": "遮热性能"
+  },
+  {
+    "term": "右侧",
+    "english": "right side",
+    "definition": "R从车头 (3.3.2) 看 , 机器的有面 。注 : 机器右侧见图 1。",
+    "source": "GB/T 6002.17-2025",
+    "category": "纺织机械术语"
+  },
+  {
+    "term": "左侧",
+    "english": "left side",
+    "definition": "L从车头 (3.3.2) 看 , 机器的左面 。注 : 机器左侧见图 1。标引序号说明 :",
+    "source": "GB/T 6002.17-2025",
+    "category": "纺织机械术语"
+  },
+  {
+    "term": "操作高度",
+    "english": "operating height",
+    "definition": "仍地面到纱架顶排纱管中心的距离 。",
+    "source": "GB/T 6002.17-2025",
+    "category": "纺织机械术语"
+  },
+  {
+    "term": "纱架立柱",
+    "english": "package creel rod",
+    "definition": "于固定每节简子纱架的支撑构件 。注 : 纱架立柱见图 2。标引序号说明 :",
+    "source": "GB/T 6002.17-2025",
+    "category": "纺织机械术语"
+  },
+  {
+    "term": "支撑杆",
+    "english": "creel bow",
+    "definition": "与纱架立柱 (3.3.3.1) 相连的起支撑作用的杆件 。注 : 支撑杆见囹 2。",
+    "source": "GB/T 6002.17-2025",
+    "category": "纺织机械术语"
+  },
+  {
+    "term": "插纱钎",
+    "english": "creel pin",
+    "definition": "放置筒纱的固定杆或铰接杆 。注 : 插纱钎见图 2 。",
+    "source": "GB/T 6002.17-2025",
+    "category": "纺织机械术语"
+  },
+  {
+    "term": "导纱杆座",
+    "english": "deflection rod holder",
+    "definition": "导纱杆的支撑件 。注 : 导纱杆座见囹 2。",
+    "source": "GB/T 6002.17-2025",
+    "category": "纺织机械术语"
+  },
+  {
+    "term": "张力器",
+    "english": "thread brake",
+    "definition": "于调节纱线从简纱退绕到输送装置 (3.3.8) 段张力的部件 。注 : 张力器见囹 2。",
+    "source": "GB/T 6002.17-2025",
+    "category": "纺织机械术语"
+  },
+  {
+    "term": "径向退绕",
+    "english": "unrolling",
+    "definition": "待加掏的纱线以筒纱的切向方向退绕 。注 1: 包括积极式退绕和被动式退绕 。注 2: 积极式退绕是由动力驱动筒纱主动旋转的退绕方式 。注 3: 被动式退绕是由输送装置牵引纱线使筒纱被动旋转的退绕方式 。注 4: 径向退绕见囹 2。",
+    "source": "GB/T 6002.17-2025",
+    "category": "纺织机械术语"
+  },
+  {
+    "term": "车尾",
+    "english": "end section",
+    "definition": "与车头 (3.3.2) 相对的结构 , 含电机或不含电机 。注 : 车尾见图 1。",
+    "source": "GB/T 6002.17-2025",
+    "category": "纺织机械术语"
+  },
+  {
+    "term": "气圈环",
+    "english": "anti-balloon ring",
+    "definition": "于限制和引导纱线气圈的零件 。注 : 气圈环见图 3。标引序号说明 :",
+    "source": "GB/T 6002.17-2025",
+    "category": "纺织机械术语"
+  },
+  {
+    "term": "纱轴装置",
+    "english": "yarn beam stand",
+    "definition": "在机器上或机器外用于调节和支撑纱轴 (3.3.7.4) 用的组件 。",
+    "source": "GB/T 6002.17-2025",
+    "category": "纺织机械术语"
+  },
+  {
+    "term": "纱轴轴承",
+    "english": "yarn beam bearing",
+    "definition": "支撑纱轴 (3.3.7.4) 的轴承部件 。注 : 纱轴轴承见囹 4。",
+    "source": "GB/T 6002.17-2025",
+    "category": "纺织机械术语"
+  },
+  {
+    "term": "纱轴",
+    "english": "yarn beam",
+    "definition": "于卷绕纱线 , 含法兰部分或不含法兰部分的纱轴管 。注 : 纱轴见图 4。",
+    "source": "GB/T 6002.17-2025",
+    "category": "纺织机械术语"
+  },
+  {
+    "term": "纱轴制动器",
+    "english": "yarn beam brake",
+    "definition": "制动纱轴 (3.3.7.4) 的元件 。注 : 纱轴制动器见图 4。",
+    "source": "GB/T 6002.17-2025",
+    "category": "纺织机械术语"
+  },
+  {
+    "term": "输送装置",
+    "english": "delivery device",
+    "definition": "将筒纱或纱轴 (3.3.7.4) 上退绕的纱线 , 引出至环锭锭子 (3.3.12) 的一组罗拉构件 。注 : 输送装置见图 1。",
+    "source": "GB/T 6002.17-2025",
+    "category": "纺织机械术语"
+  },
+  {
+    "term": "托架",
+    "english": "guide arm",
+    "definition": "合定和支撑上罗拉 (3.3.8.4) 的支架 。注 : 托架见图 5 、 图 6 和图 9。",
+    "source": "GB/T 6002.17-2025",
+    "category": "纺织机械术语"
+  },
+  {
+    "term": "输送装置喂入端的导纱器",
+    "english": "thread guide at feed end of delivery device",
+    "definition": "口定不动或横向移动的带小孔的钩或辊 , 用于将筒纱或纱轴 (3.3.7.4) 上退绕的纱线引人输送装置(3.3.8) 。注 : 输送装置喂人端的导纱器见图 5 一图 7。标引序号说明 :",
+    "source": "GB/T 6002.17-2025",
+    "category": "纺织机械术语"
+  },
+  {
+    "term": "浸渍杆",
+    "english": "immersion rod",
+    "definition": "湿法加抛中使纱线通过果 (3.3.8.7) 中的水 , 固定或在每节内移动的长向零件 ( 或罗拉 ) 。注 : 浸渍杆见图 7 。",
+    "source": "GB/T 6002.17-2025",
+    "category": "纺织机械术语"
+  },
+  {
+    "term": "浸渍杆支架",
+    "english": "immersion rod holder",
+    "definition": "浸渍杆 (3.3.8.8) 的导杆 。注 : 浸渍杆支架见图 7。",
+    "source": "GB/T 6002.17-2025",
+    "category": "纺织机械术语"
+  },
+  {
+    "term": "绞盘罗拉",
+    "english": "godet",
+    "definition": "通过缠绕或牵引纱线的方式 , 单锭独立驱动的输出罗拉 (3.3.8.5) 部件 。注 : 绞盘罗拉见图 8。标引序号说明 ,",
+    "source": "GB/T 6002.17-2025",
+    "category": "纺织机械术语"
+  },
+  {
+    "term": "绞盘罗拉座",
+    "english": "godet support",
+    "definition": "绞盘罗拉 (3.3.8.10) 驱动部分的支撑件 。注 : 绞盘罗拉座见图 8。",
+    "source": "GB/T 6002.17-2025",
+    "category": "纺织机械术语"
+  },
+  {
+    "term": "探纱器",
+    "english": "yarn detector",
+    "definition": "安装于整机 、 每节或每锭上使输送装置和环锭锭子 (3.3.12) 在缺纱时报警或停止工作的组件 。注 : 探纱器见图 9。标引序号说明 :",
+    "source": "GB/T 6002.17-2025",
+    "category": "纺织机械术语"
+  },
+  {
+    "term": "前罗拉",
+    "english": "front delivery roller",
+    "definition": "具有多排输出罗拉 (3.3.8.5) 的输送装置的前排罗拉 。注 : 前罗拉见图 7 和图 10。标引序号说明 :",
+    "source": "GB/T 6002.17-2025",
+    "category": "纺织机械术语"
+  },
+  {
+    "term": "中车架",
+    "english": "auxiliary frame",
+    "definition": "于固定机器的每一节 , 为沿长度方向的各节部件间提供支撑的构件 。注 : 中车架见图 1。",
+    "source": "GB/T 6002.17-2025",
+    "category": "纺织机械术语"
+  },
+  {
+    "term": "钢领板组件",
+    "english": "ring rail assembly",
+    "definition": "于支撑钢领 (3.3.10.2) 并带动钢领升降运动的零部件组合 。",
+    "source": "GB/T 6002.17-2025",
+    "category": "纺织机械术语"
+  },
+  {
+    "term": "钢领板",
+    "english": "ring rail",
+    "definition": "钢领 (3.3.10.2) 的支撑件 。注 : 钢领板见图 1 和图 11。标引序号说明 :",
+    "source": "GB/T 6002.17-2025",
+    "category": "纺织机械术语"
+  },
+  {
+    "term": "钢领",
+    "english": "twisting ring",
+    "definition": "钢丝圈 (3.3.10.3) 的导辐 。注 1: 见 GB/TIT 36914.1 和 GB/T 36914.2。注 2: 钢领见图 11 。",
+    "source": "GB/T 6002.17-2025",
+    "category": "纺织机械术语"
+  },
+  {
+    "term": "钢领供油装置",
+    "english": "oil supply device for ring",
+    "definition": "给钢领提供润滑油的装置 。",
+    "source": "GB/T 6002.17-2025",
+    "category": "纺织机械术语"
+  },
+  {
+    "term": "隔纱板",
+    "english": "separator",
+    "definition": "分隔纱线气圈的板状组件 。注 : 隔纱板见图 11 。",
+    "source": "GB/T 6002.17-2025",
+    "category": "纺织机械术语"
+  },
+  {
+    "term": "锭轨",
+    "english": "spindle rail",
+    "definition": "环锭锭子 (3.3.12) 的支撑件 。注 : 锭轨见图 1。",
+    "source": "GB/T 6002.17-2025",
+    "category": "纺织机械术语"
+  },
+  {
+    "term": "环锭锭子",
+    "english": "ring spindle",
+    "definition": "于固定纱管并对纱线进行加掏和卷绕的旋转部件 。注 : 环锭锭子见图 1。",
+    "source": "GB/T 6002.17-2025",
+    "category": "纺织机械术语"
+  },
+  {
+    "term": "锭子传动装置",
+    "english": "spindle drive",
+    "definition": "驱动环锭锭子 (3.3.12) 的装置 。注 : 锭子传动装置见图 1。",
+    "source": "GB/T 6002.17-2025",
+    "category": "纺织机械术语"
+  },
+  {
+    "term": "锭距",
+    "english": "spindle gauge",
+    "definition": "两个相邻环锭锭子 (3.3.12) 的中心距 。注 1: 锭距见 GB/T 5459 的内容 。注 2: 锭距见图 1。",
+    "source": "GB/T 6002.17-2025",
+    "category": "纺织机械术语"
+  },
+  {
+    "term": "机梁",
+    "english": "cylinder support",
+    "definition": "输送装置 (3.3.8) 的支撑件 ( 如型钢 、 圆钢或钢管等 ) 。注 : 机梁见图 1。",
+    "source": "GB/T 6002.17-2025",
+    "category": "纺织机械术语"
+  }
+]

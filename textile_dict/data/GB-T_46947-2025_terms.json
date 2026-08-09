@@ -1,0 +1,485 @@
+[
+  {
+    "term": "棉花",
+    "english": "cotton",
+    "definition": "锦葵科棉属植物及其种子上纤维的统称 。注 : 包括籽棉 , 皮棉等 。[ 来源 :GB/T 32139 一 2015,2.1.1, 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "细绒棉",
+    "english": "upland cotton;medium cotton",
+    "definition": "从陆地棉栽培品种取得的棉纤维 (3.1.2 ) 。注 1: 陆地棉是四倍体栽培棉种之一 , 原产于中美洲墨西哥南部的高地及加勒比地区 。注 2: 一般手扯长度 23 mm 一 33 mm, 线密度 143 mtex 一 222 mtex。[ 来源 :NY/ 工 2673 一 2015,3.6 , 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "长绒棉",
+    "english": "sea island cotton;long staple cotton",
+    "definition": "从海岛棉栽培品种取得的棉纤维 (3.1.2 ) 。巳巳注 1: 海岛棉是四倍体栽培棉种之一 , 原产于南美洲中美洲和加勒比地区 。注 2: 一般手扯长度 33 mm 一 40 mm , 线密度小于 143 mtex。[ 来源 :NY/T 2673 一 2015 ,3.7 , 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "籽棉",
+    "english": "seed cotton",
+    "definition": "从棉铃中采摘的带籽棉花 。[ 来源 :GB/T 32139 一 2015 ,2.2.1, 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "锯齿棉",
+    "english": "saw ginned cotton",
+    "definition": "籽棉 (3.1.7) 经锯齿轧花工艺加工获得的皮棉 (3.1.8)。[ 来源 :GB 1103.1 一 2023,3.1, 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "锡齿加工细绒棉",
+    "english": "saw ginned upland cotton",
+    "definition": "娄棉 (3.1.7) 经锯齿轧花工艺加工获得的细绒棺 (3.1.3 ) 。[ 来源 :GB 1103.1 一 2023,3.1, 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "剥桃棉",
+    "english": "bolly cotton;snapped cotton",
+    "definition": "从非自然开裂的棉铃中剥取的棉花 (3.1.1)。",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "落地棉",
+    "english": "floor sweeping cotton",
+    "definition": "在机械采摘收购 . 成包 、 储运等过程中 , 落地沾污的棉花 (3.1.1)。[ 来源 :GB/T 32139 一 2015,2.1.11, 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "棉短绒",
+    "english": "cotton linter",
+    "definition": "棉籽绒从轧花后的毛棉籽上刮剥下来的棉纤维 (3.1.2 ) 。注 : 毛棉籽是籽棉经轧花工艺分离出的棉娄 , 着生少量棉纤维 。[ 来源 :GB/T 32139 一 2015,2.4.10 , 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "一类棉短绒",
+    "english": "first-cut linter",
+    "definition": "纤维手扯长度 (3.2.4.29) 为 13 mm 及以上的棉短绒 (3.1.20) 。[ 来源 :GB/T 32139 一 2015,2.4.11, 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "二类棉短绒",
+    "english": "second-cut linter",
+    "definition": "纤维手扯长度 (3.2.4.29) 为 13 mm 以下的棉短绒 (3.1.20) 。[ 来源 :GB/T 32139 一 2015,2.4.12 , 有修改 ]3.2 “ 检验3.2.1 “ 方法",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "感官检验",
+    "english": "sensory inspection",
+    "definition": "依据实物标准 , 应用感官对棉花品质进行检验的活动 。注 : 包括颜色级 、 品级和轧工质量等 ,",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "实验室样品",
+    "english": "laboratory sample",
+    "definition": "按规定从批样 (3.2.2.1) 中抽取的F 实验室检验的样品 。[ 来源 :GB/T 6097 一 2023,3.2 , 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "试验样品",
+    "english": "test sample",
+    "definition": "按规定从实验室样品 (3.2.2.2) 中抽取的用于试验的样品 。[ 来源 :GB/T 6097 一 2023,3.3 , 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "光谱功率分布",
+    "english": "spectral power distribution",
+    "definition": "光谱密集度与波长之间的丽数关系 。[ 来源 :GB/T 13786 一 2022 3.1]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "显色指数",
+    "english": "color rendering index",
+    "definition": "光源显色性的度量 。注 : 以被测光源下物体的颜色和参照光源下物体的颜色的相符程度来表示 。[ 来源 :GB/T 13786 一 2022 3.5 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "光照强度",
+    "english": "illumination",
+    "definition": "照度单位面积上所接受可见光的光通量 。注 : 单位为勒克斯 (Lx) 。[ 来源 :GB/T 13786 一 2022 ,3.7 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "平均照度",
+    "english": "average illuminantce",
+    "definition": "规定表面上各点照度的平均值 。[ 来源 :GB/T 13786 一 2022 3.8 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "照度均匀度",
+    "english": "uniformity ratio of illuminance",
+    "definition": "规定表面上的最小照度与平均照度之比 。[ 来源 :GB/T 13786 一 2022 3.9 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "颜色级",
+    "english": "color grade",
+    "definition": "锯齿加工细绒棉 (3.1.12) 颜色的类型和级别 。注 : 类型依据黄色深度确定 , 级别依据明暗程度确定 。[ 来源 :GB 1103.1 一 2023 ,3.2 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "反射率",
+    "english": "reflectance degree; Rd",
+    "definition": "棉花 (3.1.1) 样品反射光的明暗程度 。[ 来源 :GB/TT 20392 一 2023 ,3.1 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "黄色深度",
+    "english": "yellowness",
+    "definition": "黄度十 b棉花 (3.1.1) 样品黄色色调的深浅程度 。[ 来源 :GB/TT 20392 一 2023 ,3.2 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "黄染棉",
+    "english": "yellow stained cotton",
+    "definition": "整体泛黄的锯齿加工细绒棉 (3.1.12) 。",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "轧工质量",
+    "english": "preparation",
+    "definition": "籽棺 (3.1.7) 经过加工后 , 皮棺 (3.1.8) 外观形态粗糙程度和所含疵点的种类及数量 。[ 来源 :GB 1103.1 一 2023,3.4]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "破籽",
+    "english": "seed coat fragment",
+    "definition": "白积在 2 mm: 及以上 , 带有或不带有纤维的碎棉籽壳 。[ 来源 :GB/T 32139 一 2015,2.4.8, 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "索丝",
+    "english": "stringy cotton",
+    "definition": "相互纠缠且纵向难以扯开的条索状纤维柬 。[ 来源 :GB/T 32139 一 2015,2.3.31, 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "软籽表皮",
+    "english": "cuticle of immature cotton seed",
+    "definition": "未成熟棉籽上的表皮 。注 : 软濂呈黄褐色 , 一般带有底绒 。[ 来源 :GB/T 6103 一 2006,3.1.4, 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "僵片",
+    "english": "ginned dead cotton",
+    "definition": "从受到病虫害或未成熟的籽棉轧下的僵棉片 。[ 来源 :GB/T 6103 一 2006,3.1.5 , 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "带纤维籽层",
+    "english": "bearded motes",
+    "definition": "白积在 2 mm: 以下 , 带有纤维的硼籽屑 。[ 来源 :GB/T 6103 一 2006,3.1.6, 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "棉结",
+    "english": "nep",
+    "definition": "棉纤维 (3.1.2) 纠缠而成的结点 。注 : 因棉纤维不成熟或轧花工艺不良造成的 , 一般在染色后形成深色或浅色细点 。[ 来源 :GB/T 6103 一 2006,3.1.7 , 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "黄根",
+    "english": "tinged linter",
+    "definition": "于皮辊轧花工艺不良 , 混人皮棉 (3.1.8) 中棉籽上的黄褐色底绒 。[ 来源 :GB/T 6103 一 2006,3.1.8, 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "黄根率",
+    "english": "percentage of tinged linter mass",
+    "definition": "皮棉 (3.1.8) 试样中拣出的黄根 (3.2.4.23) 质量占试样质量的百分率 。[ 来源 :GB/T 6103 一 2006,3.6 , 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "单项疵点粒数",
+    "english": "number of single defect",
+    "definition": "100 g 皮棺 (3.1.8) 中所含单项疲点的粒数 。[ 来源 :GB/T 6103 一 2006,3.2 , 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "手扯长度",
+    "english": "pulling staple length",
+    "definition": "手扯尺量方法测得的棉纤维 (3.1.2) 长度 。注 1: 单位为毫米 (mm ) 。注 2: 采用棉花手扯长度实物标准进行校准 , 与上半部平均长度相一致 。[ 来源 :GB/T 19617 一 2007 ,3.2 , 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "品质长度",
+    "english": "quality length",
+    "definition": "棉纤维 (3.1.2) 长度分布中 , 主体长度 (3.2.4.30) 以上各组纤维的质量加权平均长度 (3.2.4.32) 。注 : 单仨为毫米 (mm) 。[ 来源 :GB/T 6098 一 2018,3.2 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "质量加权平均长度",
+    "english": "average length of mass",
+    "definition": "棉纤维 (3.1.2) 长度分布中 , 以各组纤维的质量加权得出的平均长度 。注 : 单仨为毫米 (mm) 。[ 来源 :GB/T 6098 一 2018,3.4 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "基数",
+    "english": "uniformity extent",
+    "definition": "纤维主体长度组及其相邻共 5 mm 长度范围内纤维质量占总质量的百分率 。注 : 用罗拉式分析仪测试时表示棉纤维长度整齐程度的指标 。[ 来源 :GB/T 6098 一 2018,3.5, 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "上半部平均长度",
+    "english": "upper half mean length",
+    "definition": "在照影曲线图中 , 从纤维数量 50 % 处作照影曲线的切线 , 切线与长度坐标轴交点所显示的长度值 。注 : 单仨为毫米 (mm) 。[ 来源 :GB/T 20392 一 2023 ,3.7 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "跨距长度",
+    "english": "span length",
+    "definition": "纤维照影仪长度曲线图中 , 跨越纤维相对根数百分率纤维的长度 , 纤维握持线处纤维相对根数为 100 % 。注 : 常用 2.5% 和 50 % 跨距长度表示 , 单位为毫米 (mm) 。[ 来源 :GB/ 工 35931 一 2018,3.3 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "长度整齐度指数",
+    "english": "uniformity index",
+    "definition": "平均长度 (3.2.4.35) 占上半部平均长度 (3.2.4.36) 的百分率 。[ 来源 :GB/T 20392 一 2023,3.8, 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "短纤维率",
+    "english": "short fiber content",
+    "definition": "棉纤维 (3.1.2) 中短于一定长度界限的纤维质量 ( 或根数 ) 占纤维总质量 ( 或根数 ) 的百分率 。注 : 细绒棉长度界限 16 mm, 长绒棉长度界限 20 mm 。[ 来源 :GB 1103.1 一 2023,3.5, 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "胞壁厚度",
+    "english": "wall thickness",
+    "definition": "棉纤维 (3.1.2) 转曲展平段的壁厚 。[ 来源 :GB/T 6099 一 2008,3.6 , 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "中腔宽度",
+    "english": "Iumen width",
+    "definition": "棉纤维 (3.1.2) 转曲展平段壁间的剩余空腔宽度 。[ 来源 :GB/T 6099 一 2008,3.7 , 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "胞壁增厚度",
+    "english": "degree of fiber wall thickening",
+    "definition": "胞壁的实际横截面积对具有相同周长的圆面积之比 。[ 来源 :GB/T 6099 一 2008,3.2 , 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "成熟纤维百分率",
+    "english": "percent maturity",
+    "definition": "成熟纤维根数占纤维总根数的百分率 。[ 来源 :GB/T 13777 一 2024,3.5 , 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "成熟系数",
+    "english": "mature coefficient",
+    "definition": "中腔宽度 (3.2.4.43 ) 与胞壁厚度 (3.2.4.42) 的比值定出的相应数值 。",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "死纤维",
+    "english": "dead fiber",
+    "definition": "棉纤维 (3.1.2) 经 18 % 氡氧化钠溶液处理膨胀后 , 胞壁厚度 (3.2.4.42 ) 小于或等于最大宽度的五分之一的纤维 。注 : 死纤维有各种形态 , 通常为无转曲扁平带状或转曲较多的带状 。[ 来源 :GB/T 13777 一 2024,3.2 , 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "薄壁纤维",
+    "english": "thin-walled fiber",
+    "definition": "棉纤维 (3.1.2) 经 18 % 氡氧化钠溶液处理膨胀后 , 不符合正常纤维 (3.2.4.49 ) 或死纤维 (3.2.4.48 ) 特征的纤维 。[ 来源 :GB/T 13777 一 2024,3.4, 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "未成熟纤维",
+    "english": "immature fiber",
+    "definition": "棉纤维 (3.1.2) 经 18 % 氡氧化钠溶液处理膨胀后 , 呈螺旋或扁平带状 , 胞壁极薄几乎呈透明轮廓的纤维 , 胞壁厚度 (3.2.4.42) 小于最大宽度的四分之一 。[ 来源 :GB/T 13777 一 2024,3.6 , 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "线密度",
+    "english": "linear density",
+    "definition": "棉纤维 (3.1.2) 单位长度的质量 。注 : 表征纤维粗细程度 , 单位为 mtex。[ 来源 :GB/T 6100 一 2007,3.1, 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "异性纤维",
+    "english": "foreign fiber",
+    "definition": "混人棉花 (3.1.1) 中的非棉纤维和非本色棉纤维 。注 : 包括化学纤维 、 毛发丝 、 麻 、 塑料膜 、 塑料绳 . 染色线 ( 绳 , 布块 ) 等 。[ 来源 :GB 1103.1 一 2023,3.10]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "成包皮棉异性纤维含量",
+    "english": "the content of foreign fiber of baled cotton",
+    "definition": "单位重量成包皮棉 (3.1.8) 中挑拣出的异性纤维 (3.2.4.54) 的重量 。注 : 单位为克每吨 (g/t) 。[ 来源 :GB 1103.1 一 2023,3.11 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "异性纤维含量",
+    "english": "content of foreign fiber",
+    "definition": "皮棺 (3.1.8) 试样中挑拣出的异性纤维 (3.2.4.54) 质量与试样质量之比 。注 : 单位为克每吨 (g/t) 。[ 来源 :GB/T 41690 一 2022 ,3.2 , 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "塑料膜类异性纤维含量",
+    "english": "content of plastic film foreign fiber",
+    "definition": "皮棉 (3.1.8) 试样中挑拣出的塑料膜异性纤维质量与试样质量之比 。注 : 单位为克每吨 (g/t) 。[ 来源 :GB/T 41690 一 2022 3.3, 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "其他类异性纤维含量",
+    "english": "content of other foreign fiber",
+    "definition": "除塑料膜之外 , 皮棉 (3.1.8) 试样中挑拣出的其他类异性纤维质量与试样质量之比 。注 : 单位为克每吨 (g/t) 。[ 来源 :GB/T 41690 一 2022,3.4, 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "异性纤维数量",
+    "english": "number of foreign fiber",
+    "definition": "皮棉 (3.1.8) 试样中挑拣出的异性纤维数量 。注 : 单仨为个 。[ 来源 :GB/T 41690 一 2022 3.5 , 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "危害性杂物",
+    "english": "dangerous foreign matters",
+    "definition": "混入棉花 (3.1.1) 中的硬杂物和软杂物 。注 : 包括金属 、 砚石及异性纤维等 。[ 来源 :GB 1103.1 一 2023 ,3.12 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "断裂伸长率",
+    "english": "breaking elongation",
+    "definition": "纤维李在断裂负荷最大值时的相应伸长占 3.2 mm 隔距长度的百分率 。[ 来源 :GB/TT 20392 一 2023 ,3.10 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "粘性",
+    "english": "stickiness",
+    "definition": "棉纤维 (3.1.2) 生长过程中沾染糖类物质 , 棉纤维之间或棉纤维与其他物体之间产生吸附的性质 。",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "籽棉衣分率",
+    "english": "lint percentage",
+    "definition": "从籽棉 (3.1.7) 上轧出的皮棉 (3.1.8) 质量占相应籽棉质量的百分率 。[ 来源 :GB/T 40628 一 2021,3.1, 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "净籽棉质量",
+    "english": "net seed cotton mass",
+    "definition": "排除土杂后的籽棉 (3.1.7) 质量 。注 : 土杂包括尘土 、 叶屑 、 棉杆 , 铃壳等 。[ 来源 :GB/T 40628 一 2021,3.3, 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "洛籽棉公定衣分率",
+    "english": "conditioned lint percentage of net seed cotton",
+    "definition": "从籽棉 (3.1.7) 上轧出的皮棉 (3.1.8) 公定重量 (3.2.5.16) 占相应净籽棉质量 (3.2.5.4) 的百分率 。[ 来源 :GB/T 40628 一 2021,3.5 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "毛重",
+    "english": "gross weight",
+    "definition": "棉花 (3.1.1) 及其包装物重量之和 。[ 来源 :GB 1103.1 一 2023,3.6]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "净重",
+    "english": "net weight",
+    "definition": "毛重 (3.2.5.7) 减去包装物重量后的重量 。[ 来源 :GB 1103.1 一 2023,3.7 , 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "烘干质量",
+    "english": "over-drying mass",
+    "definition": "试样在烘箱中烘至恒量 (3.2.5.12) 时的质量 。[ 来源 :GB/T 6102.1 一 2006,3.3 , 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "恒量",
+    "english": "constant mass",
+    "definition": "皮棉 (3.1.8) 烘验过程中间隔一定时间称量 , 当连续两次称量的差值小于后一次称量值的 0.05 X时 , 后一次的称见质量 。[ 来源 :GB/T 6102.1 一 2006,3.2 , 有修改 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "公定重量",
+    "english": "conditioned weight",
+    "definition": "洗重 (3.2.5.8) 按棉花 (3.1.1) 实际含杂率 (3.2.5.15) 和实际回潮率 (3.2.5.13) 折算成标准含杂率和公定回潮率后的重量 。[ 来源 :GB 1103.1 一 2023 ,3.8 ]",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "属性代码结构",
+    "english": "",
+    "definition": "按照 GB 1103.1 一 2023、GB 1103.2 一 2012、GB/TIT 1103.3 一 2024、GB/T 19635 一 2024 相关规定 , 棉纤维蒿性代玛采 12 位的特征组合码， 斓滩X3X4X…X6X7X8X9X…Xn兄2表示【)棉纤维属性编码结构 , 应符合图 1 的规定 。X X X X4 Xs Xe X Xs 又 9 Xlo 叉 L p颜色 “ 一一一采摘方式加工方式颜色级 / 品级轧工质量长度马克隆值断裂比强度长度整齐度指数短纤维率异性纤维图 1 棉纤维属性编码结构",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  },
+  {
+    "term": "七级一",
+    "english": "",
+    "definition": "注 1: 皮辊加工细绒棉品级分为七级 。注 2: 长绒棉品级分为 5 级 。",
+    "source": "GB/T 46947-2025",
+    "category": "可持续性术语"
+  }
+]

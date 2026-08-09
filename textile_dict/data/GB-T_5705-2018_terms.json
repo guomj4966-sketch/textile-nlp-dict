@@ -1,0 +1,443 @@
+[
+  {
+    "term": "废棉",
+    "english": "cotton waste",
+    "definition": "油花 \\ 地脚花以及落棉 、 回花 、 皮辊花 ( 吸风花 ) 绒辊花等的总称 。注 : 油花为沾有油污的棉花 ; 地脚花为掉落在地上沾有污渍的短绒和飞花 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "清梳落棉",
+    "english": "carded droppings",
+    "definition": "从开清棉机或梳棉机等分离出的纤维和杂质 。注 : 主要有统破籽 、 地弄花 、 车肚花 、 盖板花等 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "统破籽",
+    "english": "picker waste",
+    "definition": "清棉机尘格下的所有落棉 。注 : 含破籽 、 尘杂较多 。异纤分拣机喷出或人工挑拣出的含有非棉纤维的棉花 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "车肚花",
+    "english": "card waste",
+    "definition": "梳棉机车肚下的落棉 。注 : 从梳棉机后车肚刺辊部分落下的称后车肚花 , 从前车肚锡林部分落下的称前车肚花 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "精梳落棉",
+    "english": "combed droppings",
+    "definition": "经精梳机梳理过程中分离出来的短纤维和杂质 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "皮辊花",
+    "english": "roller lap waste",
+    "definition": "吸风花条子 、 粗纱或细纱断头后 , 由前罗拉和皮辊继续送出的 , 卷绕在上下皮辊或罗拉上 , 或由断头吸棉器所吸取的须条 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "绒辊花",
+    "english": "crow waste",
+    "definition": "绒板花梳棉 、 精梳 、 并条 , 粗纱 、 细纱机等绒辊或绒板上集附的短纤维 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "回丝",
+    "english": "thread waste",
+    "definition": "细纱 、 络筒 、 掂线等工序产生的纱线留头 . 废纱等的统称 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "清花棉卷",
+    "english": "blowing lap",
+    "definition": "原棉经开清棉机开松 、 混合去除大部分杂质后 , 凝聚成一定宽度和厚度的连续均匀棉层 , 再加压卷成的卷状物 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "棉条",
+    "english": "sliver",
+    "definition": "棉网经集束形成的 , 或经并条牵伸形成的条状物 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "精梳棉卷",
+    "english": "comber lap",
+    "definition": "棉条经过条并卷机并和 、 牵伸加工成一定宽度和厚度的连续均匀棉层 , 再经加压卷绕后形成的卷状物 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "精梳棉条",
+    "english": "combed sliver",
+    "definition": "经精梳机制成的棉条 , 其中纤维较伸直 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "粗纱",
+    "english": "roving",
+    "definition": "熟条经粗纱机牵伸加掏制成的具有一定线密度和掏度 , 并卷装成形供细纱工序使用的连续条状物 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "细纱",
+    "english": "spun yarn",
+    "definition": "粗纱经细纱机牵伸加掏制成的具有一定线密度和掏度 , 并卷装成形供掏线 、 机织或针织等使用的连续线状物 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "普梳棉纱",
+    "english": "carded cotton yarn",
+    "definition": "普梳纱经过清棺 、 梳棺 、 并条 . 粗纱 、 细纱等工序 , 但不经过精梳工序纺制的棉纱 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "半精梳棉纱",
+    "english": "semi-combed cotton yarn",
+    "definition": "将精梳条和生条进行并合 , 或以落棉较少的精梳棉条纺制的棉纱 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "弱捅纱",
+    "english": "soft twist yarn",
+    "definition": "与正常纱相比 , 掂度较小的纱 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "特细号纱",
+    "english": "extra-fine yarn",
+    "definition": "高支纱线密度在 10 tex 及以下 ( 纱支 60「 及以上 ) , 细度很细的纱 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "生的离心力使纤维在转杯周边赔聚槽",
+    "english": "",
+    "definition": "喷气涡流纺纱 “air-jet-vortex-spun yarn利用喷射气流形成的涡流场对纤维进行凝聚 、 加掏纺制的纱 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "竹节纱",
+    "english": "slub yarn;bunchy yarn",
+    "definition": "在单纱长度方向上呈不规则竹节式粗细节的花式纱 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "结子纱",
+    "english": "knot yarn",
+    "definition": "纱条表面间隔缠绕有许多大小不等小结子的花式纱 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "本色纱",
+    "english": "grey yarn",
+    "definition": "未经漂染 , 保持纤维原有色泽的纱 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "色纺纱",
+    "english": "colored spun yarn",
+    "definition": "纤维或条子染色后经纺纱工艺纺制的纱 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "漂白纱",
+    "english": "bleach yarn",
+    "definition": "本色纱经过漂白工艺加工而成的纱 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "段彩纱",
+    "english": "space dyed yarn",
+    "definition": "在长度方向上呈现不同色彩和色泽变化的纱线 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "烧毛纱",
+    "english": "singed yarn",
+    "definition": "将纱线通过高温火焰 , 瞬时间烧去纱线表面毛羽的纱 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "筒纱",
+    "english": "cone shaped yarn",
+    "definition": "筒子纱纱线的一种卷装形式 。注 : 按卷装形状分为圆柱形 、 圆锥形和其他形状筒子 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "绞纱",
+    "english": "skein;lea",
+    "definition": "缉纱把管纱或筒二纱在摇纱机上按规定圈数 、 长度 、hnl量卷绕成绞的纱 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "纯棉织物",
+    "english": "cotton fabric",
+    "definition": "以纯棉纱线为原料制造的机织物和针织物 。注 : 其中纯棉机织物又称棉布 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "纱织物",
+    "english": "single yarn fabric",
+    "definition": "以单纱织成的机织物 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "线织物",
+    "english": "thread fabric",
+    "definition": "以股线织成的机织物 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "混纺织物",
+    "english": "blended fabric; blended-spun-yarn fabric",
+    "definition": "以一种混纺纱线制成的织物 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "本色织物",
+    "english": "grey fabric",
+    "definition": "本色纱线织成 , 未经染整加工的织物 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "本光布",
+    "english": "nonmercerized fabric",
+    "definition": "经煮练 、 退浆 , 不经丝光工艺处理的织物 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "漂白织物",
+    "english": "bleached fabric",
+    "definition": "经烧毛 、 退浆 , 焯练 、 漂白等前处理工序 , 再经适当整理加工而成的织物 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "染色织物",
+    "english": "dyed fabric",
+    "definition": "经练漂等前处理工序 , 再进行染色及整理加工而成的织物 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "静电植绒织物",
+    "english": "flock printed fabric",
+    "definition": "利用静电在 , 将绒毛植人涂有粘合剂的织物表面 , 形成表面为绒毛层的有色织物或花纹图案织物 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "蓝印花布",
+    "english": "indigo blue printed fabric",
+    "definition": "靛蓝花布靛蓝防白印花工艺印制的蓝地 ( 底 ) 白花织物 。注 : 属民间传统印花织物 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "吹兰才二仨布",
+    "english": "burnt-out fabric",
+    "definition": "利用纤维的不同性能 , 经酸腐蚀烂花工艺处理 , 呈现透明与不透明 ( 或凹凸 ) 的两部分 , 形成凹凸囹案效果的织物 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "蜡染织物",
+    "english": "wax resist printed fabric",
+    "definition": "蜡防织物以蜡为防染剂进行印花 ( 称蜡染或涂蜡防染 ) 后形成色地白花织物 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "色织物",
+    "english": "yarn-dyed fabric",
+    "definition": "色织布亿染色纱或色纺纱织成的织物 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "玻璃纱",
+    "english": "voile",
+    "definition": "巴里纱亿掏度较大的特细号或细号纱作经纬织成的稀薄透明的平纹织物 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "斜纹织物",
+    "english": "twill fabric",
+    "definition": "采用斜纹组织织成的织物的统称 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "哗叽",
+    "english": "serge",
+    "definition": "采用二上二下斜纹组织织成的织物 。 经向紧度约为 55% 一 70 % , 经纬向紧度比约为 6: 5, 斜纹倾斜角接近 45“, 经纬密较接近 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "卡其",
+    "english": "khaki drill",
+    "definition": "采用斜纹组织织成的高紧度织物 。 经密及经向紧度较高 , 经纬向紧度比接近 2 : 1, 多经丝光工艺处理 。 采用三上一下斜纹组织的为单面卡 , 采用二上二下斜纹组织的为双面卡 , 采用斜纹变化组织中急斜纹组织的为缎纹卡 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "华达呢",
+    "english": "cotton gabardine",
+    "definition": "采用二上二下斜纹组织织成的织物 。 斜纹倾斜角约 60「“, 高经密 , 低纬密 , 经向紧度约为 75% 一95 % , 经纬向紧度比接近 2 : 1, 其总紧度和斜纹倾斜角介于唉叽与卡其之间 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "牛仔布",
+    "english": "denim",
+    "definition": "以较粗的纱线作经纬织成的斜纹布 。注 : 传统牛仔布的经纱为青蓝色 , 纬纱为本色或淡色 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "缎纹织物",
+    "english": "satin fabric",
+    "definition": "采用缎纹组织织成的织物的统称 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "贡缎",
+    "english": "satin drill",
+    "definition": "以中号或细号纱做经纬 , 采用缎纹组织织成的 , 具有较密经密或纬密 , 富有光泽的织物 。注 : 分为直贡和横贡 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "双层布",
+    "english": "double fabric",
+    "definition": "双层织物表 、 里两个系统的经纱和表 、 里两个系统的纬纱交织而成相互重叠的织物 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "灯芯绒",
+    "english": "corduroy",
+    "definition": "采用纬二重组织 , 经割绒整理 , 布面呈灯芯状凹凸绒条的织物 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "水洗布",
+    "english": "washer wrinkle fabric",
+    "definition": "采用印染整理加工后 , 具有水洗风格的织物 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "轧纹布",
+    "english": "embossing fabric",
+    "definition": "经印染整理加工后 , 布面呈现凹凸花纹的织物 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "提花织物",
+    "english": "jacquard fabric",
+    "definition": "利用提花机构织成具有花纹的织物 。注 : 分为小提花织物和大提花织物两大类 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "落杂率",
+    "english": "trash removal rate",
+    "definition": "经开清棉和梳棉工序分离出落棉中的杂质含量占喂人棉总量的百分率 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "棉结",
+    "english": "neps",
+    "definition": "纤维相互缠绕形成的小球粒 , 染色后在产品上呈现白星或色结 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "杂质",
+    "english": "trashes",
+    "definition": "纱线或织物中含有的籽脚 , 硼叶 、 碎枝杆 、 棉籽软皮 . 麻草 、 木",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "多股",
+    "english": "superfluous ply",
+    "definition": "股线中单纱根数多于规定根数 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "缺股",
+    "english": "deficient ply",
+    "definition": "股线中单纱根数少于规定根数 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "多捻",
+    "english": "superfluous twist",
+    "definition": "掏度高于规定范围的纱线疵点 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "在瑟壬芯",
+    "english": "broken core",
+    "definition": "包芯纱中的芯纱断裂 , 造成仅有包覆纤维而无芯纱的一段纱线 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "上浆率",
+    "english": "sizing percentage",
+    "definition": "纱线上浆前后的质量差值对上浆前纱线质量的百分比 。",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  },
+  {
+    "term": "退浆率",
+    "english": "desizing percentage",
+    "definition": "纱线或织物退浆前后的质量差值对其退浆前质量的百分比 。汉语拼音索引巴里纱包芯纱本光布本色织物层差粗支纱倒绒灯芯绒靛蓝花布缎纹织物帆布仿麂皮织物",
+    "source": "GB/T 5705-2018",
+    "category": "棉纤维术语"
+  }
+]

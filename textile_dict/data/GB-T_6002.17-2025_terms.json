@@ -1,0 +1,247 @@
+[
+  {
+    "term": "右侧",
+    "english": "right side",
+    "definition": "R从车头 (3.3.2) 看 , 机器的有面 。注 : 机器右侧见图 1。",
+    "source": "GB/T 6002.17-2025",
+    "category": "纺织机械术语"
+  },
+  {
+    "term": "左侧",
+    "english": "left side",
+    "definition": "L从车头 (3.3.2) 看 , 机器的左面 。注 : 机器左侧见图 1。标引序号说明 :",
+    "source": "GB/T 6002.17-2025",
+    "category": "纺织机械术语"
+  },
+  {
+    "term": "操作高度",
+    "english": "operating height",
+    "definition": "仍地面到纱架顶排纱管中心的距离 。",
+    "source": "GB/T 6002.17-2025",
+    "category": "纺织机械术语"
+  },
+  {
+    "term": "纱架立柱",
+    "english": "package creel rod",
+    "definition": "于固定每节简子纱架的支撑构件 。注 : 纱架立柱见图 2。标引序号说明 :",
+    "source": "GB/T 6002.17-2025",
+    "category": "纺织机械术语"
+  },
+  {
+    "term": "支撑杆",
+    "english": "creel bow",
+    "definition": "与纱架立柱 (3.3.3.1) 相连的起支撑作用的杆件 。注 : 支撑杆见囹 2。",
+    "source": "GB/T 6002.17-2025",
+    "category": "纺织机械术语"
+  },
+  {
+    "term": "插纱钎",
+    "english": "creel pin",
+    "definition": "放置筒纱的固定杆或铰接杆 。注 : 插纱钎见图 2 。",
+    "source": "GB/T 6002.17-2025",
+    "category": "纺织机械术语"
+  },
+  {
+    "term": "导纱杆座",
+    "english": "deflection rod holder",
+    "definition": "导纱杆的支撑件 。注 : 导纱杆座见囹 2。",
+    "source": "GB/T 6002.17-2025",
+    "category": "纺织机械术语"
+  },
+  {
+    "term": "张力器",
+    "english": "thread brake",
+    "definition": "于调节纱线从简纱退绕到输送装置 (3.3.8) 段张力的部件 。注 : 张力器见囹 2。",
+    "source": "GB/T 6002.17-2025",
+    "category": "纺织机械术语"
+  },
+  {
+    "term": "径向退绕",
+    "english": "unrolling",
+    "definition": "待加掏的纱线以筒纱的切向方向退绕 。注 1: 包括积极式退绕和被动式退绕 。注 2: 积极式退绕是由动力驱动筒纱主动旋转的退绕方式 。注 3: 被动式退绕是由输送装置牵引纱线使筒纱被动旋转的退绕方式 。注 4: 径向退绕见囹 2。",
+    "source": "GB/T 6002.17-2025",
+    "category": "纺织机械术语"
+  },
+  {
+    "term": "车尾",
+    "english": "end section",
+    "definition": "与车头 (3.3.2) 相对的结构 , 含电机或不含电机 。注 : 车尾见图 1。",
+    "source": "GB/T 6002.17-2025",
+    "category": "纺织机械术语"
+  },
+  {
+    "term": "气圈环",
+    "english": "anti-balloon ring",
+    "definition": "于限制和引导纱线气圈的零件 。注 : 气圈环见图 3。标引序号说明 :",
+    "source": "GB/T 6002.17-2025",
+    "category": "纺织机械术语"
+  },
+  {
+    "term": "纱轴装置",
+    "english": "yarn beam stand",
+    "definition": "在机器上或机器外用于调节和支撑纱轴 (3.3.7.4) 用的组件 。",
+    "source": "GB/T 6002.17-2025",
+    "category": "纺织机械术语"
+  },
+  {
+    "term": "纱轴轴承",
+    "english": "yarn beam bearing",
+    "definition": "支撑纱轴 (3.3.7.4) 的轴承部件 。注 : 纱轴轴承见囹 4。",
+    "source": "GB/T 6002.17-2025",
+    "category": "纺织机械术语"
+  },
+  {
+    "term": "纱轴",
+    "english": "yarn beam",
+    "definition": "于卷绕纱线 , 含法兰部分或不含法兰部分的纱轴管 。注 : 纱轴见图 4。",
+    "source": "GB/T 6002.17-2025",
+    "category": "纺织机械术语"
+  },
+  {
+    "term": "纱轴制动器",
+    "english": "yarn beam brake",
+    "definition": "制动纱轴 (3.3.7.4) 的元件 。注 : 纱轴制动器见图 4。",
+    "source": "GB/T 6002.17-2025",
+    "category": "纺织机械术语"
+  },
+  {
+    "term": "输送装置",
+    "english": "delivery device",
+    "definition": "将筒纱或纱轴 (3.3.7.4) 上退绕的纱线 , 引出至环锭锭子 (3.3.12) 的一组罗拉构件 。注 : 输送装置见图 1。",
+    "source": "GB/T 6002.17-2025",
+    "category": "纺织机械术语"
+  },
+  {
+    "term": "托架",
+    "english": "guide arm",
+    "definition": "合定和支撑上罗拉 (3.3.8.4) 的支架 。注 : 托架见图 5 、 图 6 和图 9。",
+    "source": "GB/T 6002.17-2025",
+    "category": "纺织机械术语"
+  },
+  {
+    "term": "输送装置喂入端的导纱器",
+    "english": "thread guide at feed end of delivery device",
+    "definition": "口定不动或横向移动的带小孔的钩或辊 , 用于将筒纱或纱轴 (3.3.7.4) 上退绕的纱线引人输送装置(3.3.8) 。注 : 输送装置喂人端的导纱器见图 5 一图 7。标引序号说明 :",
+    "source": "GB/T 6002.17-2025",
+    "category": "纺织机械术语"
+  },
+  {
+    "term": "浸渍杆",
+    "english": "immersion rod",
+    "definition": "湿法加抛中使纱线通过果 (3.3.8.7) 中的水 , 固定或在每节内移动的长向零件 ( 或罗拉 ) 。注 : 浸渍杆见图 7 。",
+    "source": "GB/T 6002.17-2025",
+    "category": "纺织机械术语"
+  },
+  {
+    "term": "浸渍杆支架",
+    "english": "immersion rod holder",
+    "definition": "浸渍杆 (3.3.8.8) 的导杆 。注 : 浸渍杆支架见图 7。",
+    "source": "GB/T 6002.17-2025",
+    "category": "纺织机械术语"
+  },
+  {
+    "term": "绞盘罗拉",
+    "english": "godet",
+    "definition": "通过缠绕或牵引纱线的方式 , 单锭独立驱动的输出罗拉 (3.3.8.5) 部件 。注 : 绞盘罗拉见图 8。标引序号说明 ,",
+    "source": "GB/T 6002.17-2025",
+    "category": "纺织机械术语"
+  },
+  {
+    "term": "绞盘罗拉座",
+    "english": "godet support",
+    "definition": "绞盘罗拉 (3.3.8.10) 驱动部分的支撑件 。注 : 绞盘罗拉座见图 8。",
+    "source": "GB/T 6002.17-2025",
+    "category": "纺织机械术语"
+  },
+  {
+    "term": "探纱器",
+    "english": "yarn detector",
+    "definition": "安装于整机 、 每节或每锭上使输送装置和环锭锭子 (3.3.12) 在缺纱时报警或停止工作的组件 。注 : 探纱器见图 9。标引序号说明 :",
+    "source": "GB/T 6002.17-2025",
+    "category": "纺织机械术语"
+  },
+  {
+    "term": "前罗拉",
+    "english": "front delivery roller",
+    "definition": "具有多排输出罗拉 (3.3.8.5) 的输送装置的前排罗拉 。注 : 前罗拉见图 7 和图 10。标引序号说明 :",
+    "source": "GB/T 6002.17-2025",
+    "category": "纺织机械术语"
+  },
+  {
+    "term": "中车架",
+    "english": "auxiliary frame",
+    "definition": "于固定机器的每一节 , 为沿长度方向的各节部件间提供支撑的构件 。注 : 中车架见图 1。",
+    "source": "GB/T 6002.17-2025",
+    "category": "纺织机械术语"
+  },
+  {
+    "term": "钢领板组件",
+    "english": "ring rail assembly",
+    "definition": "于支撑钢领 (3.3.10.2) 并带动钢领升降运动的零部件组合 。",
+    "source": "GB/T 6002.17-2025",
+    "category": "纺织机械术语"
+  },
+  {
+    "term": "钢领板",
+    "english": "ring rail",
+    "definition": "钢领 (3.3.10.2) 的支撑件 。注 : 钢领板见图 1 和图 11。标引序号说明 :",
+    "source": "GB/T 6002.17-2025",
+    "category": "纺织机械术语"
+  },
+  {
+    "term": "钢领",
+    "english": "twisting ring",
+    "definition": "钢丝圈 (3.3.10.3) 的导辐 。注 1: 见 GB/TIT 36914.1 和 GB/T 36914.2。注 2: 钢领见图 11 。",
+    "source": "GB/T 6002.17-2025",
+    "category": "纺织机械术语"
+  },
+  {
+    "term": "钢领供油装置",
+    "english": "oil supply device for ring",
+    "definition": "给钢领提供润滑油的装置 。",
+    "source": "GB/T 6002.17-2025",
+    "category": "纺织机械术语"
+  },
+  {
+    "term": "隔纱板",
+    "english": "separator",
+    "definition": "分隔纱线气圈的板状组件 。注 : 隔纱板见图 11 。",
+    "source": "GB/T 6002.17-2025",
+    "category": "纺织机械术语"
+  },
+  {
+    "term": "锭轨",
+    "english": "spindle rail",
+    "definition": "环锭锭子 (3.3.12) 的支撑件 。注 : 锭轨见图 1。",
+    "source": "GB/T 6002.17-2025",
+    "category": "纺织机械术语"
+  },
+  {
+    "term": "环锭锭子",
+    "english": "ring spindle",
+    "definition": "于固定纱管并对纱线进行加掏和卷绕的旋转部件 。注 : 环锭锭子见图 1。",
+    "source": "GB/T 6002.17-2025",
+    "category": "纺织机械术语"
+  },
+  {
+    "term": "锭子传动装置",
+    "english": "spindle drive",
+    "definition": "驱动环锭锭子 (3.3.12) 的装置 。注 : 锭子传动装置见图 1。",
+    "source": "GB/T 6002.17-2025",
+    "category": "纺织机械术语"
+  },
+  {
+    "term": "锭距",
+    "english": "spindle gauge",
+    "definition": "两个相邻环锭锭子 (3.3.12) 的中心距 。注 1: 锭距见 GB/T 5459 的内容 。注 2: 锭距见图 1。",
+    "source": "GB/T 6002.17-2025",
+    "category": "纺织机械术语"
+  },
+  {
+    "term": "机梁",
+    "english": "cylinder support",
+    "definition": "输送装置 (3.3.8) 的支撑件 ( 如型钢 、 圆钢或钢管等 ) 。注 : 机梁见图 1。",
+    "source": "GB/T 6002.17-2025",
+    "category": "纺织机械术语"
+  }
+]

@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+/build/
+*.egg
+
+# IDE
+.vscode/
+.idea/
+
+# OCR intermediate artifacts (large PNG files — NOT committed)
+tools/build/data/ocr_results/*.png
+tools/build/data/ocr_results/*.txt
+!tools/build/
+!tools/build/*.py
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.bak
